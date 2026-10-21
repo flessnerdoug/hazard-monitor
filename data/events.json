@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-21T01:36:41Z",
+ "generated": "2026-10-21T01:47:12Z",
  "sources": {
   "USGS": {
    "ok": true,
-   "count": 22
+   "count": 23
   },
   "NWS": {
    "ok": true,
@@ -193,17 +193,6 @@
    "url": "https://forecast.weather.gov/MapClick.php?lat=66.102&lon=-166.6367"
   },
   {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.9f939c35620fa9e374d3ae925408d616ea1b0ff9.006.1",
-   "source": "NWS",
-   "category": "Winter Weather",
-   "title": "Winter Storm Watch: South Slopes of the Western Brooks Range; Noatak Valley",
-   "lat": 67.6024,
-   "lon": -157.0602,
-   "time": "2026-10-20T22:37:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=67.6024&lon=-157.0602"
-  },
-  {
    "id": "NWS:urn:oid:2.49.0.1.840.0.9f939c35620fa9e374d3ae925408d616ea1b0ff9.005.1",
    "source": "NWS",
    "category": "Winter Weather",
@@ -213,6 +202,17 @@
    "time": "2026-10-20T22:37:00Z",
    "severity": 2,
    "url": "https://forecast.weather.gov/MapClick.php?lat=66.7006&lon=-157.0331"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.9f939c35620fa9e374d3ae925408d616ea1b0ff9.006.1",
+   "source": "NWS",
+   "category": "Winter Weather",
+   "title": "Winter Storm Watch: South Slopes of the Western Brooks Range; Noatak Valley",
+   "lat": 67.6024,
+   "lon": -157.0602,
+   "time": "2026-10-20T22:37:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=67.6024&lon=-157.0602"
   },
   {
    "id": "NWS:urn:oid:2.49.0.1.840.0.8c0f94e25ab56536c92e194702904d6b7d97e56a.001.1",
@@ -554,6 +554,17 @@
    "time": "2026-10-21T01:20:02Z",
    "severity": 1,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rr"
+  },
+  {
+   "id": "USGS:us6000u3rn",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.5 earthquake, 2 km N of Honchō, Japan",
+   "lat": 35.7245,
+   "lon": 139.9836,
+   "time": "2026-10-21T01:04:29Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn"
   },
   {
    "id": "USGS:us6000u3r3",
