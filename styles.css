@@ -1,0 +1,263 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #f4f5f7;
+  --panel: #ffffff;
+  --ink: #1b1f24;
+  --muted: #5f6b7a;
+  --line: #e2e5ea;
+  --accent: #1f3a5f;
+  --sev-1: #64748b;
+  --sev-2: #d97706;
+  --sev-3: #dc2626;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+}
+
+/* ---- header ---- */
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 0.85rem 1.25rem;
+  background: var(--accent);
+  color: #fff;
+}
+
+.brand h1 {
+  font-size: 1.25rem;
+  letter-spacing: 0.01em;
+}
+
+.brand p {
+  font-size: 0.8rem;
+  opacity: 0.8;
+}
+
+.controls {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 0.85rem;
+}
+
+.controls select,
+.controls input {
+  font: inherit;
+  padding: 0.4rem 0.6rem;
+  border: none;
+  border-radius: 6px;
+  margin-left: 0.35rem;
+}
+
+.controls input {
+  width: 14rem;
+  max-width: 100%;
+}
+
+.warning {
+  background: #fef3c7;
+  color: #78350f;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.85rem;
+}
+
+/* ---- category chips ---- */
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0.75rem 1.25rem;
+  background: var(--panel);
+  border-bottom: 1px solid var(--line);
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font: inherit;
+  font-size: 0.8rem;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.chip[aria-pressed="false"] {
+  opacity: 0.4;
+}
+
+.chip .n {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.dot {
+  width: 0.65rem;
+  height: 0.65rem;
+  border-radius: 50%;
+  flex: none;
+}
+
+/* ---- layout ---- */
+
+.layout {
+  flex: 1;
+  display: grid;
+  grid-template-columns: minmax(320px, 420px) 1fr;
+  min-height: 0;
+}
+
+.feed {
+  overflow-y: auto;
+  background: var(--panel);
+  border-right: 1px solid var(--line);
+}
+
+.count {
+  font-size: 0.8rem;
+  color: var(--muted);
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid var(--line);
+  position: sticky;
+  top: 0;
+  background: var(--panel);
+}
+
+#headlines {
+  list-style: none;
+}
+
+#headlines li {
+  display: flex;
+  gap: 0.65rem;
+  padding: 0.7rem 1rem;
+  border-bottom: 1px solid var(--line);
+  cursor: pointer;
+}
+
+#headlines li:hover,
+#headlines li.active {
+  background: #eef2f7;
+}
+
+#headlines li > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+#headlines .dot {
+  margin-top: 0.3rem;
+}
+
+.headline {
+  font-size: 0.9rem;
+  line-height: 1.35;
+  font-weight: 500;
+}
+
+.meta {
+  margin-top: 0.25rem;
+  font-size: 0.75rem;
+  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.meta a {
+  color: var(--accent);
+}
+
+.sev {
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.05rem 0.4rem;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.sev-1 { background: var(--sev-1); }
+.sev-2 { background: var(--sev-2); }
+.sev-3 { background: var(--sev-3); }
+
+.empty {
+  padding: 2rem 1rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+#map {
+  min-height: 300px;
+}
+
+.leaflet-popup-content {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+.popup-title {
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+footer {
+  font-size: 0.75rem;
+  color: var(--muted);
+  padding: 0.5rem 1.25rem;
+  background: var(--panel);
+  border-top: 1px solid var(--line);
+}
+
+code {
+  background: #eef0f3;
+  padding: 0.05rem 0.3rem;
+  border-radius: 4px;
+}
+
+/* ---- narrow screens: map on top, feed below ---- */
+
+@media (max-width: 760px) {
+  body {
+    height: auto;
+  }
+
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  #map {
+    order: -1;
+    height: 50vh;
+  }
+
+  .feed {
+    border-right: none;
+    overflow: visible;
+  }
+}

@@ -1,0 +1,669 @@
+{
+ "generated": "2026-10-20T03:40:48Z",
+ "sources": {
+  "USGS": {
+   "ok": true,
+   "count": 31
+  },
+  "NWS": {
+   "ok": true,
+   "count": 11
+  },
+  "NOAA SPC": {
+   "ok": true,
+   "count": 4
+  },
+  "NHC": {
+   "ok": true,
+   "count": 1
+  },
+  "NASA EONET": {
+   "ok": true,
+   "count": 11
+  },
+  "GDACS": {
+   "ok": true,
+   "count": 3
+  }
+ },
+ "events": [
+  {
+   "id": "GDACS:TC1001338",
+   "source": "GDACS",
+   "category": "Tropical Cyclone",
+   "title": "Tropical Cyclone CHAMPI-26, Guam, Northern Mariana Islands, Japan",
+   "lat": 15.9,
+   "lon": 135.6,
+   "time": "2026-10-20T00:00:00Z",
+   "severity": 3,
+   "url": "https://www.gdacs.org/report.aspx?eventid=1001338&episodeid=23&eventtype=TC"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.b1ba3ab2e6f7d3f3240799f5b8b6d789625898eb.001.1",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Flood Warning: Brantley, GA",
+   "lat": 31.215,
+   "lon": -81.87,
+   "time": "2026-10-20T01:46:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=31.215&lon=-81.87"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.8944d0486c60629f43c570c623ffecd303459fe1.001.1",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Flood Warning: Lake, FL; Volusia, FL",
+   "lat": 29.215,
+   "lon": -81.555,
+   "time": "2026-10-20T01:33:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=29.215&lon=-81.555"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.2cb56f37c32b9df99c139b8d3c79008077f8d264.001.3",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Coastal Flood Warning: Hatteras Island",
+   "lat": 35.4823,
+   "lon": -75.6124,
+   "time": "2026-10-20T00:24:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=35.4823&lon=-75.6124"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.2cb56f37c32b9df99c139b8d3c79008077f8d264.002.3",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Coastal Flood Warning: Ocracoke Island",
+   "lat": 35.1304,
+   "lon": -75.8887,
+   "time": "2026-10-20T00:24:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=35.1304&lon=-75.8887"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.bd966519e3b6f707f8613eafa727faf5b8bc5e93.001.1",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Flood Watch: Cape Fairweather to Lisianski Strait",
+   "lat": 58.3689,
+   "lon": -136.9437,
+   "time": "2026-10-19T23:22:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=58.3689&lon=-136.9437"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.bd966519e3b6f707f8613eafa727faf5b8bc5e93.002.1",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Flood Watch: City and Borough of Yakutat; Glacier Bay; City and Borough of Juneau",
+   "lat": 59.6655,
+   "lon": -140.6966,
+   "time": "2026-10-19T23:22:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=59.6655&lon=-140.6966"
+  },
+  {
+   "id": "NOAA SPC:2026-10-19-wind-3",
+   "source": "NOAA SPC",
+   "category": "Severe Storm",
+   "title": "Damaging wind (77 mph) reported near 3 NNE Rodeo, Hidalgo County, NM",
+   "lat": 31.87,
+   "lon": -109.02,
+   "time": "2026-10-19T22:40:00Z",
+   "severity": 2,
+   "url": "https://www.spc.noaa.gov/climo/reports/today.html"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.a1fc850ca5d2ef577a6d7cd08f4158af4723319e.003.1",
+   "source": "NWS",
+   "category": "Winter Weather",
+   "title": "Winter Storm Warning: Fortymile Country; Upper Tanana Valley; Delta Junction",
+   "lat": 64.415,
+   "lon": -143.6221,
+   "time": "2026-10-19T18:08:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=64.415&lon=-143.6221"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.a1fc850ca5d2ef577a6d7cd08f4158af4723319e.002.1",
+   "source": "NWS",
+   "category": "Winter Weather",
+   "title": "Winter Storm Warning: Eastern Alaska Range North of Trims Camp; Eastern Alaska Range South of Trims Camp",
+   "lat": 63.8136,
+   "lon": -145.3849,
+   "time": "2026-10-19T18:08:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=63.8136&lon=-145.3849"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.a1fc850ca5d2ef577a6d7cd08f4158af4723319e.004.1",
+   "source": "NWS",
+   "category": "Winter Weather",
+   "title": "Winter Storm Warning: Yukon Flats; White Mountains and High Terrain South of the Yukon River; Upper Chena River Valley",
+   "lat": 66.4168,
+   "lon": -145.2762,
+   "time": "2026-10-19T18:08:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=66.4168&lon=-145.2762"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.a1fc850ca5d2ef577a6d7cd08f4158af4723319e.001.2",
+   "source": "NWS",
+   "category": "Winter Weather",
+   "title": "Winter Storm Warning: Tanana Flats; Eielson AFB and Salcha; Two Rivers",
+   "lat": 64.5171,
+   "lon": -147.4421,
+   "time": "2026-10-19T18:08:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=64.5171&lon=-147.4421"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.d713d7beae227be88ab31f00e1d5b3d7c1d962ce.003.1",
+   "source": "NWS",
+   "category": "Severe Storm",
+   "title": "Storm Warning: Gulf of Alaska Offshore South of 57N North of 55N and West of 144W",
+   "lat": 56.0268,
+   "lon": -149.074,
+   "time": "2026-10-19T12:02:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=56.0268&lon=-149.074"
+  },
+  {
+   "id": "USGS:us6000u3bc",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M6.0 earthquake, 186 km NW of Port-Olry, Vanuatu",
+   "lat": -14.0533,
+   "lon": 165.6761,
+   "time": "2026-10-19T07:49:04Z",
+   "severity": 2,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
+  },
+  {
+   "id": "NASA EONET:EONET_25340",
+   "source": "NASA EONET",
+   "category": "Tropical Cyclone",
+   "title": "Tropical Cyclone Wati",
+   "lat": -20.7,
+   "lon": -156.8,
+   "time": "2026-10-19T06:00:00Z",
+   "severity": 2,
+   "url": "https://www.metoc.navy.mil/jtwc/products/sh0127.tcw"
+  },
+  {
+   "id": "GDACS:DR1018332",
+   "source": "GDACS",
+   "category": "Drought",
+   "title": "Drought in Austria, Bosnia  and  Herzegovina, Belgium, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Norway, Poland, Romania, Serbia, Russia, Sweden, Slovenia, Slovakia, San Marino, Ukraine, , Austria, Bosnia & Herzegovina, Belgium, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Norway, Poland, Romania, Serbia, Russia, Sweden, Slovenia, Slovakia, San Marino, Ukraine, ",
+   "lat": 48.764,
+   "lon": 13.696,
+   "time": "2026-10-17T00:00:00Z",
+   "severity": 2,
+   "url": "https://www.gdacs.org/report.aspx?eventid=1018332&episodeid=24&eventtype=DR"
+  },
+  {
+   "id": "GDACS:TC1001335",
+   "source": "GDACS",
+   "category": "Tropical Cyclone",
+   "title": "Tropical Cyclone SIMON-26, México",
+   "lat": 21.5,
+   "lon": -110.3,
+   "time": "2026-10-16T21:00:00Z",
+   "severity": 2,
+   "url": "https://www.gdacs.org/report.aspx?eventid=1001335&episodeid=38&eventtype=TC"
+  },
+  {
+   "id": "NHC:ep212026",
+   "source": "NHC",
+   "category": "Tropical Cyclone",
+   "title": "Potential Tropical Cyclone Trudy: 35 mph winds, 1005 mb",
+   "lat": 19.5,
+   "lon": -108,
+   "time": "2026-10-20T03:00:00Z",
+   "severity": 1,
+   "url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml"
+  },
+  {
+   "id": "USGS:us6000u3jd",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.0 earthquake, Pagan region, Northern Mariana Islands",
+   "lat": 18.2529,
+   "lon": 146.0345,
+   "time": "2026-10-20T02:54:15Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd"
+  },
+  {
+   "id": "USGS:us6000u3j5",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.5 earthquake, 156 km SE of Kuqa, China",
+   "lat": 40.6375,
+   "lon": 84.1295,
+   "time": "2026-10-20T00:56:32Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5"
+  },
+  {
+   "id": "USGS:us6000u3j1",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.0 earthquake, 205 km NW of Port-Olry, Vanuatu",
+   "lat": -13.9476,
+   "lon": 165.5285,
+   "time": "2026-10-20T00:38:28Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1"
+  },
+  {
+   "id": "NOAA SPC:2026-10-19-hail-6",
+   "source": "NOAA SPC",
+   "category": "Severe Storm",
+   "title": "1.25\" hail reported near 1 W Deming, Luna County, NM",
+   "lat": 32.26,
+   "lon": -107.76,
+   "time": "2026-10-20T00:10:00Z",
+   "severity": 1,
+   "url": "https://www.spc.noaa.gov/climo/reports/today.html"
+  },
+  {
+   "id": "USGS:us6000u3ic",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.9 earthquake, 52 km S of Kokopo, Papua New Guinea",
+   "lat": -4.8147,
+   "lon": 152.1972,
+   "time": "2026-10-19T22:42:47Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ic"
+  },
+  {
+   "id": "NOAA SPC:2026-10-19-wind-2",
+   "source": "NOAA SPC",
+   "category": "Severe Storm",
+   "title": "Damaging wind reported near 5 N Rodeo, Hidalgo County, NM",
+   "lat": 31.91,
+   "lon": -109.04,
+   "time": "2026-10-19T22:35:00Z",
+   "severity": 1,
+   "url": "https://www.spc.noaa.gov/climo/reports/today.html"
+  },
+  {
+   "id": "NOAA SPC:2026-10-19-hail-5",
+   "source": "NOAA SPC",
+   "category": "Severe Storm",
+   "title": "1.25\" hail reported near 18 N Pirtleville, Cochise County, AZ",
+   "lat": 31.62,
+   "lon": -109.62,
+   "time": "2026-10-19T21:57:00Z",
+   "severity": 1,
+   "url": "https://www.spc.noaa.gov/climo/reports/today.html"
+  },
+  {
+   "id": "USGS:us6000u3i2",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.5 earthquake, Kuril Islands",
+   "lat": 48.4485,
+   "lon": 153.6468,
+   "time": "2026-10-19T21:43:36Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3i2"
+  },
+  {
+   "id": "USGS:us6000u3ge",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.7 earthquake, 203 km WNW of Port-Olry, Vanuatu",
+   "lat": -14.0266,
+   "lon": 165.4974,
+   "time": "2026-10-19T18:55:37Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge"
+  },
+  {
+   "id": "USGS:us6000u3ga",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.7 earthquake, 198 km NW of Port-Olry, Vanuatu",
+   "lat": -14.0371,
+   "lon": 165.5508,
+   "time": "2026-10-19T18:52:36Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
+  },
+  {
+   "id": "USGS:us6000u3g6",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.8 earthquake, 88 km WNW of Hihifo, Tonga",
+   "lat": -15.6727,
+   "lon": -174.5697,
+   "time": "2026-10-19T18:27:46Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3g6"
+  },
+  {
+   "id": "USGS:us6000u3ft",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.1 earthquake, South Sandwich Islands region",
+   "lat": -56.3542,
+   "lon": -27.0851,
+   "time": "2026-10-19T17:45:50Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ft"
+  },
+  {
+   "id": "USGS:us6000u3db",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.6 earthquake, south of the Fiji Islands",
+   "lat": -23.5497,
+   "lon": 179.8713,
+   "time": "2026-10-19T16:13:53Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3db"
+  },
+  {
+   "id": "USGS:us6000u3d2",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.9 earthquake, 77 km WSW of Murghob, Tajikistan",
+   "lat": 37.838,
+   "lon": 73.1842,
+   "time": "2026-10-19T15:35:36Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3d2"
+  },
+  {
+   "id": "USGS:us6000u3cu",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.6 earthquake, 5 km E of San José El Ídolo, Guatemala",
+   "lat": 14.4536,
+   "lon": -91.373,
+   "time": "2026-10-19T14:47:45Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3cu"
+  },
+  {
+   "id": "USGS:us6000u3ct",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.3 earthquake, 116 km WNW of Höfn, Iceland",
+   "lat": 64.5774,
+   "lon": -17.5136,
+   "time": "2026-10-19T14:44:24Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ct"
+  },
+  {
+   "id": "USGS:us6000u3ch",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.8 earthquake, 56 km N of Ruteng, Indonesia",
+   "lat": -8.1042,
+   "lon": 120.378,
+   "time": "2026-10-19T12:06:01Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch"
+  },
+  {
+   "id": "USGS:us6000u3ce",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.8 earthquake, 212 km WNW of Port-Olry, Vanuatu",
+   "lat": -13.9927,
+   "lon": 165.419,
+   "time": "2026-10-19T11:52:37Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ce"
+  },
+  {
+   "id": "USGS:us6000u3c7",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.0 earthquake, 31 km NW of Jiangyou, China",
+   "lat": 31.948,
+   "lon": 104.4577,
+   "time": "2026-10-19T10:57:08Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7"
+  },
+  {
+   "id": "USGS:us6000u3c6",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.4 earthquake, 196 km NW of Port-Olry, Vanuatu",
+   "lat": -14.0378,
+   "lon": 165.5687,
+   "time": "2026-10-19T10:40:21Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6"
+  },
+  {
+   "id": "USGS:us6000u3c5",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.7 earthquake, 53 km NNE of Labuan Bajo, Indonesia",
+   "lat": -8.0866,
+   "lon": 120.1454,
+   "time": "2026-10-19T10:10:56Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c5"
+  },
+  {
+   "id": "USGS:us6000u3c1",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.9 earthquake, 54 km NE of Labuan Bajo, Indonesia",
+   "lat": -8.1064,
+   "lon": 120.1872,
+   "time": "2026-10-19T09:45:56Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c1"
+  },
+  {
+   "id": "USGS:us6000u3bz",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.9 earthquake, 115 km NNW of Sola, Vanuatu",
+   "lat": -12.9533,
+   "lon": 167.046,
+   "time": "2026-10-19T09:25:14Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bz"
+  },
+  {
+   "id": "USGS:us6000u3bv",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.7 earthquake, 163 km WNW of Tobelo, Indonesia",
+   "lat": 2.4339,
+   "lon": 126.7168,
+   "time": "2026-10-19T09:00:39Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bv"
+  },
+  {
+   "id": "USGS:us6000u3bu",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.9 earthquake, 202 km NW of Port-Olry, Vanuatu",
+   "lat": -13.9561,
+   "lon": 165.5558,
+   "time": "2026-10-19T08:54:18Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bu"
+  },
+  {
+   "id": "USGS:us6000u3bs",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.5 earthquake, 2 km W of Lunca Jariștei, Romania",
+   "lat": 45.481,
+   "lon": 26.2168,
+   "time": "2026-10-19T08:51:57Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bs"
+  },
+  {
+   "id": "USGS:us6000u3bk",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.2 earthquake, 211 km WNW of Port-Olry, Vanuatu",
+   "lat": -14.155,
+   "lon": 165.3343,
+   "time": "2026-10-19T08:21:47Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bk"
+  },
+  {
+   "id": "USGS:us6000u3bi",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.4 earthquake, 184 km WNW of Port-Olry, Vanuatu",
+   "lat": -14.1387,
+   "lon": 165.6383,
+   "time": "2026-10-19T08:12:38Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi"
+  },
+  {
+   "id": "USGS:us6000u3be",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.3 earthquake, 188 km NW of Port-Olry, Vanuatu",
+   "lat": -13.9824,
+   "lon": 165.6995,
+   "time": "2026-10-19T07:55:36Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3be"
+  },
+  {
+   "id": "USGS:us6000u3b8",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.9 earthquake, 203 km WNW of Port-Olry, Vanuatu",
+   "lat": -14.042,
+   "lon": 165.4874,
+   "time": "2026-10-19T07:20:52Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3b8"
+  },
+  {
+   "id": "USGS:us6000u3b4",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.9 earthquake, 218 km WNW of Port-Olry, Vanuatu",
+   "lat": -13.9517,
+   "lon": 165.384,
+   "time": "2026-10-19T07:00:02Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3b4"
+  },
+  {
+   "id": "USGS:us6000u3ar",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.5 earthquake, Banda Sea",
+   "lat": -6.3365,
+   "lon": 129.9289,
+   "time": "2026-10-19T06:15:13Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ar"
+  },
+  {
+   "id": "USGS:us6000u3a8",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.9 earthquake, 68 km WSW of San Juan del Sur, Nicaragua",
+   "lat": 11.1229,
+   "lon": -86.4815,
+   "time": "2026-10-19T05:18:36Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3a8"
+  },
+  {
+   "id": "NASA EONET:EONET_6320",
+   "source": "NASA EONET",
+   "category": "Other",
+   "title": "Iceberg A81",
+   "lat": -55.07,
+   "lon": -38.8,
+   "time": "2026-10-15T00:00:00Z",
+   "severity": 1,
+   "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+  },
+  {
+   "id": "NASA EONET:EONET_6424",
+   "source": "NASA EONET",
+   "category": "Other",
+   "title": "Iceberg D33B",
+   "lat": -56.98,
+   "lon": -46.05,
+   "time": "2026-10-15T00:00:00Z",
+   "severity": 1,
+   "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+  },
+  {
+   "id": "NASA EONET:EONET_6474",
+   "source": "NASA EONET",
+   "category": "Other",
+   "title": "Iceberg D35",
+   "lat": -60.14,
+   "lon": -43.77,
+   "time": "2026-10-15T00:00:00Z",
+   "severity": 1,
+   "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+  },
+  {
+   "id": "NASA EONET:EONET_6523",
+   "source": "NASA EONET",
+   "category": "Other",
+   "title": "Iceberg A83",
+   "lat": -60.29,
+   "lon": -49.65,
+   "time": "2026-10-15T00:00:00Z",
+   "severity": 1,
+   "url": "https://earthobservatory.nasa.gov/images/152848/antarctic-ice-shelf-spawns-iceberg-a-83"
+  },
+  {
+   "id": "NASA EONET:EONET_12716",
+   "source": "NASA EONET",
+   "category": "Other",
+   "title": "Iceberg A85",
+   "lat": -58.41,
+   "lon": -50.23,
+   "time": "2026-10-15T00:00:00Z",
+   "severity": 1,
+   "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+  },
+  {
+   "id": "NASA EONET:EONET_25310",
+   "source": "NASA EONET",
+   "category": "Wildfire",
+   "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+   "lat": 35.0167,
+   "lon": -111.65,
+   "time": "2026-10-14T10:42:00Z",
+   "severity": 1,
+   "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001566"
+  },
+  {
+   "id": "NASA EONET:EONET_25311",
+   "source": "NASA EONET",
+   "category": "Wildfire",
+   "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+   "lat": 44.0258,
+   "lon": -118.7664,
+   "time": "2026-10-13T10:24:00Z",
+   "severity": 1,
+   "url": "https://irwin.doi.gov/observer/incidents/2026-ORMAF-002746"
+  }
+ ]
+}

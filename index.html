@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hazard Monitor</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>Hazard Monitor</h1>
+      <p id="updated">Loading…</p>
+    </div>
+    <div class="controls">
+      <label>
+        Severity
+        <select id="severity">
+          <option value="1">All</option>
+          <option value="2">Elevated &amp; extreme</option>
+          <option value="3">Extreme only</option>
+        </select>
+      </label>
+      <input id="search" type="search" placeholder="Search headlines…" aria-label="Search headlines">
+    </div>
+  </header>
+
+  <div id="source-warning" class="warning" hidden></div>
+
+  <nav id="categories" class="chips" aria-label="Filter by hazard type"></nav>
+
+  <main class="layout">
+    <section class="feed" aria-label="Headlines">
+      <p id="count" class="count"></p>
+      <ol id="headlines"></ol>
+    </section>
+    <div id="map" aria-label="Map of hazards"></div>
+  </main>
+
+  <footer>
+    Data: USGS · NOAA/NWS · NOAA SPC · NOAA NHC · NASA EONET · GDACS. Headlines link to the original source.
+    Refreshed daily by <code>fetch_data.py</code>.
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="data/events.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
