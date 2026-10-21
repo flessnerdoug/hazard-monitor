@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-21T01:32:40Z",
+ "generated": "2026-10-21T01:36:41Z",
  "sources": {
   "USGS": {
    "ok": true,
-   "count": 21
+   "count": 22
   },
   "NWS": {
    "ok": true,
@@ -543,6 +543,17 @@
    "time": "2026-10-19T06:00:00Z",
    "severity": 2,
    "url": "https://www.metoc.navy.mil/jtwc/products/sh0127.tcw"
+  },
+  {
+   "id": "USGS:us6000u3rr",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.0 earthquake, south of Panama",
+   "lat": 4.5985,
+   "lon": -82.7031,
+   "time": "2026-10-21T01:20:02Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rr"
   },
   {
    "id": "USGS:us6000u3r3",
