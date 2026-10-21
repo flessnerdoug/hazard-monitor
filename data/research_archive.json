@@ -1,6 +1,130 @@
 {
  "items": [
   {
+   "id": "c67463dd2b47",
+   "title": "UN projections say world is losing ground in fight to curb climate change, faulting US a bit",
+   "url": "https://phys.org/news/2026-10-world-ground-curb-climate-faulting.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T15:20:25Z",
+   "summary": "Losing more ground in the fight against climate change, humanity is heading for a hotter world than experts projected last year—and the United States is a big reason for that, a new United Nations report says.",
+   "topics": [],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
+   "id": "ea5fe1652a05",
+   "title": "How climate change, new technology are shaping the future of extremes in peak power demands",
+   "url": "https://phys.org/news/2026-10-climate-technology-future-extremes-peak.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T14:40:14Z",
+   "summary": "New research led by the University of Michigan provides utilities and policymakers with forecasts that can help them better prepare for future extremes in peak energy demand in the United States.",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
+   "id": "6a5545d3dd0f",
+   "title": "AI reveals how a warming climate will intensify NZ's most extreme downpours",
+   "url": "https://phys.org/news/2026-10-ai-reveals-climate-nz-extreme.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T13:00:25Z",
+   "summary": "The most damaging weather events are the record-breaking \"one-in-100-year\" disasters communities have usually only seen once.",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
+   "id": "fa87cf3ee66a",
+   "title": "Tackling Lake Erie's algal blooms requires targeted conservation strategies",
+   "url": "https://phys.org/news/2026-10-tackling-lake-erie-algal-blooms.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T12:40:01Z",
+   "summary": "Anyone living along the coast of Lake Erie will be well aware of the periodic algal blooms that appear on its surface. The greenish blooms can cause rashes and other health problems and pose risks to both humans and animals.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
+   "id": "6d6608a18314",
+   "title": "A train was delayed by a solar storm. But something didn't add up.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-10-21T12:35:57Z",
+   "summary": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841.",
+   "topics": [],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
+   "id": "2cc165bbf65d",
+   "title": "Smart planning of outdoor sports tournaments using environmental heat measurements",
+   "url": "https://phys.org/news/2026-10-smart-outdoor-sports-tournaments-environmental.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T11:40:04Z",
+   "summary": "Rising temperatures caused by climate change are making it harder to organize outdoor sports events safely. Exercising in the heat lowers performance and raises the risk of heatstroke, which is a leading cause of nontraumatic death among professional athletes.",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
+   "id": "54ff4ff8cfc2",
+   "title": "Revealed: Expensive gas behind ‘nearly 90%’ of rise in UK electricity bills",
+   "url": "https://www.carbonbrief.org/revealed-expensive-gas-behind-nearly-90-of-rise-in-uk-electricity-bills",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-10-21T11:37:55Z",
+   "summary": "A surge in wholesale costs driven by expensive gas is responsible for nearly 90% of the rise in UK household… The post Revealed: Expensive gas behind ‘nearly 90%’ of rise in UK electricity bills appeared first on Carbon Brief .",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
+   "id": "92ad157ac3e1",
+   "title": "California restoration project turns sinking farmland into wetlands",
+   "url": "https://yaleclimateconnections.org/2026/10/california-restoration-project-turns-sinking-farmland-into-wetlands/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-21T10:59:00Z",
+   "summary": "The Nature Conservancy is flooding portions of a delta island to slow land subsidence and create habitat for wildlife.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
+   "id": "c2daf2d48c9d",
+   "title": "UNEP: Opportunity has ‘been lost’ to meet 1.5C warming limit without ‘overshoot’",
+   "url": "https://www.carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-10-21T05:00:00Z",
+   "summary": "A temporary breach of the 1.5C global-warming limit is now “inevitable” following “decades of insufficient climate action”, says the UN… The post UNEP: Opportunity has ‘been lost’ to meet 1.5C warming limit without ‘overshoot’ appeared first on Carbon Brief .",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
+   "id": "fe101e0ff9da",
+   "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-10-21T04:08:28Z",
+   "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago.",
+   "topics": [],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
    "id": "98fd82804a60",
    "title": "Where El Niño may impact California coastal areas this winter",
    "url": "https://phys.org/news/2026-10-el-nio-impact-california-coastal.html",
@@ -294,6 +418,31 @@
    "summary": "The climate system displays a seasonal cycle not only in its mean state, but also in predictability and variance. In particular, month-dependent autocorrelation functions (ACFs) reveal seasonal variations in persistence and are used routinely to characterize such phenomena as the spring…",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "38a648b71a1b",
+   "title": "Net Carbon Transfer From Ocean to Land During the Last Deglaciation Synchronous With Sea Level Rise and Lagging Atmospheric CO2 by Several Millennia",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123828?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-20T10:50:44Z",
+   "summary": "",
+   "topics": [
+    "Oceans & Sea Level",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-21T15:48:10Z"
+  },
+  {
+   "id": "7ab72f71e970",
+   "title": "Millennial‐Scale Climate States Alter Atlantic Multidecadal Variability Mechanisms in a Climate Model",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123473?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-20T10:10:46Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T15:48:10Z"
   },
   {
    "id": "4beb6064b9c6",
@@ -3908,6 +4057,17 @@
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "fa53f8bb2cb3",
+   "title": "Cover 3",
+   "url": "https://doi.org/10.1175/bams_1055_cover3",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-09-01T15:18:32Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T15:48:10Z"
   },
   {
    "id": "eb44f442a901",
