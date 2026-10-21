@@ -32,6 +32,9 @@ jobs:
       - name: Fetch hazard headlines
         run: python fetch_data.py
 
+      - name: Fetch weather & climate research
+        run: python fetch_research.py
+
       # Keeping the data in git preserves the NWS zone cache and the
       # last-known headlines used when a source is down.
       - name: Commit refreshed data

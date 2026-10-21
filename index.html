@@ -11,40 +11,97 @@
   <header class="topbar">
     <div class="brand">
       <h1>Hazard Monitor</h1>
-      <p id="updated">Loading…</p>
+      <p>Hazards, weather &amp; climate research, refreshed every morning</p>
     </div>
-    <div class="controls">
-      <label>
-        Severity
-        <select id="severity">
-          <option value="1">All</option>
-          <option value="2">Elevated &amp; extreme</option>
-          <option value="3">Extreme only</option>
-        </select>
-      </label>
-      <input id="search" type="search" placeholder="Search headlines…" aria-label="Search headlines">
-    </div>
+    <nav class="tabs" role="tablist">
+      <a href="#hazards" role="tab" id="tab-btn-hazards">Hazards</a>
+      <a href="#research" role="tab" id="tab-btn-research">Research &amp; Trends</a>
+    </nav>
   </header>
 
-  <div id="source-warning" class="warning" hidden></div>
+  <!-- ===================== Hazards tab ===================== -->
+  <div id="tab-hazards" class="tab-panel" role="tabpanel">
+    <div class="toolbar">
+      <p id="updated" class="updated">Loading…</p>
+      <div class="controls">
+        <label>
+          Severity
+          <select id="severity">
+            <option value="1">All</option>
+            <option value="2">Elevated &amp; extreme</option>
+            <option value="3">Extreme only</option>
+          </select>
+        </label>
+        <input id="search" type="search" placeholder="Search headlines…" aria-label="Search headlines">
+      </div>
+    </div>
 
-  <nav id="categories" class="chips" aria-label="Filter by hazard type"></nav>
+    <div id="source-warning" class="warning" hidden></div>
 
-  <main class="layout">
-    <section class="feed" aria-label="Headlines">
-      <p id="count" class="count"></p>
-      <ol id="headlines"></ol>
-    </section>
-    <div id="map" aria-label="Map of hazards"></div>
-  </main>
+    <nav id="categories" class="chips" aria-label="Filter by hazard type"></nav>
+
+    <main class="layout">
+      <section class="feed" aria-label="Headlines">
+        <p id="count" class="count"></p>
+        <ol id="headlines"></ol>
+      </section>
+      <div id="map" aria-label="Map of hazards"></div>
+    </main>
+  </div>
+
+  <!-- ===================== Research tab ===================== -->
+  <div id="tab-research" class="tab-panel research" role="tabpanel" hidden>
+    <div class="research-inner">
+      <section class="briefing">
+        <div class="section-head">
+          <h2 id="briefing-title">Morning briefing</h2>
+          <p id="r-updated" class="updated"></p>
+        </div>
+        <ol id="briefing" class="briefing-list"></ol>
+      </section>
+
+      <div class="research-grid">
+        <section class="trends" aria-labelledby="trends-title">
+          <div class="section-head">
+            <h2 id="trends-title">What's being studied</h2>
+            <p class="updated">Stories &amp; papers per topic, last 7 days</p>
+          </div>
+          <ol id="topics" class="topic-bars"></ol>
+          <p id="trend-note" class="note"></p>
+        </section>
+
+        <section class="reading" aria-labelledby="reading-title">
+          <div class="section-head">
+            <h2 id="reading-title">Recent reading</h2>
+            <p id="r-count" class="updated"></p>
+          </div>
+          <div class="reading-controls">
+            <div class="segmented" role="group" aria-label="Type">
+              <button data-kind="news" aria-pressed="true">News &amp; explainers</button>
+              <button data-kind="research" aria-pressed="false">New papers</button>
+              <button data-kind="all" aria-pressed="false">All</button>
+            </div>
+            <select id="r-topic" aria-label="Topic">
+              <option value="">All topics</option>
+            </select>
+            <input id="r-search" type="search" placeholder="Search…" aria-label="Search reading list">
+          </div>
+          <ol id="reading" class="reading-list"></ol>
+        </section>
+      </div>
+    </div>
+  </div>
 
   <footer>
-    Data: USGS · NOAA/NWS · NOAA SPC · NOAA NHC · NASA EONET · GDACS. Headlines link to the original source.
-    Refreshed daily by <code>fetch_data.py</code>.
+    Hazards: USGS · NOAA/NWS · NOAA SPC · NOAA NHC · NASA EONET · GDACS.
+    Research: ScienceDaily · Phys.org · Carbon Brief · Yale Climate Connections · NOAA · Nature Climate Change · GRL · WCD · AMS journals.
+    Every item links to its original source.
   </footer>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="data/events.js"></script>
+  <script src="data/research.js"></script>
   <script src="script.js"></script>
+  <script src="reading.js"></script>
 </body>
 </html>

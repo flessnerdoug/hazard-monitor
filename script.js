@@ -170,3 +170,18 @@ if (!data) {
     render();
   });
 }
+
+// ---- tabs (#hazards / #research) ----
+
+function showTab() {
+  const active = location.hash === "#research" ? "research" : "hazards";
+  for (const name of ["hazards", "research"]) {
+    document.getElementById(`tab-${name}`).hidden = name !== active;
+    document.getElementById(`tab-btn-${name}`).setAttribute("aria-selected", String(name === active));
+  }
+  // Leaflet can't measure a hidden map; re-measure when it becomes visible.
+  if (active === "hazards") map.invalidateSize();
+}
+
+window.addEventListener("hashchange", showTab);
+showTab();
