@@ -1,6 +1,362 @@
 {
  "items": [
   {
+   "id": "d144b3193f92",
+   "title": "World-first basic income trial boosts Indigenous livelihoods and Amazon rainforest protection",
+   "url": "https://phys.org/news/2026-10-world-basic-income-trial-boosts.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T15:30:07Z",
+   "summary": "A pilot project in which Indigenous people in the Peruvian Amazon were given an unconditional basic income significantly improved community well-being, strengthened food security and supported rainforest protection, according to analysis by the University of Bath released today.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "9c9236b465cf",
+   "title": "Isolated Northern Hemisphere Cooling in an Idealized Model Promotes Ocean Carbon Storage and Glacial-like Ocean Features",
+   "url": "https://doi.org/10.1175/jcli-d-25-0355.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-10-22T12:36:36Z",
+   "summary": "Earth’s past glacial cycles are paced by orbital insolation changes, but internal climate feedbacks modulating atmospheric carbon dioxide (CO 2 ) are necessary to explain the full magnitude of glacial–interglacial climate variability.",
+   "topics": [
+    "Oceans & Sea Level",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "69d41320941d",
+   "title": "The REDSAW Project Innovations in Quantifying Atmospheric Effects on Electromagnetic Wave Propagation in Stable Boundary Layers",
+   "url": "https://doi.org/10.1175/bams-d-25-0028.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-10-22T12:00:04Z",
+   "summary": "The Radar and Electromagnetic Wave Ducting in the Stable Atmosphere over Water (REDSAW) project aims to quantify refractivity conditions in stable boundary layers and their impacts on electromagnetic (EM) wave propagation, with particular emphasis on warm, dry air advection over water.",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "72ee00e17c59",
+   "title": "NNJA—a curated archive of Earth system observations from 1970s to present for reanalysis and data-driven model development",
+   "url": "https://doi.org/10.1175/bams-d-25-0157.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-10-22T12:00:04Z",
+   "summary": "The NOAA-NASA Joint Archive (NNJA pronounced like the word ninja) is a publicly accessible, curated collection of Earth system observations spanning 1979 to present, created to accelerate reanalysis production, support development of artificial intelligence (AI) applications, and enable access to…",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "d01b97976106",
+   "title": "En el oeste de Puerto Rico, residentes sordos se informan del clima extremo en la comunidad",
+   "url": "https://yaleclimateconnections.org/2026/10/en-el-oeste-de-puerto-rico-residentes-sordos-se-informan-del-clima-extremo-en-la-comunidad/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-22T11:00:00Z",
+   "summary": "Hay unas 200,000 personas sordas viviendo en el archipiélago",
+   "topics": [],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "56a4a43f0015",
+   "title": "Washington State’s new cooling law protects farm workers. But do they know about it?",
+   "url": "https://yaleclimateconnections.org/2026/10/washington-states-new-cooling-law-protects-farm-workers-but-do-they-know-about-it/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-22T11:00:00Z",
+   "summary": "As extreme heat intensifies in the Pacific Northwest, the state has expanded protections for renters who want to air-condition their homes.",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "cec7c31e83b4",
+   "title": "An asthma diagnosis led him to document Detroit’s air pollution",
+   "url": "https://yaleclimateconnections.org/2026/10/an-asthma-diagnosis-led-him-to-document-detroits-air-pollution/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-22T10:59:00Z",
+   "summary": "Darren Riley learned that pollution from an oil refinery, industrial facilities, and heavy truck traffic could be affecting his community’s health.",
+   "topics": [
+    "Air Quality",
+    "Health & Society"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "c5e2d7de1397",
+   "title": "Experts: How are climate scientists using artificial intelligence?",
+   "url": "https://www.carbonbrief.org/experts-how-are-climate-scientists-using-artificial-intelligence",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-10-22T10:45:03Z",
+   "summary": "Artificial intelligence (AI) is developing at a rapid pace and is increasingly being used by scientists to better understand climate… The post Experts: How are climate scientists using artificial intelligence? appeared first on Carbon Brief .",
+   "topics": [
+    "Forecasting & AI",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "199abd7191da",
+   "title": "Seasonal Variations of the Martian Middle‐Atmosphere CO2/Ar Ratio Inferred From MAVEN/NGIMS Observations",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124362?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-22T09:10:24Z",
+   "summary": "",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "f13f036ceae8",
+   "title": "India capital steps up air pollution controls ahead of winter",
+   "url": "https://phys.org/news/2026-10-india-capital-air-pollution-winter.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T09:10:02Z",
+   "summary": "India began annual measures on Thursday to tackle toxic air pollution in New Delhi, a megacity of 30 million people regularly ranked among the world's most polluted capitals.",
+   "topics": [
+    "Air Quality"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "8d70cbfc12a6",
+   "title": "US is a big reason for the world losing ground in the fight against climate change, UN report says",
+   "url": "https://phys.org/news/2026-10-big-world-ground-climate.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T08:50:01Z",
+   "summary": "Losing more ground in the fight against climate change, humanity is heading for a hotter world than experts projected last year—and the United States is a big reason for that, a new United Nations report says.",
+   "topics": [],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "a0a3b4a5e35c",
+   "title": "Acoustic‐Seismic Coupling Signals From Aircraft Reveal Firn‐Ice Transition and Near‐Surface Elastic Structure of Antarctic Ice",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123670?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-22T08:44:00Z",
+   "summary": "",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "e63c2cceadf3",
+   "title": "Taiwan issues warnings as Typhoon Champi nears",
+   "url": "https://phys.org/news/2026-10-taiwan-issues-typhoon-champi-nears.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T08:38:06Z",
+   "summary": "A powerful typhoon headed toward Taiwan on Thursday, triggering the cancellation of dozens of flights and prompting warnings for locals to prepare for heavy rain, strong winds and giant waves.",
+   "topics": [
+    "Hurricanes & Tropical",
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "576ef3575b92",
+   "title": "How 39 young people experience climate education in a rapidly changing world",
+   "url": "https://phys.org/news/2026-10-young-people-climate-rapidly-world.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T01:40:01Z",
+   "summary": "Ecological grief is growing—and our current approach to climate change education isn't keeping pace.",
+   "topics": [],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "004db241b9b5",
+   "title": "A rock plunged 90 kilometers into Earth and revealed something unexpected",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261020084816.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-10-22T01:35:57Z",
+   "summary": "Scientists discovered a rock in Papua New Guinea that plunged more than 90 kilometers beneath Earth's surface, revealing a bizarre temperature pattern that challenges established theories of Earth's interior.",
+   "topics": [],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "4fed418f7004",
+   "title": "Data vital in holding militaries accountable for the environmental toll of war",
+   "url": "https://phys.org/news/2026-10-vital-militaries-accountable-environmental-toll.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T22:30:06Z",
+   "summary": "Ahead of the U.N. Climate Change Conference (COP31) meeting in Antalya, Turkiye, held in Nov. 2026, an expert writing in The BMJ's climate issue argues that accurate data on greenhouse gas emissions during armed conflict is urgently needed to hold militaries, governments and individuals accountable…",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "e820c56ceba4",
+   "title": "Rising military spending could worsen climate change and undermine security, experts warn",
+   "url": "https://phys.org/news/2026-10-military-worsen-climate-undermine-experts.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T22:30:01Z",
+   "summary": "Investing more in the military is not a solution to climate change and may cost us our security, warn experts in The BMJ's climate issue.",
+   "topics": [],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "e5b87ed84908",
+   "title": "Study finds air quality warnings had only a modest impact on Montrealers' movements during wildfires",
+   "url": "https://phys.org/news/2026-10-air-quality-modest-impact-montrealers.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T22:00:11Z",
+   "summary": "When Environment and Climate Change Canada (ECCC) urged Montrealers to limit outdoor activity during Canada's worst wildfire smoke episodes, the city's travel patterns shifted—but far less than public health officials might have hoped, according to a new McGill University study published in Health…",
+   "topics": [
+    "Wildfire & Smoke",
+    "Air Quality",
+    "Health & Society"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "cad35cce096a",
+   "title": "How a massive ice shelf buttressed the last ice age's glaciers—and what it could mean for Antarctica today",
+   "url": "https://phys.org/news/2026-10-massive-ice-shelf-buttressed-age.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T21:20:08Z",
+   "summary": "About 20,000 years ago, an enormous, floating ice shelf more than a mile (1.6 kilometers) thick helped lock in three of the largest ice sheets in northern Canada and Greenland.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "001e84cf06fc",
+   "title": "El Niño is threatening California's fragile coast again—the 1982–83 El Niño opened eyes to the serious erosion risks",
+   "url": "https://phys.org/news/2026-10-el-nio-threatening-california-fragile.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T21:00:07Z",
+   "summary": "California's coastal bluffs and beaches look rugged, but they can be surprisingly fragile in the face of a powerful El Niño.",
+   "topics": [
+    "Oceans & Sea Level",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "0bbe82a7f8b7",
+   "title": "Salt marshes are proving to be powerful allies in building a climate-resilient coastline",
+   "url": "https://phys.org/news/2026-10-salt-marshes-powerful-allies-climate.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T20:40:01Z",
+   "summary": "Salt marsh sediment and vegetation can remain largely intact even during extreme storm surges. This was demonstrated in a large-scale experiment in which researchers transported sections of salt marsh to an experimental facility capable of producing the world's largest artificial waves.",
+   "topics": [],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "d261a883007a",
+   "title": "Reconstructing 16,000 years of summer temperature change in the Western Balkans",
+   "url": "https://phys.org/news/2026-10-reconstructing-years-summer-temperature-western.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T20:30:02Z",
+   "summary": "Researchers at Eötvös Loránd University (ELTE) have reconstructed approximately 16,000 years of summer temperature changes from sediments collected at Lake Prokoško in Bosnia and Herzegovina.",
+   "topics": [],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "56bba0df28a3",
+   "title": "Subsidence claims: After drought, ground can shrink, swell or even collapse when it rains—causing damage to homes",
+   "url": "https://phys.org/news/2026-10-subsidence-drought-ground-collapse-homes.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T19:20:16Z",
+   "summary": "A crack appears beside a window after weeks of scorching weather. As much as you might hope the ground beneath your house will recover with the first rain, the effects of a dry summer can continue long after temperatures fall.",
+   "topics": [
+    "Drought & Water"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "283a3c95f876",
+   "title": "Methane emissions in Baltimore show seasonal, daily trends",
+   "url": "https://phys.org/news/2026-10-methane-emissions-baltimore-seasonal-daily.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T17:20:17Z",
+   "summary": "Natural gas leaks are a significant source of methane emissions in cities, but it can be hard to pinpoint exactly where and why they happen.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "f82cf008008d",
+   "title": "Observing Methane Emissions From Oil and Gas Infrastructure in the Permian Basin Using TROPOMI",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124412?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-21T16:35:55Z",
+   "summary": "",
+   "topics": [
+    "Emissions & Policy",
+    "Health & Society"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "fc3a586385ea",
+   "title": "How life on Earth experiences climate change",
+   "url": "https://phys.org/news/2026-10-life-earth-climate.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-21T16:20:23Z",
+   "summary": "Climate change can look very different at the scale of a forest, field or hillside. A new review shows how changes in vegetation and atmospheric conditions can cause local microclimates to warm at very different rates from the regional climate—and why this matters for understanding how biodiversity…",
+   "topics": [],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "ecd73debac0d",
+   "title": "Pan-Tropical Sea Surface Temperature Modulation of Boreal Summer Asian–Australian Monsoon Interannual Variability and Its Seasonal Predictability",
+   "url": "https://doi.org/10.1175/jcli-d-25-0466.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-10-21T15:29:40Z",
+   "summary": "The boreal summer Asian–Australian monsoon (BSAAM) comprises several regional subsystems traditionally studied in isolation. This study provides a holistic perspective on the BSAAM and its modulation by pan-tropical sea surface temperature anomalies (SSTAs).",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
+   "id": "d5c6a358d78b",
+   "title": "Pangu-Weather underestimates the 2019 European summer heatwave: A storyline comparison with ICON",
+   "url": "https://doi.org/10.1175/jcli-d-26-0093.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-10-21T15:29:40Z",
+   "summary": "Although it has been demonstrated that data-driven models can outperform physical models in simulating mean states, their capabilities to simulate extremes and their generalizability across climate scenarios remain questionable.",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-10-22T15:47:06Z"
+  },
+  {
    "id": "c67463dd2b47",
    "title": "UN projections say world is losing ground in fight to curb climate change, faulting US a bit",
    "url": "https://phys.org/news/2026-10-world-ground-curb-climate-faulting.html",
@@ -197,17 +553,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T21:28:08Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "f642fda1f506",
    "title": "Tofu is the winner. Scientist creates new holistic scoring system to measure the impact of food",
    "url": "https://phys.org/news/2026-10-tofu-winner-scientist-holistic-scoring.html",
@@ -218,6 +563,17 @@
    "topics": [
     "Health & Society"
    ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T20:48:15Z",
+   "summary": "",
+   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -1613,31 +1969,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "991004e680b4",
-   "title": "The dual effect of urban areas on supercell storms",
-   "url": "https://doi.org/10.5194/wcd-7-2015-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-14T21:28:08Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "6ca8438eae14",
-   "title": "A composite-based analysis of the dynamical linkage of atmospheric rivers, warm conveyor belts, and extratropical cyclones",
-   "url": "https://doi.org/10.5194/wcd-7-2043-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-14T21:28:08Z",
-   "summary": "",
-   "topics": [
-    "Hurricanes & Tropical",
-    "Rain & Flooding"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "6a076b09f346",
    "title": "Warmer climate could reshape hurricane risk and its relationship with El Niño around Hawai'i",
    "url": "https://phys.org/news/2026-10-warmer-climate-reshape-hurricane-relationship.html",
@@ -1648,6 +1979,31 @@
    "topics": [
     "Hurricanes & Tropical",
     "El Niño & La Niña"
+   ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "991004e680b4",
+   "title": "The dual effect of urban areas on supercell storms",
+   "url": "https://doi.org/10.5194/wcd-7-2015-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-14T20:48:15Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "6ca8438eae14",
+   "title": "A composite-based analysis of the dynamical linkage of atmospheric rivers, warm conveyor belts, and extratropical cyclones",
+   "url": "https://doi.org/10.5194/wcd-7-2043-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-14T20:48:15Z",
+   "summary": "",
+   "topics": [
+    "Hurricanes & Tropical",
+    "Rain & Flooding"
    ],
    "first_seen": "2026-10-21T01:46:18Z"
   },
@@ -1800,7 +2156,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T21:28:08Z",
+   "published": "2026-10-13T20:48:15Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -1813,7 +2169,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T21:28:08Z",
+   "published": "2026-10-13T20:48:15Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -2344,7 +2700,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T21:28:08Z",
+   "published": "2026-10-06T20:48:15Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -2395,7 +2751,7 @@
    "source": "Journal of Climate",
    "kind": "research",
    "published": "2026-10-05T17:30:01Z",
-   "summary": "Marine cold air outbreaks (CAOs), cold continental air masses outflow over extratropical oceans, are key drivers of wintertime air-sea interactions.",
+   "summary": "Marine cold air outbreaks (CAOs), cold continental air masses outflow over extratropical oceans, are key drivers of wintertime air–sea interactions.",
    "topics": [
     "Oceans & Sea Level"
    ],
@@ -2551,7 +2907,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T21:28:08Z",
+   "published": "2026-09-30T20:48:15Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -2640,7 +2996,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T21:28:08Z",
+   "published": "2026-09-29T20:48:15Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -2654,7 +3010,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T21:28:08Z",
+   "published": "2026-09-29T20:48:15Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -2703,7 +3059,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1853-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T21:28:08Z",
+   "published": "2026-09-28T20:48:15Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -3151,7 +3507,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1837-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-21T21:28:08Z",
+   "published": "2026-09-21T20:48:15Z",
    "summary": "",
    "topics": [
     "Rain & Flooding",
@@ -3450,7 +3806,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1821-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-18T21:28:08Z",
+   "published": "2026-09-18T20:48:15Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3487,7 +3843,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1779-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T21:28:08Z",
+   "published": "2026-09-16T20:48:15Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3498,7 +3854,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1797-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T21:28:08Z",
+   "published": "2026-09-16T20:48:15Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3683,7 +4039,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1733-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T21:28:08Z",
+   "published": "2026-09-10T20:48:15Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3694,7 +4050,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1759-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T21:28:08Z",
+   "published": "2026-09-10T20:48:15Z",
    "summary": "",
    "topics": [
     "Drought & Water"
@@ -3829,7 +4185,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1709-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-07T21:28:08Z",
+   "published": "2026-09-07T20:48:15Z",
    "summary": "",
    "topics": [
     "Forecasting & AI"
@@ -3881,7 +4237,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1681-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-04T21:28:08Z",
+   "published": "2026-09-04T20:48:15Z",
    "summary": "",
    "topics": [
     "Severe Storms"
@@ -3954,7 +4310,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1641-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-03T21:28:08Z",
+   "published": "2026-09-03T20:48:15Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3978,7 +4334,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1619-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-02T21:28:08Z",
+   "published": "2026-09-02T20:48:15Z",
    "summary": "",
    "topics": [
     "Rain & Flooding"
