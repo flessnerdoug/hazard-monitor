@@ -1,6 +1,266 @@
 {
  "items": [
   {
+   "id": "06569628a963",
+   "title": "US drinking water could contain double the reported PFAS levels, model estimates",
+   "url": "https://phys.org/news/2026-10-pfas.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T15:00:04Z",
+   "summary": "Common ways of reporting perfluoroalkyl and polyfluoroalkyl substances (PFAS)—the man-made, so-called forever chemicals that pose environmental and health threats—could underestimate the concentration of PFAS in U.S. drinking water by as much as half, according to a study being published Oct.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "19095fd5c436",
+   "title": "Sinking Antarctic ice reveals a hidden lake's massive water loss",
+   "url": "https://phys.org/news/2026-10-antarctic-ice-reveals-hidden-lake.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T14:00:07Z",
+   "summary": "The Kronshtadskiy subglacial lake near East Antarctica's Amery Ice Shelf was hidden beneath Antarctica's ice, but its drainage left a mark visible from space as a broad depression that deepened by more than 6 meters (20 feet) at its center.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "5325e61c46c6",
+   "title": "El Niño then and now",
+   "url": "https://phys.org/news/2026-10-el-nio-1.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T13:40:02Z",
+   "summary": "El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. The most recent very strong El Niño events, in 1997–98 and 2015–16, upended weather patterns.",
+   "topics": [
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "8d486f005144",
+   "title": "East Asia's summer rain belt has shifted north over decades, reshaping rain and heat risks",
+   "url": "https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T13:00:06Z",
+   "summary": "A joint research team from KAIST and the APEC Climate Center has found that the East Asian summer front has migrated north over the past half century, with the shift exceeding 200 km (124 miles) in late summer.",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "1cf060f9c4aa",
+   "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-10-23T11:23:19Z",
+   "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history.",
+   "topics": [],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "11ed8c46f72b",
+   "title": "‘Voting is medicine’: These health professionals want you to vote in the midterms",
+   "url": "https://yaleclimateconnections.org/2026/10/voting-is-medicine-these-health-professionals-want-you-to-vote-in-the-midterms/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-23T11:00:00Z",
+   "summary": "Physician Cynthia Mahoney says voting is a powerful prescription for health.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "4271dd295490",
+   "title": "Millions of older adults face extreme weather alone",
+   "url": "https://yaleclimateconnections.org/2026/10/millions-of-older-adults-face-extreme-weather-alone/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-23T10:59:00Z",
+   "summary": "Many U.S. seniors live in single-family homes, far from friends and neighbors.",
+   "topics": [],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "a5804b9b06a0",
+   "title": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-10-23T09:42:58Z",
+   "summary": "Switzerland’s glaciers are disappearing at an alarming rate, losing more than 5% of their ice volume in 2026 alone. Some of the country’s most famous glaciers experienced their worst melting on record, while several smaller glaciers vanished completely.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "fe1af4670899",
+   "title": "Climate warming boosts frequency and intensity of southern Africa’s rainfall extremes",
+   "url": "https://doi.org/10.1038/s41558-026-02772-0",
+   "source": "Nature Climate Change",
+   "kind": "research",
+   "published": "2026-10-23T09:01:37Z",
+   "summary": "",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "0a9535cf2437",
+   "title": "Just 3% of the world's glaciers account for over half of glacier ice loss",
+   "url": "https://phys.org/news/2026-10-world-glaciers-account-glacier-ice.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T09:00:01Z",
+   "summary": "Glaciers ending in lakes, oceans or ice shelves make up 3.2% of the world's glaciers, but lost 134 billion metric tons (148 billion tons) of ice each year between 2000 and 2019, accounting for more than half of all glacier ice loss, a new study shows.",
+   "topics": [
+    "Ice & Polar",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "1b35ad8f6282",
+   "title": "Taiwan shuts down as Typhoon Champi approaches",
+   "url": "https://phys.org/news/2026-10-taiwan-typhoon-champi-approaches.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T08:30:01Z",
+   "summary": "Most shops and schools were shut across Taiwan on Friday as Typhoon Champi neared the island, forcing hundreds of people to leave their homes ahead of the powerful storm.",
+   "topics": [
+    "Hurricanes & Tropical"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "2e49980368eb",
+   "title": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+   "url": "https://phys.org/news/2026-10-europe-killer-summer-climate-blamed.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T08:20:01Z",
+   "summary": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "136268a1e673",
+   "title": "Brazil's presidential elections linked to decades of fluctuating environmental destruction—study",
+   "url": "https://phys.org/news/2026-10-brazil-presidential-elections-linked-decades.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T22:20:07Z",
+   "summary": "A University of Cambridge–led analysis of maps made from satellite imagery covering over three decades and seven presidents shows how the winner of Brazil's national elections since 1990 directly affected the preservation of its globally vital ecosystems.",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "bd17ae1f46e9",
+   "title": "Study highlights need for policymakers to look at digital policies as part of energy, climate planning",
+   "url": "https://phys.org/news/2026-10-highlights-policymakers-digital-policies-energy.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T20:00:14Z",
+   "summary": "A new study underscores the extent to which digital policies cannot be separated from energy policies. The research evaluates the relationship between information communication technologies and carbon dioxide emissions and finds that the variables the researchers used as proxies for digitalization…",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "9bf86602921b",
+   "title": "More than 20 years of data challenge one-size-fits-all view of Arctic cloud-forming particles",
+   "url": "https://phys.org/news/2026-10-years-size-view-arctic-cloud.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T19:20:18Z",
+   "summary": "As the climate gets warmer, the number of particles that make up clouds in the Arctic may increase or decrease, depending on the specific area. A new study indicates that the Arctic should be divided into three parts rather than considered as a whole.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "12ddbf13492a",
+   "title": "We must prepare entire cities for extreme heat. Our new study reveals how",
+   "url": "https://phys.org/news/2026-10-entire-cities-extreme-reveals.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T19:20:02Z",
+   "summary": "In Australia, the days are growing longer and summer is fast approaching. But a very strong El Niño—a natural weather phenomenon that drives variations in temperature and winds across the Pacific—could make this summer a sweltering one.",
+   "topics": [
+    "Heat",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "0bac36ff5f74",
+   "title": "Global warming may have halted an emerging ice age, study suggests",
+   "url": "https://phys.org/news/2026-10-global-halted-emerging-ice-age.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T18:00:10Z",
+   "summary": "Two thousand years ago, the Arctic remnants of a once-vast ice sheet started to grow again. It was the beginning of a new glacial period, more conversationally known as the next ice age—but by the 1960s, summer temperatures were already so high that the ice sheet started to shrink.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "b948f7e980af",
+   "title": "When climate data is transformed into visuals, some people and places get overlooked",
+   "url": "https://phys.org/news/2026-10-climate-visuals-people-overlooked.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T17:20:01Z",
+   "summary": "When a climate disaster happens, people thousands of miles away may encounter it through numbers: how many people died, how many were displaced, how many homes were destroyed and how much infrastructure was damaged. But for the people living through it, the disaster is not a data set.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "910468c092f0",
+   "title": "Wildfires cause Amazon to emit 1.17 billion more metric tons of CO₂ than it absorbs",
+   "url": "https://phys.org/news/2026-10-wildfires-amazon-emit-billion-metric.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-22T17:00:20Z",
+   "summary": "From 2010 to 2024, the Amazon rainforest—the largest tropical rainforest on the planet—released an average of 1.17 billion metric tons more carbon dioxide (CO₂) into the atmosphere than it absorbed each year.",
+   "topics": [
+    "Wildfire & Smoke",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "8b0e8575e2b2",
+   "title": "Subtropical Storm Josephine forms in the Atlantic",
+   "url": "https://yaleclimateconnections.org/2026/10/subtropical-storm-josephine-forms-in-the-atlantic/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-22T16:56:20Z",
+   "summary": "Damage from Josephine has closed the only highway to North Carolina's Outer Banks; king tide flooding is predicted to bring some of the highest water levels of the past 10 years to portions of the Southeast U.S. early next week.",
+   "topics": [
+    "Hurricanes & Tropical",
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
    "id": "d144b3193f92",
    "title": "World-first basic income trial boosts Indigenous livelihoods and Amazon rainforest protection",
    "url": "https://phys.org/news/2026-10-world-basic-income-trial-boosts.html",
@@ -566,17 +826,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T20:48:15Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "d1e72b35630a",
    "title": "From seafloor depths to fishing activity, free software brings ocean data together",
    "url": "https://phys.org/news/2026-10-seafloor-depths-fishing-free-software.html",
@@ -601,6 +850,17 @@
     "Heat",
     "Health & Society"
    ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T20:23:08Z",
+   "summary": "",
+   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -1988,7 +2248,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:48:15Z",
+   "published": "2026-10-14T20:23:08Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -1999,7 +2259,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:48:15Z",
+   "published": "2026-10-14T20:23:08Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -2156,7 +2416,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:48:15Z",
+   "published": "2026-10-13T20:23:08Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -2169,7 +2429,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:48:15Z",
+   "published": "2026-10-13T20:23:08Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -2662,6 +2922,17 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "160327cbe135",
+   "title": "Commerce Department allocates $15.8M in fishery disaster funding to Fla., Calif., and Makah Tribe",
+   "url": "https://www.noaa.gov/news-release/commerce-department-allocates-15-point-8-million-in-fishery-disaster-funding-to-fl-ca-and-makah-tribe",
+   "source": "NOAA News",
+   "kind": "news",
+   "published": "2026-10-07T13:59:21Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
    "id": "7174213d8bf4",
    "title": "Earth’s center is moving, and NASA just measured it",
    "url": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
@@ -2700,7 +2971,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T20:48:15Z",
+   "published": "2026-10-06T20:23:08Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -2907,7 +3178,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T20:48:15Z",
+   "published": "2026-09-30T20:23:08Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -2996,7 +3267,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:48:15Z",
+   "published": "2026-09-29T20:23:08Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -3010,7 +3281,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:48:15Z",
+   "published": "2026-09-29T20:23:08Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -3059,7 +3330,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1853-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T20:48:15Z",
+   "published": "2026-09-28T20:23:08Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -3507,7 +3778,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1837-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-21T20:48:15Z",
+   "published": "2026-09-21T20:23:08Z",
    "summary": "",
    "topics": [
     "Rain & Flooding",
@@ -3806,7 +4077,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1821-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-18T20:48:15Z",
+   "published": "2026-09-18T20:23:08Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3843,7 +4114,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1779-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:48:15Z",
+   "published": "2026-09-16T20:23:08Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3854,7 +4125,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1797-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:48:15Z",
+   "published": "2026-09-16T20:23:08Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4039,7 +4310,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1733-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:48:15Z",
+   "published": "2026-09-10T20:23:08Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4050,7 +4321,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1759-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:48:15Z",
+   "published": "2026-09-10T20:23:08Z",
    "summary": "",
    "topics": [
     "Drought & Water"
@@ -4185,7 +4456,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1709-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-07T20:48:15Z",
+   "published": "2026-09-07T20:23:08Z",
    "summary": "",
    "topics": [
     "Forecasting & AI"
@@ -4237,7 +4508,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1681-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-04T20:48:15Z",
+   "published": "2026-09-04T20:23:08Z",
    "summary": "",
    "topics": [
     "Severe Storms"
@@ -4310,7 +4581,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1641-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-03T20:48:15Z",
+   "published": "2026-09-03T20:23:08Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4334,7 +4605,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1619-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-02T20:48:15Z",
+   "published": "2026-09-02T20:23:08Z",
    "summary": "",
    "topics": [
     "Rain & Flooding"
