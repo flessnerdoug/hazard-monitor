@@ -1,6 +1,138 @@
 {
  "items": [
   {
+   "id": "02d647380bb6",
+   "title": "Ancient stalagmites reveal exceptions to Asia–South America monsoon seesaw over the past 450,000 years",
+   "url": "https://phys.org/news/2026-10-ancient-stalagmites-reveal-exceptions-asiasouth.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-24T13:00:01Z",
+   "summary": "In places like South Asia, Africa and parts of the Americas, monsoon rains supply water for drinking, crops and hydropower for billions of people.",
+   "topics": [
+    "Rain & Flooding",
+    "Health & Society"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
+   "id": "448a3a431478",
+   "title": "Typhoon Champi knocks out power to thousands in Taiwan",
+   "url": "https://phys.org/news/2026-10-typhoon-champi-power-thousands-taiwan.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-24T09:40:01Z",
+   "summary": "Emergency crews scrambled on Saturday to restore power to tens of thousands of homes in Taiwan after Typhoon Champi's fierce winds battered the island, with the storm moving toward China and Japan.",
+   "topics": [
+    "Hurricanes & Tropical"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
+   "id": "cf07c980789b",
+   "title": "Study maps the human side of flood risk",
+   "url": "https://phys.org/news/2026-10-human-side.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T22:20:02Z",
+   "summary": "When heavy rain hits a city, knowing where water will accumulate is only part of the picture. Who lives in the affected buildings? How might flooding disrupt their lives? And where could additional support make the greatest difference?",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
+   "id": "9116432883cf",
+   "title": "As flood risk rises, some communities question the idea of resilience",
+   "url": "https://phys.org/news/2026-10-communities-idea-resilience.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T18:00:17Z",
+   "summary": "Climate change is increasing flood risk across the U.K. As floods become more frequent and intense, communities are increasingly encouraged to become resilient and \"live with water.\" Yet in some flood-prone areas, residents are rejecting these calls, concerned that resilience is less about helping…",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
+   "id": "6d02293486f9",
+   "title": "Scientists find key to predicting some El Niño events 12 months ahead",
+   "url": "https://phys.org/news/2026-10-scientists-key-el-nio-events.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T18:00:02Z",
+   "summary": "Scientists have identified the conditions that make it possible to predict some El Niño and La Niña events up to a year in advance, potentially giving communities and decision-makers significantly more time to prepare for weather extremes.",
+   "topics": [
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
+   "id": "5b5bcfe97e2a",
+   "title": "Massive carbon stocks in grasslands are ignored by climate finance",
+   "url": "https://phys.org/news/2026-10-massive-carbon-stocks-grasslands-climate.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T17:40:01Z",
+   "summary": "Open ecosystems—nonforested landscapes such as grasslands, shrublands and savannas—can store vast amounts of carbon while supporting water supply, biodiversity and other ecosystem services.",
+   "topics": [
+    "Drought & Water",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
+   "id": "c058bea093c4",
+   "title": "Strategic new protections could link 13 Pacific deep-sea reserves into connected network",
+   "url": "https://phys.org/news/2026-10-strategic-link-pacific-deep-sea.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T17:00:14Z",
+   "summary": "Protected areas have been set up to shield deep-sea life from the impacts of seabed mining in the Pacific Ocean. However, new research led by scientists at Plymouth Marine Laboratory (PML) and published in Nature Ecology & Evolution highlights an opportunity to make these protections even more…",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
+   "id": "74f8ecb6cc6a",
+   "title": "Summer 2026 heat toll exceeded 50,000 deaths in European cities, analysis estimates",
+   "url": "https://phys.org/news/2026-10-summer-toll-exceeded-deaths-european.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T16:20:01Z",
+   "summary": "More than 50,000 heat-related deaths are estimated to have occurred in urban areas across Europe during summer 2026, with around two-thirds attributed to human-induced climate change, according to new research led by the London School of Hygiene & Tropical Medicine (LSHTM) and Imperial College…",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
+   "id": "058610801dff",
+   "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
+   "url": "https://www.carbonbrief.org/chart-a-record-two-thirds-of-car-sales-in-china-are-now-electric-vehicles",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-10-23T15:55:26Z",
+   "summary": "For the first time, new-energy vehicles (NEVs) made up 67% of new car sales in China in September, according to… The post Chart: A record two-thirds of car sales in China are now electric vehicles appeared first on Carbon Brief .",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
+   "id": "c49b6b1a54c5",
+   "title": "Taiwan warns of 'destructive winds' as Typhoon Champi batters island",
+   "url": "https://phys.org/news/2026-10-taiwan-destructive-typhoon-champi-batters.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-23T15:50:06Z",
+   "summary": "A powerful typhoon pounded Taiwan on Friday as authorities warned of \"destructive winds\" and urged locals to shelter from the storm.",
+   "topics": [
+    "Hurricanes & Tropical"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
    "id": "06569628a963",
    "title": "US drinking water could contain double the reported PFAS levels, model estimates",
    "url": "https://phys.org/news/2026-10-pfas.html",
@@ -99,6 +231,19 @@
     "Ice & Polar"
    ],
    "first_seen": "2026-10-23T15:37:04Z"
+  },
+  {
+   "id": "02695dc2f573",
+   "title": "Asymmetric Particle Aggregation in Ocean Eddies Driven by Eddy‐Wind Interactions",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126456?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-23T09:35:38Z",
+   "summary": "",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-24T14:11:52Z"
   },
   {
    "id": "fe1af4670899",
@@ -839,6 +984,17 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T20:32:07Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "d9541bbb8d33",
    "title": "What climate change is costing California",
    "url": "https://phys.org/news/2026-10-climate-california.html",
@@ -850,17 +1006,6 @@
     "Heat",
     "Health & Society"
    ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T20:23:08Z",
-   "summary": "",
-   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -2248,7 +2393,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:23:08Z",
+   "published": "2026-10-14T20:32:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -2259,7 +2404,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:23:08Z",
+   "published": "2026-10-14T20:32:07Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -2416,7 +2561,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:23:08Z",
+   "published": "2026-10-13T20:32:07Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -2429,7 +2574,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:23:08Z",
+   "published": "2026-10-13T20:32:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -2859,6 +3004,17 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "434aaa67feff",
+   "title": "Trump Administration releases America First Seafood Strategy",
+   "url": "https://www.noaa.gov/news-release/trump-administration-releases-america-first-seafood-strategy",
+   "source": "NOAA News",
+   "kind": "news",
+   "published": "2026-10-09T18:28:07Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
    "id": "a6551f8b0fa7",
    "title": "Footprints of Tropical Cyclones in the Global Climate. Part I: Improved Potential Vorticity Inversion for Tropical Cyclone Vortex Removal",
    "url": "https://doi.org/10.1175/jcli-d-26-0065.1",
@@ -2971,7 +3127,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T20:23:08Z",
+   "published": "2026-10-06T20:32:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3178,7 +3334,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T20:23:08Z",
+   "published": "2026-09-30T20:32:07Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -3267,7 +3423,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:23:08Z",
+   "published": "2026-09-29T20:32:07Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -3281,7 +3437,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:23:08Z",
+   "published": "2026-09-29T20:32:07Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -3330,7 +3486,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1853-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T20:23:08Z",
+   "published": "2026-09-28T20:32:07Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -3778,7 +3934,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1837-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-21T20:23:08Z",
+   "published": "2026-09-21T20:32:07Z",
    "summary": "",
    "topics": [
     "Rain & Flooding",
@@ -4077,7 +4233,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1821-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-18T20:23:08Z",
+   "published": "2026-09-18T20:32:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4114,7 +4270,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1779-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:23:08Z",
+   "published": "2026-09-16T20:32:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4125,7 +4281,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1797-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:23:08Z",
+   "published": "2026-09-16T20:32:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4310,7 +4466,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1733-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:23:08Z",
+   "published": "2026-09-10T20:32:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4321,7 +4477,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1759-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:23:08Z",
+   "published": "2026-09-10T20:32:07Z",
    "summary": "",
    "topics": [
     "Drought & Water"
@@ -4456,7 +4612,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1709-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-07T20:23:08Z",
+   "published": "2026-09-07T20:32:07Z",
    "summary": "",
    "topics": [
     "Forecasting & AI"
@@ -4508,7 +4664,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1681-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-04T20:23:08Z",
+   "published": "2026-09-04T20:32:07Z",
    "summary": "",
    "topics": [
     "Severe Storms"
@@ -4581,7 +4737,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1641-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-03T20:23:08Z",
+   "published": "2026-09-03T20:32:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4605,7 +4761,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1619-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-02T20:23:08Z",
+   "published": "2026-09-02T20:32:07Z",
    "summary": "",
    "topics": [
     "Rain & Flooding"
