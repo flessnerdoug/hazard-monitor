@@ -1,6 +1,19 @@
 {
  "items": [
   {
+   "id": "c2c61ebb0c88",
+   "title": "Global underground CO₂ storage hit record 43.6 million metric tons in 2024 alone",
+   "url": "https://phys.org/news/2026-10-global-underground-storage-million-metric.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-25T12:00:01Z",
+   "summary": "The most comprehensive record yet of carbon dioxide stored underground through geological carbon dioxide storage has been published today, revealing that 43.6 million metric tons were sequestered in 2024 alone—a new annual record—and that 421.7 million metric tons have now been stored in the past…",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-25T14:44:10Z"
+  },
+  {
    "id": "02d647380bb6",
    "title": "Ancient stalagmites reveal exceptions to Asia–South America monsoon seesaw over the past 450,000 years",
    "url": "https://phys.org/news/2026-10-ancient-stalagmites-reveal-exceptions-asiasouth.html",
@@ -15,6 +28,32 @@
    "first_seen": "2026-10-24T14:11:52Z"
   },
   {
+   "id": "f9168dc17ce4",
+   "title": "Distributions of Short‐Duration High‐Intensity Precipitation Events in the United States Under Intermediate and Pessimistic Climate Change Scenarios",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122710?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-24T10:00:46Z",
+   "summary": "",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-25T14:44:10Z"
+  },
+  {
+   "id": "01e113c4acce",
+   "title": "Enhanced Melt Supply Promotes Near‐Symmetric Oceanic Crustal Accretion at the Ultraslow Eastern Gakkel Ridge",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124470?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-24T09:47:27Z",
+   "summary": "",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-25T14:44:10Z"
+  },
+  {
    "id": "448a3a431478",
    "title": "Typhoon Champi knocks out power to thousands in Taiwan",
    "url": "https://phys.org/news/2026-10-typhoon-champi-power-thousands-taiwan.html",
@@ -26,6 +65,32 @@
     "Hurricanes & Tropical"
    ],
    "first_seen": "2026-10-24T14:11:52Z"
+  },
+  {
+   "id": "92e8043dc418",
+   "title": "Gamma‐Ray Glows Commonly Followed by Lightning: A Statistical Study of the Spatio‐Temporal Relationship",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124814?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-24T09:35:02Z",
+   "summary": "",
+   "topics": [
+    "Severe Storms"
+   ],
+   "first_seen": "2026-10-25T14:44:10Z"
+  },
+  {
+   "id": "e09e53a23599",
+   "title": "On the Stability and Sensitivity of Climate‐Informed Flood Frequency Models",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124039?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-24T09:17:00Z",
+   "summary": "",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-25T14:44:10Z"
   },
   {
    "id": "cf07c980789b",
@@ -984,17 +1049,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T20:32:07Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "d9541bbb8d33",
    "title": "What climate change is costing California",
    "url": "https://phys.org/news/2026-10-climate-california.html",
@@ -1006,6 +1060,17 @@
     "Heat",
     "Health & Society"
    ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T20:27:51Z",
+   "summary": "",
+   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -2393,7 +2458,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:32:07Z",
+   "published": "2026-10-14T20:27:51Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -2404,7 +2469,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:32:07Z",
+   "published": "2026-10-14T20:27:51Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -2561,7 +2626,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:32:07Z",
+   "published": "2026-10-13T20:27:51Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -2574,7 +2639,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:32:07Z",
+   "published": "2026-10-13T20:27:51Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3127,7 +3192,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T20:32:07Z",
+   "published": "2026-10-06T20:27:51Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3334,7 +3399,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T20:32:07Z",
+   "published": "2026-09-30T20:27:51Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -3423,7 +3488,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:32:07Z",
+   "published": "2026-09-29T20:27:51Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -3437,7 +3502,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:32:07Z",
+   "published": "2026-09-29T20:27:51Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -3486,7 +3551,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1853-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T20:32:07Z",
+   "published": "2026-09-28T20:27:51Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -3934,7 +3999,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1837-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-21T20:32:07Z",
+   "published": "2026-09-21T20:27:51Z",
    "summary": "",
    "topics": [
     "Rain & Flooding",
@@ -4233,7 +4298,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1821-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-18T20:32:07Z",
+   "published": "2026-09-18T20:27:51Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4270,7 +4335,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1779-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:32:07Z",
+   "published": "2026-09-16T20:27:51Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4281,7 +4346,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1797-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:32:07Z",
+   "published": "2026-09-16T20:27:51Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4466,7 +4531,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1733-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:32:07Z",
+   "published": "2026-09-10T20:27:51Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4477,7 +4542,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1759-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:32:07Z",
+   "published": "2026-09-10T20:27:51Z",
    "summary": "",
    "topics": [
     "Drought & Water"
@@ -4612,7 +4677,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1709-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-07T20:32:07Z",
+   "published": "2026-09-07T20:27:51Z",
    "summary": "",
    "topics": [
     "Forecasting & AI"
@@ -4664,7 +4729,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1681-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-04T20:32:07Z",
+   "published": "2026-09-04T20:27:51Z",
    "summary": "",
    "topics": [
     "Severe Storms"
@@ -4737,7 +4802,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1641-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-03T20:32:07Z",
+   "published": "2026-09-03T20:27:51Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4761,7 +4826,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1619-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-02T20:32:07Z",
+   "published": "2026-09-02T20:27:51Z",
    "summary": "",
    "topics": [
     "Rain & Flooding"
