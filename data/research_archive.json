@@ -1,6 +1,194 @@
 {
  "items": [
   {
+   "id": "04199023c2bd",
+   "title": "Sediment core reveals volcanic eruption preceded ancient cold spell by about 150 years",
+   "url": "https://phys.org/news/2026-10-sediment-core-reveals-volcanic-eruption.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-26T15:20:05Z",
+   "summary": "A new study led by an international research team including scientists at the University of South Carolina challenges the idea that the ancient Laacher See volcanic eruption in western Europe triggered a significant climate-cooling period affecting central Europe and the Arctic nearly 13,000 years…",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "4b55592b6280",
+   "title": "While some eucalypts are hard to kill, climate change may test the ability of others to survive",
+   "url": "https://phys.org/news/2026-10-eucalypts-hard-climate-ability-survive.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-26T15:10:01Z",
+   "summary": "There's no tree like the humble eucalypt.",
+   "topics": [],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "d1f18e9d565e",
+   "title": "Role of External Forcing and Internal Variability on the Delayed Withdrawal of Indian Summer Monsoon in Recent Decades",
+   "url": "https://doi.org/10.1175/jcli-d-26-0071.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-10-26T13:29:41Z",
+   "summary": "The timing of withdrawal of the Indian summer monsoon (ISM) experienced a statistically significant delay in recent decades, leading to the lengthening of monsoon rainy season over north-west India.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "3d38bd4b1964",
+   "title": "Contrasting Tropical SST Warming in Two Climate Models: The Roles of Winds, Clouds, Evaporative Cooling, and Ocean Dynamics",
+   "url": "https://doi.org/10.1175/jcli-d-25-0353.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-10-26T13:29:40Z",
+   "summary": "To investigate why climate models simulate diverse tropical Pacific sea surface temperature (SST) changes under greenhouse-gas forcing, we utilize two configurations of the Community Earth System Model (CESM2) that differ in their atmospheric component (CAM6 and CAM4).",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "9af192fb5f8b",
+   "title": "Reduced Evapotranspiration Decreases Land Precipitation Despite Enhanced Moisture Convergence: Insights from Perturbed Parameter Ensembles of Earth System Models",
+   "url": "https://doi.org/10.1175/jcli-d-25-0739.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-10-26T13:29:39Z",
+   "summary": "Both canonical theory and climate model simulations predict an increase in globally averaged precipitation with radiatively-forced warming. However, terrestrial processes control surface water and energy fluxes, and therefore can impact surface temperatures independently of radiative forcing.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "8d59c3c091ee",
+   "title": "Observational constraints on global climate projections: An original method applied to changes in Indian summer monsoon rainfall",
+   "url": "https://doi.org/10.1175/jcli-d-26-0153.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-10-26T13:29:37Z",
+   "summary": "The lack of consensus in global projections of regional precipitation changes represents a major obstacle for the design of adaptation policies.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "c921bd50138d",
+   "title": "Rain gardens offer a balanced solution for managing urban stormwater near Tokyo",
+   "url": "https://phys.org/news/2026-10-gardens-solution-urban-stormwater-tokyo.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-26T12:40:01Z",
+   "summary": "Urban flooding is becoming a growing concern in densely developed neighborhoods, where paved surfaces limit infiltration and intense rainfall can overwhelm drainage systems.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "ea3b0abb47da",
+   "title": "New statewide lidar study identifies hot spots for California coastal cliff retreat",
+   "url": "https://phys.org/news/2026-10-statewide-lidar-hot-california-coastal.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-26T12:00:01Z",
+   "summary": "The cliffs that comprise much of California's coastline are constantly being reshaped by rain, waves and other geologic forces. The erosion of cliffs threatens critical infrastructure such as highways, railways, homes, parklands, public access points and more.",
+   "topics": [
+    "Oceans & Sea Level",
+    "Health & Society"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "df185ef24106",
+   "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-10-26T11:06:08Z",
+   "summary": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior.",
+   "topics": [],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "59cd64136e8b",
+   "title": "La nueva ley de climatización de Washington protege a los trabajadores agrícolas. ¿Saben que existe?",
+   "url": "https://yaleclimateconnections.org/2026/10/la-nueva-ley-de-climatizacion-de-washington-protege-a-los-trabajadores-agricolas-saben-que-existe/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-26T11:00:00Z",
+   "summary": "A medida que se intensifica el calor extremo en el noroeste del Pacífico, el estado ha ampliado las protecciones para los inquilinos que desean climatizar sus viviendas.",
+   "topics": [],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "4a1e7fc2b30d",
+   "title": "Online tool tracks climate-related bills in 10 states",
+   "url": "https://yaleclimateconnections.org/2026/10/online-tool-tracks-climate-related-bills-in-10-states/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-26T10:59:00Z",
+   "summary": "It also shows how each representative voted.",
+   "topics": [],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "1456aa5dc847",
+   "title": "Scientists discover Arctic sea ice loss could be far worse than predicted",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261022081259.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-10-26T08:50:24Z",
+   "summary": "Arctic winter sea ice could disappear much faster than scientists previously expected, according to new research using climate clues from 6,000 years ago.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "3912d0a38b42",
+   "title": "A Shift of Multidecadal Trend in Coastal Upwelling Off Southern Vietnam in the South China Sea Around 1999",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126805?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-26T04:10:28Z",
+   "summary": "",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "74adf3d935ca",
+   "title": "EMIT Reveals Elevated Calcite Signatures in Shorelines of Lake Powell and Lake Mead Exposed by Drought and Colorado River Management",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122195?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-10-26T04:03:54Z",
+   "summary": "",
+   "topics": [
+    "Drought & Water"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
+   "id": "701d7491181f",
+   "title": "Australian coral reefs face risk of collapse within 50 years without drastic action, global assessment finds",
+   "url": "https://phys.org/news/2026-10-australian-coral-reefs-collapse-years.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-25T19:30:01Z",
+   "summary": "Every shallow-water coral reef ecosystem in Australia faces an extremely high risk of collapse by 2075, driven largely by projected ocean warming, according to a global assessment.",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-26T17:06:05Z"
+  },
+  {
    "id": "c2c61ebb0c88",
    "title": "Global underground CO₂ storage hit record 43.6 million metric tons in 2024 alone",
    "url": "https://phys.org/news/2026-10-global-underground-storage-million-metric.html",
@@ -1036,6 +1224,17 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T20:51:07Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "d1e72b35630a",
    "title": "From seafloor depths to fishing activity, free software brings ocean data together",
    "url": "https://phys.org/news/2026-10-seafloor-depths-fishing-free-software.html",
@@ -1060,17 +1259,6 @@
     "Heat",
     "Health & Society"
    ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T20:27:51Z",
-   "summary": "",
-   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -2458,7 +2646,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:27:51Z",
+   "published": "2026-10-14T20:51:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -2469,7 +2657,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:27:51Z",
+   "published": "2026-10-14T20:51:07Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -2626,7 +2814,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:27:51Z",
+   "published": "2026-10-13T20:51:07Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -2639,7 +2827,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:27:51Z",
+   "published": "2026-10-13T20:51:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3192,7 +3380,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T20:27:51Z",
+   "published": "2026-10-06T20:51:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3399,7 +3587,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T20:27:51Z",
+   "published": "2026-09-30T20:51:07Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -3488,7 +3676,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:27:51Z",
+   "published": "2026-09-29T20:51:07Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -3502,7 +3690,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:27:51Z",
+   "published": "2026-09-29T20:51:07Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -3551,7 +3739,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1853-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T20:27:51Z",
+   "published": "2026-09-28T20:51:07Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -3999,7 +4187,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1837-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-21T20:27:51Z",
+   "published": "2026-09-21T20:51:07Z",
    "summary": "",
    "topics": [
     "Rain & Flooding",
@@ -4298,7 +4486,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1821-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-18T20:27:51Z",
+   "published": "2026-09-18T20:51:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4335,7 +4523,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1779-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:27:51Z",
+   "published": "2026-09-16T20:51:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4346,7 +4534,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1797-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:27:51Z",
+   "published": "2026-09-16T20:51:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4531,7 +4719,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1733-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:27:51Z",
+   "published": "2026-09-10T20:51:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4542,7 +4730,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1759-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:27:51Z",
+   "published": "2026-09-10T20:51:07Z",
    "summary": "",
    "topics": [
     "Drought & Water"
@@ -4677,7 +4865,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1709-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-07T20:27:51Z",
+   "published": "2026-09-07T20:51:07Z",
    "summary": "",
    "topics": [
     "Forecasting & AI"
@@ -4729,7 +4917,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1681-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-04T20:27:51Z",
+   "published": "2026-09-04T20:51:07Z",
    "summary": "",
    "topics": [
     "Severe Storms"
@@ -4802,7 +4990,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1641-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-03T20:27:51Z",
+   "published": "2026-09-03T20:51:07Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4826,7 +5014,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1619-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-02T20:27:51Z",
+   "published": "2026-09-02T20:51:07Z",
    "summary": "",
    "topics": [
     "Rain & Flooding"
