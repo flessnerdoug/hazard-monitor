@@ -1,17 +1,17 @@
 {
- "generated": "2026-10-27T16:09:39Z",
+ "generated": "2026-10-28T16:56:29Z",
  "sources": {
   "USGS": {
    "ok": true,
-   "count": 21
+   "count": 22
   },
   "NWS": {
    "ok": true,
-   "count": 17
+   "count": 18
   },
   "NOAA SPC": {
    "ok": true,
-   "count": 0
+   "count": 1
   },
   "NHC": {
    "ok": true,
@@ -23,31 +23,31 @@
   },
   "GDACS": {
    "ok": true,
-   "count": 6
+   "count": 5
   }
  },
  "events": [
+  {
+   "id": "NASA EONET:EONET_25728",
+   "source": "NASA EONET",
+   "category": "Tropical Cyclone",
+   "title": "Super Typhoon In-fa",
+   "lat": 15.4,
+   "lon": 157.6,
+   "time": "2026-10-28T12:00:00Z",
+   "severity": 3,
+   "url": "https://www.metoc.navy.mil/jtwc/products/wp3026.tcw"
+  },
   {
    "id": "GDACS:TC1001345",
    "source": "GDACS",
    "category": "Tropical Cyclone",
    "title": "Tropical Cyclone ARNAB-26, India",
-   "lat": 16.3,
-   "lon": 82.7,
-   "time": "2026-10-27T12:00:00Z",
+   "lat": 16.4,
+   "lon": 81.8,
+   "time": "2026-10-28T06:00:00Z",
    "severity": 3,
-   "url": "https://www.gdacs.org/report.aspx?eventid=1001345&episodeid=7&eventtype=TC"
-  },
-  {
-   "id": "NASA EONET:EONET_25728",
-   "source": "NASA EONET",
-   "category": "Tropical Cyclone",
-   "title": "Typhoon In-fa",
-   "lat": 14.5,
-   "lon": 162.1,
-   "time": "2026-10-27T06:00:00Z",
-   "severity": 3,
-   "url": "https://www.metoc.navy.mil/jtwc/products/wp3026.tcw"
+   "url": "https://www.gdacs.org/report.aspx?eventid=1001345&episodeid=10&eventtype=TC"
   },
   {
    "id": "GDACS:TC1001338",
@@ -61,202 +61,235 @@
    "url": "https://www.gdacs.org/report.aspx?eventid=1001338&episodeid=46&eventtype=TC"
   },
   {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.5f808f6dd37763e7496bd929d398e062575ec0ef.001.1",
-   "source": "NWS",
-   "category": "Flood",
-   "title": "Flood Warning: Bent, CO",
-   "lat": 38.04,
-   "lon": -103.2,
-   "time": "2026-10-27T15:07:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=38.04&lon=-103.2"
-  },
-  {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.8e6e34faacb5e71642cecc2411f93304586f99a8.001.1",
-   "source": "NWS",
-   "category": "Flood",
-   "title": "Flood Warning: Presidio, TX",
-   "lat": 29.54,
-   "lon": -104.38,
-   "time": "2026-10-27T15:02:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=29.54&lon=-104.38"
-  },
-  {
    "id": "NHC:ep222026",
    "source": "NHC",
    "category": "Tropical Cyclone",
-   "title": "Tropical Storm Vance: 40 mph winds, 1003 mb",
-   "lat": 16.3,
-   "lon": -107.7,
-   "time": "2026-10-27T15:00:00Z",
+   "title": "Tropical Storm Vance: 40 mph winds, 1004 mb",
+   "lat": 19.2,
+   "lon": -109.2,
+   "time": "2026-10-28T15:00:00Z",
    "severity": 2,
    "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
   },
   {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.de6800166ae3329136067733601a02ea8c27e563.001.1",
-   "source": "NWS",
-   "category": "Flood",
-   "title": "Flood Warning: Alamosa, CO; Conejos, CO; Costilla, CO +1 more",
-   "lat": 37.415,
-   "lon": -105.9,
-   "time": "2026-10-27T14:48:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=37.415&lon=-105.9"
-  },
-  {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.32a6624b03ca4bdc3923c468120fbeec7a6da027.002.1",
+   "id": "NWS:urn:oid:2.49.0.1.840.0.23453bbc5fff35f6df49fb765072b72d8cb5965d.001.1",
    "source": "NWS",
    "category": "Flood",
    "title": "Flood Warning: Lake, FL; Volusia, FL",
-   "lat": 29.215,
-   "lon": -81.555,
-   "time": "2026-10-27T14:04:00Z",
+   "lat": 29.0,
+   "lon": -81.405,
+   "time": "2026-10-28T13:03:00Z",
    "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=29.215&lon=-81.555"
+   "url": "https://forecast.weather.gov/MapClick.php?lat=29.0&lon=-81.405"
   },
   {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.bf6424c41beb0065a6cc6618ae3c054fe71fcc1b.001.1",
+   "id": "NWS:urn:oid:2.49.0.1.840.0.138777367f439d1f99a190a3ab67d8af16ac1f0a.001.1",
+   "source": "NWS",
+   "category": "Severe Storm",
+   "title": "High Wind Warning: Big Island Summit",
+   "lat": 19.5864,
+   "lon": -155.5484,
+   "time": "2026-10-28T12:57:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=19.5864&lon=-155.5484"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.a61aba836cd49262d84bbbf9b027eea42d910bf4.001.1",
    "source": "NWS",
    "category": "Flood",
    "title": "Flood Watch: Niihau; Kauai Southwest; Kauai Mountains +40 more",
    "lat": 21.9013,
    "lon": -160.1484,
-   "time": "2026-10-27T12:54:00Z",
+   "time": "2026-10-28T12:56:00Z",
    "severity": 2,
    "url": "https://forecast.weather.gov/MapClick.php?lat=21.9013&lon=-160.1484"
   },
   {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.dcf89ab75879440c0bad39689676acf44c528022.001.1",
+   "id": "NWS:urn:oid:2.49.0.1.840.0.6c34fee2237d1a68c4392363e8e19b73f03e1b89.027.1",
+   "source": "NWS",
+   "category": "Severe Storm",
+   "title": "Storm Warning: Adak to Kiska Pacific Side",
+   "lat": 51.1921,
+   "lon": 0.0,
+   "time": "2026-10-28T11:25:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=51.1921&lon=0.0"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.6c34fee2237d1a68c4392363e8e19b73f03e1b89.028.1",
+   "source": "NWS",
+   "category": "Severe Storm",
+   "title": "Storm Warning: Kiska to Attu Bering Side",
+   "lat": 53.131,
+   "lon": 174.347,
+   "time": "2026-10-28T11:25:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=53.131&lon=174.347"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.6c34fee2237d1a68c4392363e8e19b73f03e1b89.026.1",
+   "source": "NWS",
+   "category": "Severe Storm",
+   "title": "Storm Warning: Adak to Kiska Bering Side",
+   "lat": 52.5799,
+   "lon": 0.0,
+   "time": "2026-10-28T11:25:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=52.5799&lon=0.0"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.6c34fee2237d1a68c4392363e8e19b73f03e1b89.029.1",
+   "source": "NWS",
+   "category": "Severe Storm",
+   "title": "Storm Warning: Kiska to Attu Pacific Side",
+   "lat": 51.9614,
+   "lon": 174.3225,
+   "time": "2026-10-28T11:25:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=51.9614&lon=174.3225"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.90ef1ee1f63664927a0cb70d5d89aa83bd1d7f55.001.1",
    "source": "NWS",
    "category": "Winter Weather",
    "title": "Winter Storm Warning: South Slopes of the Western Brooks Range; Noatak Valley",
    "lat": 67.6024,
    "lon": -157.0602,
-   "time": "2026-10-27T12:00:00Z",
+   "time": "2026-10-28T11:01:00Z",
    "severity": 2,
    "url": "https://forecast.weather.gov/MapClick.php?lat=67.6024&lon=-157.0602"
   },
   {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.99ae9a01ec5f8d7a24517775a281c990a6b7497e.001.1",
+   "id": "NWS:urn:oid:2.49.0.1.840.0.60ac61059895684508d5a9fa0c2c7ea0b41db52d.001.1",
    "source": "NWS",
-   "category": "Severe Storm",
-   "title": "High Wind Warning: Shishmaref; Bering Strait Coast; St Lawrence Island",
-   "lat": 66.102,
-   "lon": -166.6367,
-   "time": "2026-10-27T11:35:00Z",
+   "category": "Winter Weather",
+   "title": "Winter Storm Watch: South Slopes Of The Central Brooks Range",
+   "lat": 67.4545,
+   "lon": -152.0839,
+   "time": "2026-10-28T10:56:00Z",
    "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=66.102&lon=-166.6367"
+   "url": "https://forecast.weather.gov/MapClick.php?lat=67.4545&lon=-152.0839"
   },
   {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.be00d0f1309b46de98f599978fe1c754c01c6bbb.001.1",
-   "source": "NWS",
-   "category": "Flood",
-   "title": "Flood Warning: Kane, UT; San Juan, UT",
-   "lat": 37.225,
-   "lon": -110.445,
-   "time": "2026-10-27T09:55:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=37.225&lon=-110.445"
-  },
-  {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.cb9a01d3ffcd3a8b047c7066f747cd67fa006bbb.001.1",
-   "source": "NWS",
-   "category": "Flood",
-   "title": "Coastal Flood Warning: San Diego County Coastal Areas; Orange County Coastal",
-   "lat": 32.9835,
-   "lon": -117.2415,
-   "time": "2026-10-27T09:02:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=32.9835&lon=-117.2415"
-  },
-  {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.236539937ee0a25b0dc96afc55baa6961a10f310.001.1",
-   "source": "NWS",
-   "category": "Flood",
-   "title": "Coastal Flood Warning: Monroe Upper Keys; Monroe Middle Keys; Monroe Lower Keys",
-   "lat": 25.0939,
-   "lon": -80.5098,
-   "time": "2026-10-27T08:00:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=25.0939&lon=-80.5098"
-  },
-  {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.b63a7b7f9d3245566d18b41354fad4e0c735ad29.002.1",
-   "source": "NWS",
-   "category": "Flood",
-   "title": "Coastal Flood Warning: Coastal Nassau; Coastal Duval; Coastal Flagler +2 more",
-   "lat": 30.6295,
-   "lon": -81.552,
-   "time": "2026-10-27T07:33:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=30.6295&lon=-81.552"
-  },
-  {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.b63a7b7f9d3245566d18b41354fad4e0c735ad29.003.1",
-   "source": "NWS",
-   "category": "Flood",
-   "title": "Coastal Flood Warning: Inland Flagler; Eastern Clay; Eastern Putnam +3 more",
-   "lat": 29.4575,
-   "lon": -81.3369,
-   "time": "2026-10-27T07:33:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=29.4575&lon=-81.3369"
-  },
-  {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.f3e9586f041a587e23c5ba1dc9cdc61bef95e8aa.001.1",
-   "source": "NWS",
-   "category": "Flood",
-   "title": "Coastal Flood Warning: Coastal Volusia; Coastal Indian River; Coastal St. Lucie +5 more",
-   "lat": 29.1099,
-   "lon": -80.9444,
-   "time": "2026-10-27T06:26:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=29.1099&lon=-80.9444"
-  },
-  {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.5b802797dd4b716ab1f8fdf245140621cd525817.001.1",
+   "id": "NWS:urn:oid:2.49.0.1.840.0.276bcc50d1808cb9c38e41c9f0285b73195307e4.001.1",
    "source": "NWS",
    "category": "Flood",
    "title": "Coastal Flood Warning: Coastal Palm Beach County",
    "lat": 26.646,
    "lon": -80.0995,
-   "time": "2026-10-27T05:22:00Z",
+   "time": "2026-10-28T09:39:00Z",
    "severity": 2,
    "url": "https://forecast.weather.gov/MapClick.php?lat=26.646&lon=-80.0995"
   },
   {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.5b802797dd4b716ab1f8fdf245140621cd525817.002.1",
+   "id": "NWS:urn:oid:2.49.0.1.840.0.276bcc50d1808cb9c38e41c9f0285b73195307e4.002.1",
    "source": "NWS",
    "category": "Flood",
    "title": "Coastal Flood Warning: Coastal Broward County; Coastal Miami Dade County",
    "lat": 26.151,
    "lon": -80.1221,
-   "time": "2026-10-27T05:22:00Z",
+   "time": "2026-10-28T09:39:00Z",
    "severity": 2,
    "url": "https://forecast.weather.gov/MapClick.php?lat=26.151&lon=-80.1221"
   },
   {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.cfa50f6a669504223baea6cf773706c7874c5ef7.001.1",
+   "id": "NWS:urn:oid:2.49.0.1.840.0.0ad87ed057d8a0d4b903866a77bd51fad359966f.001.1",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Coastal Flood Warning: San Diego County Coastal Areas; Orange County Coastal",
+   "lat": 32.9835,
+   "lon": -117.2415,
+   "time": "2026-10-28T08:09:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=32.9835&lon=-117.2415"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.2ac162b4946ff42ef98f703de7b15e32fd9b18b6.001.1",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Coastal Flood Warning: Monroe Upper Keys; Monroe Middle Keys; Monroe Lower Keys",
+   "lat": 25.0939,
+   "lon": -80.5098,
+   "time": "2026-10-28T08:00:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=25.0939&lon=-80.5098"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.7472415d9a40f941f03023d01bc4ef7d925328de.001.2",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Coastal Flood Warning: Coastal Glynn; Coastal Camden",
+   "lat": 31.1742,
+   "lon": -81.4269,
+   "time": "2026-10-28T06:48:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=31.1742&lon=-81.4269"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.7472415d9a40f941f03023d01bc4ef7d925328de.003.1",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Coastal Flood Warning: Inland Flagler; Eastern Clay; Eastern Putnam +3 more",
+   "lat": 29.4575,
+   "lon": -81.3369,
+   "time": "2026-10-28T06:48:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=29.4575&lon=-81.3369"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.7472415d9a40f941f03023d01bc4ef7d925328de.002.2",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Coastal Flood Warning: Coastal Nassau; Coastal Duval; Coastal Flagler +2 more",
+   "lat": 30.6295,
+   "lon": -81.552,
+   "time": "2026-10-28T06:48:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=30.6295&lon=-81.552"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.75055b12fe06d19e658c2b3d3b3d3d9615b638c4.001.2",
+   "source": "NWS",
+   "category": "Flood",
+   "title": "Coastal Flood Warning: Coastal Volusia; Coastal Indian River; Coastal St. Lucie +5 more",
+   "lat": 29.1099,
+   "lon": -80.9444,
+   "time": "2026-10-28T06:40:00Z",
+   "severity": 2,
+   "url": "https://forecast.weather.gov/MapClick.php?lat=29.1099&lon=-80.9444"
+  },
+  {
+   "id": "USGS:us7000ttlm",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M6.0 earthquake, 214 km NW of Port-Olry, Vanuatu",
+   "lat": -13.9312,
+   "lon": 165.446,
+   "time": "2026-10-28T02:21:45Z",
+   "severity": 2,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm"
+  },
+  {
+   "id": "NOAA SPC:2026-10-27-hail-3",
+   "source": "NOAA SPC",
+   "category": "Severe Storm",
+   "title": "2.00\" hail reported near 14 SE Kent, Jeff Davis County, TX",
+   "lat": 30.93,
+   "lon": -104.04,
+   "time": "2026-10-28T00:55:00Z",
+   "severity": 2,
+   "url": "https://www.spc.noaa.gov/climo/reports/yesterday.html"
+  },
+  {
+   "id": "NWS:urn:oid:2.49.0.1.840.0.7500757842e62b9acb60d4e4c73594203c88a316.001.1",
    "source": "NWS",
    "category": "Flood",
    "title": "Flood Warning: Rio Arriba, NM",
    "lat": 36.065,
    "lon": -106.11,
-   "time": "2026-10-27T04:39:00Z",
+   "time": "2026-10-28T00:50:00Z",
    "severity": 2,
    "url": "https://forecast.weather.gov/MapClick.php?lat=36.065&lon=-106.11"
-  },
-  {
-   "id": "NWS:urn:oid:2.49.0.1.840.0.2cbc03485a196d2cfd623b86ec5ef0537f543ffd.001.1",
-   "source": "NWS",
-   "category": "Flood",
-   "title": "Flood Warning: Socorro, NM",
-   "lat": 34.99,
-   "lon": -107.025,
-   "time": "2026-10-27T01:14:00Z",
-   "severity": 2,
-   "url": "https://forecast.weather.gov/MapClick.php?lat=34.99&lon=-107.025"
   },
   {
    "id": "GDACS:DR1018332",
@@ -265,7 +298,7 @@
    "title": "Drought in Austria, Bosnia  and  Herzegovina, Belgium, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine, , Austria, Bosnia & Herzegovina, Belgium, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine, ",
    "lat": 48.44,
    "lon": 13.128,
-   "time": "2026-10-25T00:00:00Z",
+   "time": "2026-10-26T00:00:00Z",
    "severity": 2,
    "url": "https://www.gdacs.org/report.aspx?eventid=1018332&episodeid=25&eventtype=DR"
   },
@@ -276,20 +309,9 @@
    "title": "Drought in The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States, The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States",
    "lat": 18.486,
    "lon": -95.049,
-   "time": "2026-10-25T00:00:00Z",
+   "time": "2026-10-26T00:00:00Z",
    "severity": 2,
    "url": "https://www.gdacs.org/report.aspx?eventid=1027449&episodeid=12&eventtype=DR"
-  },
-  {
-   "id": "GDACS:DR1027465",
-   "source": "GDACS",
-   "category": "Drought",
-   "title": "Drought in Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda, Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda",
-   "lat": -1.214,
-   "lon": 32.075,
-   "time": "2026-10-25T00:00:00Z",
-   "severity": 2,
-   "url": "https://www.gdacs.org/report.aspx?eventid=1027465&episodeid=9&eventtype=DR"
   },
   {
    "id": "GDACS:DR1027450",
@@ -298,163 +320,240 @@
    "title": "Drought in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad, Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
    "lat": 8.344,
    "lon": 25.173,
-   "time": "2026-10-25T00:00:00Z",
+   "time": "2026-10-26T00:00:00Z",
    "severity": 2,
    "url": "https://www.gdacs.org/report.aspx?eventid=1027450&episodeid=12&eventtype=DR"
   },
   {
-   "id": "USGS:us7000ttgq",
+   "id": "USGS:us7000ttpk",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M5.0 earthquake, south of the Fiji Islands",
-   "lat": -23.7469,
-   "lon": -179.7358,
-   "time": "2026-10-27T15:31:42Z",
+   "title": "M4.7 earthquake, 81 km ENE of Mazha, China",
+   "lat": 44.2394,
+   "lon": 82.8042,
+   "time": "2026-10-28T15:40:55Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgq"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpk"
   },
   {
-   "id": "USGS:us7000ttgm",
+   "id": "USGS:us7000ttpe",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M5.0 earthquake, 27 km W of Río Grande, Panama",
-   "lat": 7.706,
-   "lon": -81.584,
-   "time": "2026-10-27T15:26:02Z",
+   "title": "M5.5 earthquake, 5 km ESE of Asahi, Japan",
+   "lat": 35.7015,
+   "lon": 140.7059,
+   "time": "2026-10-28T15:07:52Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgm"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe"
   },
   {
-   "id": "USGS:us7000ttgf",
+   "id": "USGS:us7000ttp7",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M5.4 earthquake, 128 km S of Pundong, Indonesia",
-   "lat": -9.1162,
-   "lon": 110.3305,
-   "time": "2026-10-27T14:44:00Z",
+   "title": "M4.5 earthquake, 13 km WSW of Āwash, Ethiopia",
+   "lat": 8.9241,
+   "lon": 40.0638,
+   "time": "2026-10-28T13:31:54Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp7"
   },
   {
-   "id": "USGS:us7000ttgh",
+   "id": "USGS:us7000ttp2",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M4.9 earthquake, 156 km S of Pundong, Indonesia",
-   "lat": -9.3662,
-   "lon": 110.2973,
-   "time": "2026-10-27T14:43:09Z",
+   "title": "M4.6 earthquake, south of the Fiji Islands",
+   "lat": -24.197,
+   "lon": -177.0372,
+   "time": "2026-10-28T12:58:58Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgh"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp2"
   },
   {
-   "id": "USGS:us7000ttfx",
+   "id": "USGS:us7000ttnz",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M4.6 earthquake, 5 km ENE of Tierra y Libertad, Mexico",
-   "lat": 16.3977,
-   "lon": -93.817,
-   "time": "2026-10-27T12:01:11Z",
+   "title": "M5.0 earthquake, Reykjanes Ridge",
+   "lat": 58.2153,
+   "lon": -32.3348,
+   "time": "2026-10-28T12:47:08Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnz"
   },
   {
-   "id": "USGS:us7000ttfs",
+   "id": "USGS:us7000ttnt",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M4.6 earthquake, 100 km W of El Aguilar, Argentina",
-   "lat": -23.1819,
-   "lon": -66.6616,
-   "time": "2026-10-27T11:41:22Z",
+   "title": "M4.9 earthquake, 88 km SE of Hihifo, Tonga",
+   "lat": -16.541,
+   "lon": -173.2355,
+   "time": "2026-10-28T12:35:23Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnt"
   },
   {
-   "id": "USGS:us7000ttfk",
+   "id": "USGS:us7000ttnq",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M5.2 earthquake, 191 km NW of Port-Olry, Vanuatu",
-   "lat": -14.0067,
-   "lon": 165.6479,
-   "time": "2026-10-27T10:50:35Z",
+   "title": "M4.9 earthquake, 1 km WSW of Butulan, Philippines",
+   "lat": 5.6073,
+   "lon": 125.4182,
+   "time": "2026-10-28T12:14:49Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnq"
   },
   {
-   "id": "USGS:us7000ttfj",
+   "id": "USGS:us7000ttnk",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M5.0 earthquake, 184 km NW of Port-Olry, Vanuatu",
-   "lat": -13.9437,
-   "lon": 165.7876,
-   "time": "2026-10-27T10:06:31Z",
+   "title": "M5.0 earthquake, Reykjanes Ridge",
+   "lat": 58.3556,
+   "lon": -32.2398,
+   "time": "2026-10-28T11:56:17Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfj"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk"
   },
   {
-   "id": "USGS:us7000ttfe",
+   "id": "USGS:us7000ttnc",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M5.0 earthquake, 206 km NW of Port-Olry, Vanuatu",
-   "lat": -13.9006,
-   "lon": 165.5556,
-   "time": "2026-10-27T09:20:55Z",
+   "title": "M5.5 earthquake, Reykjanes Ridge",
+   "lat": 58.1005,
+   "lon": -32.1508,
+   "time": "2026-10-28T11:37:49Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc"
   },
   {
-   "id": "USGS:us7000ttfc",
+   "id": "USGS:us7000ttmz",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M5.0 earthquake, 95 km NNE of Hihifo, Tonga",
-   "lat": -15.1739,
-   "lon": -173.4094,
-   "time": "2026-10-27T09:07:45Z",
+   "title": "M4.8 earthquake, 29 km SSW of Sarangani, Philippines",
+   "lat": 5.1505,
+   "lon": 125.3884,
+   "time": "2026-10-28T09:32:56Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmz"
   },
   {
-   "id": "USGS:us7000ttfb",
+   "id": "USGS:us7000ttmh",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M5.8 earthquake, 196 km NW of Port-Olry, Vanuatu",
-   "lat": -13.9141,
-   "lon": 165.6671,
-   "time": "2026-10-27T08:55:23Z",
+   "title": "M4.7 earthquake, 39 km SSW of Serrezuela, Argentina",
+   "lat": -30.9564,
+   "lon": -65.5684,
+   "time": "2026-10-28T07:02:12Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh"
   },
   {
-   "id": "USGS:us7000tte4",
+   "id": "USGS:us7000ttmb",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M4.9 earthquake, 69 km WSW of Kirakira, Solomon Islands",
-   "lat": -10.6683,
-   "lon": 161.3189,
-   "time": "2026-10-27T02:02:55Z",
+   "title": "M5.0 earthquake, 205 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.2258,
+   "lon": 159.5373,
+   "time": "2026-10-28T06:12:47Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb"
   },
   {
-   "id": "USGS:us7000tte0",
+   "id": "USGS:us7000ttm2",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M4.6 earthquake, 203 km SSE of Tateyama, Japan",
-   "lat": 33.2845,
-   "lon": 140.7128,
-   "time": "2026-10-27T01:17:53Z",
+   "title": "M5.0 earthquake, 200 km W of Sola, Vanuatu",
+   "lat": -13.7421,
+   "lon": 165.7007,
+   "time": "2026-10-28T04:31:04Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2"
   },
   {
-   "id": "USGS:us7000ttdt",
+   "id": "USGS:us7000ttlt",
    "source": "USGS",
    "category": "Earthquake",
-   "title": "M4.8 earthquake, 54 km E of Tomioka, Japan",
-   "lat": 37.3869,
-   "lon": 141.625,
-   "time": "2026-10-27T00:25:08Z",
+   "title": "M5.6 earthquake, 174 km NW of Port-Olry, Vanuatu",
+   "lat": -14.0693,
+   "lon": 165.8001,
+   "time": "2026-10-28T02:59:48Z",
    "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt"
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt"
+  },
+  {
+   "id": "USGS:us7000ttlk",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.2 earthquake, 220 km NW of Port-Olry, Vanuatu",
+   "lat": -13.8123,
+   "lon": 165.4612,
+   "time": "2026-10-28T02:17:15Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk"
+  },
+  {
+   "id": "USGS:us7000ttli",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M4.8 earthquake, 217 km NW of Port-Olry, Vanuatu",
+   "lat": -13.8902,
+   "lon": 165.4403,
+   "time": "2026-10-28T02:13:55Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli"
+  },
+  {
+   "id": "USGS:us7000ttld",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.5 earthquake, 221 km NW of Port-Olry, Vanuatu",
+   "lat": -13.8946,
+   "lon": 165.389,
+   "time": "2026-10-28T01:39:11Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld"
+  },
+  {
+   "id": "USGS:us7000ttlc",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.2 earthquake, 6 km NW of Balangonan, Philippines",
+   "lat": 5.6079,
+   "lon": 125.3054,
+   "time": "2026-10-28T01:11:54Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc"
+  },
+  {
+   "id": "USGS:us7000ttkk",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.1 earthquake, 7 km N of Balangonan, Philippines",
+   "lat": 5.6402,
+   "lon": 125.3536,
+   "time": "2026-10-27T23:43:51Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk"
+  },
+  {
+   "id": "USGS:us7000ttke",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.4 earthquake, 193 km WSW of Merizo Village, Guam",
+   "lat": 12.6676,
+   "lon": 142.9938,
+   "time": "2026-10-27T23:14:17Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke"
+  },
+  {
+   "id": "USGS:us7000ttis",
+   "source": "USGS",
+   "category": "Earthquake",
+   "title": "M5.4 earthquake, 210 km ENE of Nagqu, China",
+   "lat": 32.5388,
+   "lon": 93.9028,
+   "time": "2026-10-27T18:57:53Z",
+   "severity": 1,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis"
   },
   {
    "id": "NASA EONET:EONET_25730",
@@ -466,83 +565,6 @@
    "time": "2026-10-27T00:00:00Z",
    "severity": 1,
    "url": "https://www.metoc.navy.mil/jtwc/products/cp0326.tcw"
-  },
-  {
-   "id": "USGS:us7000ttd3",
-   "source": "USGS",
-   "category": "Earthquake",
-   "title": "M4.5 earthquake, 98 km NNW of Tobelo, Indonesia",
-   "lat": 2.5777,
-   "lon": 127.7372,
-   "time": "2026-10-26T22:52:22Z",
-   "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd3"
-  },
-  {
-   "id": "USGS:us7000ttd1",
-   "source": "USGS",
-   "category": "Earthquake",
-   "title": "M4.5 earthquake, 96 km ENE of Pamandzi, Mayotte",
-   "lat": -12.4277,
-   "lon": 46.0831,
-   "time": "2026-10-26T22:33:48Z",
-   "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd1"
-  },
-  {
-   "id": "USGS:us7000ttci",
-   "source": "USGS",
-   "category": "Earthquake",
-   "title": "M4.7 earthquake, 98 km S of Encounter Bay, Australia",
-   "lat": -36.4594,
-   "lon": 138.5321,
-   "time": "2026-10-26T21:18:11Z",
-   "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttci"
-  },
-  {
-   "id": "USGS:us7000ttc8",
-   "source": "USGS",
-   "category": "Earthquake",
-   "title": "M4.6 earthquake, 20 km NNW of La Ligua, Chile",
-   "lat": -32.2811,
-   "lon": -71.3014,
-   "time": "2026-10-26T20:52:11Z",
-   "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc8"
-  },
-  {
-   "id": "USGS:us7000ttc6",
-   "source": "USGS",
-   "category": "Earthquake",
-   "title": "M4.5 earthquake, 89 km SSE of Pondaguitan, Philippines",
-   "lat": 5.6361,
-   "lon": 126.5418,
-   "time": "2026-10-26T20:41:25Z",
-   "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc6"
-  },
-  {
-   "id": "USGS:us7000ttbh",
-   "source": "USGS",
-   "category": "Earthquake",
-   "title": "M4.9 earthquake, 100 km E of La Tirana, Chile",
-   "lat": -20.3438,
-   "lon": -68.6903,
-   "time": "2026-10-26T19:36:16Z",
-   "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh"
-  },
-  {
-   "id": "USGS:us7000ttb5",
-   "source": "USGS",
-   "category": "Earthquake",
-   "title": "M4.5 earthquake, 74 km SE of Rasht, Tajikistan",
-   "lat": 38.6442,
-   "lon": 71.0764,
-   "time": "2026-10-26T18:07:04Z",
-   "severity": 1,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5"
   },
   {
    "id": "NASA EONET:EONET_25769",
