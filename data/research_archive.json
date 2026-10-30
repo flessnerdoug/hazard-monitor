@@ -1,6 +1,284 @@
 {
  "items": [
   {
+   "id": "68cdb4b1f734",
+   "title": "Large-scale drivers of compounding hot and dry events in three breadbasket regions",
+   "url": "https://doi.org/10.5194/wcd-7-2107-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-30T16:37:26Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "305c02e3a274",
+   "title": "The internal variability modulates marine heatwave duration changes by day-to-day ocean memory in the recent decades",
+   "url": "https://doi.org/10.1175/jcli-d-26-0002.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-10-30T16:19:22Z",
+   "summary": "The duration of marine heatwaves (MHWs) determines the cumulative thermal stress imposed on marine organisms, thereby strongly influencing the severity of ecological consequences.",
+   "topics": [
+    "Heat",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "5dbdbd3b0407",
+   "title": "Influence of the Southern Indian Ocean Dipole on Interannual Variability in the Intensity of the South Asian Subtropical Westerly Jet in Boreal Winter",
+   "url": "https://doi.org/10.1175/jcli-d-26-0354.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-10-30T16:19:21Z",
+   "summary": "In boreal winter, orographic blocking by the Iranian Plateau and Tibetan Plateau splits the upper-tropospheric westerly jet and gives rise to the South Asian subtropical westerly jet (SAJ) along the southern flank of the two plateaus.",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "a7414943e5c0",
+   "title": "From A-Train to EarthCARE: a workshop on advancing science with multi-deca-dal satellite observations of aerosols, clouds, precipitation, and radiation",
+   "url": "https://doi.org/10.1175/bams-d-26-0316.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-10-30T15:49:03Z",
+   "summary": "",
+   "topics": [
+    "Rain & Flooding",
+    "Forecasting & AI",
+    "Air Quality"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "cdc0a743ca42",
+   "title": "Potential depictions of noctilucent clouds in William Ascroft’s sketches in 1884",
+   "url": "https://doi.org/10.1175/bams-d-26-0095.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-10-30T15:49:03Z",
+   "summary": "Noctilucent clouds (NLCs) are the highest clouds in the Earth’s atmosphere and occur at about 83 km altitude in the polar summer mesopause region. According to the current understanding, the first known observations of NLCs took place in the northern hemisphere in summer 1885.",
+   "topics": [],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "779a1c92f13d",
+   "title": "Deepening Mechanistic Understanding of Land Climate",
+   "url": "https://doi.org/10.1175/bams-d-26-0341.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-10-30T15:49:01Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "beda487cbc78",
+   "title": "Advancing Space Geodetic Capacity across Africa through Open Training and Collaborative Learning—The Geodesy for a Resilient Africa Summer School",
+   "url": "https://doi.org/10.1175/bams-d-26-0286.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-10-30T15:48:32Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "a57a88fb7389",
+   "title": "Snowfall and clouds may slow East Antarctic ice loss in a warmer world",
+   "url": "https://phys.org/news/2026-10-snowfall-clouds-east-antarctic-ice.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-30T14:40:08Z",
+   "summary": "A new modeling study, published in the journal Nature Climate Change, suggests that the East Antarctic Ice Sheet may be more resilient to extreme long-term warming than previously estimated.",
+   "topics": [
+    "Snow & Winter",
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "a6bfd940a4a6",
+   "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-10-30T11:34:16Z",
+   "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs.",
+   "topics": [],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "2d76d0562820",
+   "title": "Ancient corals reveal that El Niño events have gotten more extreme",
+   "url": "https://yaleclimateconnections.org/2026/10/ancient-corals-reveal-that-el-nino-events-have-gotten-more-extreme/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-30T10:59:00Z",
+   "summary": "Researchers analyzed the chemical composition of coral skeletons to study how the Pacific Ocean has changed over thousands of years.",
+   "topics": [
+    "Oceans & Sea Level",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "722d297baac7",
+   "title": "Atmospheric stabilization of the East Antarctic ice sheet under warming",
+   "url": "https://doi.org/10.1038/s41558-026-02791-x",
+   "source": "Nature Climate Change",
+   "kind": "research",
+   "published": "2026-10-30T10:01:49Z",
+   "summary": "Most coupled Earth system models do not include fully interactive ice sheets, introducing uncertainty in future projections of polar climate and global sea level.",
+   "topics": [
+    "Ice & Polar",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "6994e28b7876",
+   "title": "Fire pollution killed 3,560 people in Indonesia in September: Report",
+   "url": "https://phys.org/news/2026-10-pollution-people-indonesia-september.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-30T09:30:05Z",
+   "summary": "Pollution from smoke emitted by months of wildfires across Indonesia caused an estimated 3,560 deaths in the vast Southeast Asian archipelago in September, according to a new study.",
+   "topics": [
+    "Wildfire & Smoke"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "6ecb55afecad",
+   "title": "Scientists confirm global warming is accelerating faster than ever recorded",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261027231200.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-10-30T03:50:51Z",
+   "summary": "Earth is warming faster than ever recorded, with scientists detecting a major acceleration in global temperatures since around 2015. A new study reveals that the warming rate has surged to approximately 0.35°C per decade, nearly double the average pace observed from 1970 to 2015.",
+   "topics": [],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "beb6cc7ea08b",
+   "title": "Using machine learning to build safer cities",
+   "url": "https://phys.org/news/2026-10-machine-safer-cities.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-29T23:40:01Z",
+   "summary": "In eThekwini, researchers have harnessed machine learning and satellite data to spot the city's most landslide-prone zones.",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "c10fd8be1598",
+   "title": "Faraway tectonic forces may have accelerated the Gulf of California rifting",
+   "url": "https://phys.org/news/2026-10-faraway-tectonic-gulf-california-rifting.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-29T23:10:02Z",
+   "summary": "When the Baja California peninsula broke from mainland Mexico nearly 12 million years ago, it gave rise to the Gulf of California. New research suggests that this process of continental rifting was greatly accelerated due to tectonic forces on the opposite side of the Pacific Ocean.",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "c486ab1266e0",
+   "title": "Researchers observe the arrival of El Niño in Monterey Bay",
+   "url": "https://phys.org/news/2026-10-el-nio-monterey-bay.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-29T22:30:01Z",
+   "summary": "For more than 30 years, MBARI technology has recorded real-time data about Monterey Bay, from oceanographic conditions at the surface to biological surveys in the depths of Monterey Canyon.",
+   "topics": [
+    "Oceans & Sea Level",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "552d0160e979",
+   "title": "Waves alter Antarctic polynyas by breaking up surrounding sea ice",
+   "url": "https://phys.org/news/2026-10-antarctic-polynyas-sea-ice.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-29T22:20:02Z",
+   "summary": "Polynyas are one of Antarctica's great counterintuitive features: recurring areas of open water surrounded by vast expanses of sea ice. These unusual environments are hot spots for sea-ice production, ocean–atmosphere exchange and biological productivity.",
+   "topics": [
+    "Ice & Polar",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "95b455874d39",
+   "title": "Fresh as the microplastic-laden Sierra snow: Storms can deliver pollution to even remote locations",
+   "url": "https://phys.org/news/2026-10-fresh-microplastic-laden-sierra-storms.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-29T19:20:01Z",
+   "summary": "For the first time, UC Riverside scientists have measured how much microplastic pollution falls on the Sierra Nevada during snowstorms and were surprised to find significant amounts even in the most remote locations.",
+   "topics": [
+    "Snow & Winter"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "dfcd21515ede",
+   "title": "Key Atlantic currents could collapse this century, but the risk is missing from almost all national climate plans",
+   "url": "https://phys.org/news/2026-10-key-atlantic-currents-collapse-century.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-29T18:20:45Z",
+   "summary": "Icelandic government officials recently met to discuss a dramatic scenario: what if the current that circulates Atlantic waters weakened significantly, or collapsed altogether?",
+   "topics": [],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "821cc26d5f7d",
+   "title": "Analysis of Córdoba's urban trees identifies which species best tolerate heat",
+   "url": "https://phys.org/news/2026-10-analysis-crdoba-urban-trees-species.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-29T18:00:31Z",
+   "summary": "The orange tree emerges as one of the most heat-vulnerable trees, according to a University of Córdoba (UCO) study that analyzed 17 tree species found in Córdoba's urban environment.",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "fd4f62e65e58",
+   "title": "Rains bring relief to Indonesian city weary of fire haze",
+   "url": "https://phys.org/news/2026-10-relief-indonesian-city-weary-haze.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-10-29T17:41:40Z",
+   "summary": "Residents and firefighters in an Indonesian city long shrouded in a toxic haze brought on by months of wildfires rushed outside dancing and chanting as rain this week brought a welcome respite.",
+   "topics": [
+    "Wildfire & Smoke"
+   ],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
+   "id": "56fb1b056714",
+   "title": "Dar a luz en la frontera",
+   "url": "https://yaleclimateconnections.org/2026/10/dar-a-luz-en-la-frontera/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-10-29T17:24:47Z",
+   "summary": "Las mujeres embarazadas de las colonias de Arizona viven cerca de campos fumigados con pesticidas y lejos de la atención médica. Los planes estatales de salud materna no tienen en cuenta ni la contaminación ni el calor extremo.",
+   "topics": [],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
    "id": "6ebbeaa4953b",
    "title": "Africa's water availability sometimes goes untapped",
    "url": "https://phys.org/news/2026-10-africa-availability-untapped.html",
@@ -10,6 +288,19 @@
    "summary": "Water demand in Africa grew by around 26% between 2010 and 2020, yet around 717 million people lacked a piped water supply in 2020, according to research published in Nature.",
    "topics": [
     "Drought & Water"
+   ],
+   "first_seen": "2026-10-29T17:16:25Z"
+  },
+  {
+   "id": "bf18ab46b384",
+   "title": "Climate change effects on analogues of contrasting extratropical cyclones over the UK, Ireland and France",
+   "url": "https://doi.org/10.5194/wcd-7-2087-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-29T16:37:26Z",
+   "summary": "",
+   "topics": [
+    "Hurricanes & Tropical"
    ],
    "first_seen": "2026-10-29T17:16:25Z"
   },
@@ -49,19 +340,6 @@
    "summary": "Experts in climate, nature, health, national security, and financial risk have joined forces to call for a more integrated approach to government climate and nature risk assessments.",
    "topics": [
     "Health & Society"
-   ],
-   "first_seen": "2026-10-29T17:16:25Z"
-  },
-  {
-   "id": "bf18ab46b384",
-   "title": "Climate change effects on analogues of contrasting extratropical cyclones over the UK, Ireland and France",
-   "url": "https://doi.org/10.5194/wcd-7-2087-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-29T14:58:15Z",
-   "summary": "",
-   "topics": [
-    "Hurricanes & Tropical"
    ],
    "first_seen": "2026-10-29T17:16:25Z"
   },
@@ -2300,6 +2578,17 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T15:37:26Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "f0614d5c4a3d",
    "title": "Ancient wildfire study offers warning for a warming world",
    "url": "https://phys.org/news/2026-10-ancient-wildfire-world.html",
@@ -2323,17 +2612,6 @@
    "topics": [
     "Emissions & Policy"
    ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T13:58:15Z",
-   "summary": "",
-   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -3719,7 +3997,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T13:58:15Z",
+   "published": "2026-10-14T15:37:26Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -3730,7 +4008,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T13:58:15Z",
+   "published": "2026-10-14T15:37:26Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -3831,7 +4109,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T13:58:15Z",
+   "published": "2026-10-13T15:37:26Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -3844,7 +4122,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T13:58:15Z",
+   "published": "2026-10-13T15:37:26Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4401,7 +4679,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T13:58:15Z",
+   "published": "2026-10-06T15:37:26Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4589,6 +4867,19 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "bf4616bab8df",
+   "title": "Assessing the plausibility of unprecedented events: a process-based approach applied to month-long heatwaves in Western Europe",
+   "url": "https://doi.org/10.5194/wcd-7-1919-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-09-30T15:37:26Z",
+   "summary": "",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "a6c467989a2f",
    "title": "Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis",
    "url": "https://www.carbonbrief.org/analysis-wind-and-solar-save-uk-from-gas-imports-worth-5-9bn-during-hormuz-crisis",
@@ -4598,19 +4889,6 @@
    "summary": "The UK has avoided the need for gas imports worth £5.9bn since the start of the Hormuz crisis as a… The post Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis appeared first on Carbon Brief .",
    "topics": [
     "Emissions & Policy"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "bf4616bab8df",
-   "title": "Assessing the plausibility of unprecedented events: a process-based approach applied to month-long heatwaves in Western Europe",
-   "url": "https://doi.org/10.5194/wcd-7-1919-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-09-30T13:58:15Z",
-   "summary": "",
-   "topics": [
-    "Heat"
    ],
    "first_seen": "2026-10-21T01:46:18Z"
   },
@@ -4669,7 +4947,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T13:58:15Z",
+   "published": "2026-09-29T15:37:26Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -4683,7 +4961,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T13:58:15Z",
+   "published": "2026-09-29T15:37:26Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -4732,7 +5010,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1853-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T13:58:15Z",
+   "published": "2026-09-28T15:37:26Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -5202,6 +5480,20 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "3c4fff802540",
+   "title": "Spread/error relationship and spatial error representation in precipitation nowcasting: comparison of STEPS and generative AI",
+   "url": "https://doi.org/10.5194/wcd-7-1837-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-09-21T15:37:26Z",
+   "summary": "",
+   "topics": [
+    "Rain & Flooding",
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "89ddfc91d026",
    "title": "Cover 1",
    "url": "https://doi.org/10.1175/bams_1056_cover1",
@@ -5360,20 +5652,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "3c4fff802540",
-   "title": "Spread/error relationship and spatial error representation in precipitation nowcasting: comparison of STEPS and generative AI",
-   "url": "https://doi.org/10.5194/wcd-7-1837-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-09-21T13:58:15Z",
-   "summary": "",
-   "topics": [
-    "Rain & Flooding",
-    "Forecasting & AI"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "aad90f629deb",
    "title": "Near Real-time Evaluation of Operational Oceanographic Predictions: Over a Decade of Intercomparison by Global Ocean Forecasting Centers",
    "url": "https://doi.org/10.1175/bams-d-25-0185.1",
@@ -5479,7 +5757,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1821-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-18T13:58:15Z",
+   "published": "2026-09-18T15:37:26Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -5516,7 +5794,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1779-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T13:58:15Z",
+   "published": "2026-09-16T15:37:26Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -5527,7 +5805,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1797-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T13:58:15Z",
+   "published": "2026-09-16T15:37:26Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -5712,7 +5990,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1733-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T13:58:15Z",
+   "published": "2026-09-10T15:37:26Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -5723,7 +6001,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1759-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T13:58:15Z",
+   "published": "2026-09-10T15:37:26Z",
    "summary": "",
    "topics": [
     "Drought & Water"
@@ -5783,7 +6061,7 @@
    "source": "Bulletin of the AMS",
    "kind": "research",
    "published": "2026-09-09T15:20:39Z",
-   "summary": "Federated earth observation systems depend on calibration and validation infrastructure that most governance conversations treat as a technical detail rather than a foundational dependency.",
+   "summary": "Federated Earth observation systems depend on calibration and validation infrastructure that most governance conversations treat as a technical detail rather than a foundational dependency.",
    "topics": [
     "Health & Society"
    ],
@@ -5858,7 +6136,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1709-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-07T13:58:15Z",
+   "published": "2026-09-07T15:37:26Z",
    "summary": "",
    "topics": [
     "Forecasting & AI"
@@ -5905,6 +6183,19 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "4fafa36919b5",
+   "title": "Towards understanding the interannual variability of hail in Switzerland",
+   "url": "https://doi.org/10.5194/wcd-7-1681-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-09-04T15:37:26Z",
+   "summary": "",
+   "topics": [
+    "Severe Storms"
+   ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "0fb9ae403a72",
    "title": "The Need for a New Comprehensive View of the Middle Atmosphere–The Potential of Infrared Limb-Imaging Tomography",
    "url": "https://doi.org/10.1175/bams-d-24-0217.1",
@@ -5913,19 +6204,6 @@
    "published": "2026-09-04T14:25:18Z",
    "summary": "Earth’s middle atmosphere spans the deep region from the upper troposphere/lower stratosphere at around 10-km altitude to the mesosphere/lower thermosphere at around 100-km altitude. It is being increasingly recognized for its role in driving extreme surface weather and regional climate change.",
    "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "4fafa36919b5",
-   "title": "Towards understanding the interannual variability of hail in Switzerland",
-   "url": "https://doi.org/10.5194/wcd-7-1681-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-09-04T13:58:15Z",
-   "summary": "",
-   "topics": [
-    "Severe Storms"
-   ],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -6121,19 +6399,6 @@
    "kind": "news",
    "published": "2026-08-30T13:07:17Z",
    "summary": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when huge icebergs break off, capsize, and collide with the glacier.",
-   "topics": [
-    "Ice & Polar"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "c59a135c42e4",
-   "title": "Scientists find a huge hidden ice reservoir beneath Utah’s mountains",
-   "url": "https://www.sciencedaily.com/releases/2026/08/260827010459.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-08-28T03:48:29Z",
-   "summary": "Beneath the rocky slopes of Mount Timpanogos lies far more ice than anyone walking across the surface might suspect. Researchers used gravity measurements to map the buried glacier in 3D and found it is about 83% ice, with enough frozen water to fill 600 Olympic swimming pools.",
    "topics": [
     "Ice & Polar"
    ],
