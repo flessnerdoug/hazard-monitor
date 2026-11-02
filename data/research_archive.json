@@ -1,6 +1,311 @@
 {
  "items": [
   {
+   "id": "eb83e9ae6ac9",
+   "title": "Historical records reveal the bitter truth about 17th-century Transylvania's climate",
+   "url": "https://phys.org/news/2026-11-historical-reveal-bitter-truth-17th.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-02T20:17:08Z",
+   "summary": "For roughly five centuries from about 1300, Europe experienced periods of unusually cold weather and extreme conditions collectively known as the Little Ice Age.",
+   "topics": [],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "c987c984ae23",
+   "title": "Long-term observations of marine clouds reveal how in-cloud motions shape rain",
+   "url": "https://phys.org/news/2026-11-term-marine-clouds-reveal-cloud.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-02T19:40:15Z",
+   "summary": "Research led by atmospheric scientists at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory sheds new light on one of the fundamental challenges of weather forecasting: determining the conditions under which a cloud will produce rain—and how much rain it will produce.",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "a8e063265783",
+   "title": "Colossal rains and flash floods hammer the U.S. Southwest and Florida peninsula",
+   "url": "https://yaleclimateconnections.org/2026/11/colossal-rains-and-flash-floods-hammer-the-u-s-southwest-and-florida-peninsula/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-02T19:03:53Z",
+   "summary": "Thunderstorms dumping 12 inches or more of rain triggered a flash flood emergency on Florida's Space Coast and may have contributed to a deadly plane crash near Palm Beach, while Arizona dealt with widespread flooding.",
+   "topics": [
+    "Rain & Flooding",
+    "Severe Storms"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "c5b475eea61d",
+   "title": "UN reports warn of large-scale damage to Earth's ice from climate change",
+   "url": "https://phys.org/news/2026-11-large-scale-earth-ice-climate.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-02T18:54:01Z",
+   "summary": "Exceeding 1.5C of global warming will have \"irreversible\" consequences for glaciers, sea ice and the Earth's frozen regions, two U.N. reports warned on Monday, calling for urgent action.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "4cc56c8958b4",
+   "title": "Decadal strengthening of the preceding-winter ENSO influence on subsequent pre-flood-season precipitation over southern China. Part I: Amplified El Niño teleconnection due to enhanced convective sensitivity under a warmer mean state",
+   "url": "https://doi.org/10.1175/jcli-d-26-0121.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-02T17:18:12Z",
+   "summary": "The pre-flood season (PFS; April–June) marks the onset of the rainy season over southern China (SC). Using observational and reanalysis datasets, we show that the relationship between El Niño-Southern Oscillation (ENSO) and subsequent PFS precipitation over SC is nonstationary, exhibiting a…",
+   "topics": [
+    "Rain & Flooding",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "65a1ff55f953",
+   "title": "Decadal strengthening of the preceding-winter ENSO influence on subsequent pre-flood-season precipitation over southern China. Part II: Strengthened La Niña teleconnection due to slower decay and enhanced WES feedback",
+   "url": "https://doi.org/10.1175/jcli-d-26-0122.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-02T17:18:11Z",
+   "summary": "In Part I, we documented a marked mid-1990s strengthening of the ENSO influence on pre-flood-season (PFS; April–June) rainfall over southern China (SC) and identified the dominant mechanism for the strengthened El Niño teleconnection.",
+   "topics": [
+    "Rain & Flooding",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "5dfee16c69b5",
+   "title": "Interactive: Who wants what at the COP31 climate change summit",
+   "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-11-02T16:57:31Z",
+   "summary": "Delegates will soon gather in the Turkish resort city of Antalya for UN climate negotiations, against a backdrop of war,… The post Interactive: Who wants what at the COP31 climate change summit appeared first on Carbon Brief .",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "9307a88a114e",
+   "title": "Climate-vulnerable Africa faces significant gaps in early warning systems, leaving millions at risk from extreme weather",
+   "url": "https://phys.org/news/2026-11-climate-vulnerable-africa-significant-gaps.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-02T16:40:20Z",
+   "summary": "Climate-related events affected at least 13 million people across Africa in 2025. Over the last decade alone, extreme weather has affected populations in Africa disproportionately.",
+   "topics": [],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "8c825744e6b8",
+   "title": "Community input strengthens urban flood adaptation model",
+   "url": "https://phys.org/news/2026-11-community-urban.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-02T14:40:06Z",
+   "summary": "Urban flooding causes significant social, environmental and economic losses every year. In Baltimore, those losses have increased in frequency and intensity since flooding records began in 1748 and are expected to continue doing so as the climate changes.",
+   "topics": [
+    "Rain & Flooding",
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "68d30decc776",
+   "title": "National study pinpoints states with steepest warming trends since 1980",
+   "url": "https://phys.org/news/2026-11-national-states-steepest-trends.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-02T14:20:01Z",
+   "summary": "Global warming, the observed increase in Earth's average global surface temperature since preindustrial times (1850–1900), currently stands at around 1.63 degrees Celsius. While this number is expected to continue to rise, local temperatures will not go up uniformly around the world.",
+   "topics": [],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "a0fc26fe1d44",
+   "title": "La insaciable sed de inteligencia artificial y cómo afecta a las comunidades latinas",
+   "url": "https://yaleclimateconnections.org/2026/11/la-insaciable-sed-de-inteligencia-artificial-y-como-afecta-a-las-comunidades-latinas/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-02T12:00:00Z",
+   "summary": "El río Colorado, que riega 5.5 millones de acres de tierras agrícolas, hoy enfrenta una doble presión: la extracción de agua para los centros de datos y el calentamiento global.",
+   "topics": [],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "88fa1e932bdd",
+   "title": "In some states, you can now plug solar panels into your wall",
+   "url": "https://yaleclimateconnections.org/2026/11/in-some-states-you-can-now-plug-solar-panels-into-your-wall/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-02T11:59:00Z",
+   "summary": "Plug-in systems are small but can save renters and homeowners hundreds of dollars a year.",
+   "topics": [],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "c79bfb352dfe",
+   "title": "Southeast Asian voices on climate change",
+   "url": "https://doi.org/10.1038/s41558-026-02783-x",
+   "source": "Nature Climate Change",
+   "kind": "research",
+   "published": "2026-11-02T10:02:32Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "7d64ef461a6a",
+   "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-11-02T09:50:36Z",
+   "summary": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its haunting appearance conceals a troubling warning about melting glaciers.",
+   "topics": [
+    "Ice & Polar",
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "db1488f176bf",
+   "title": "Reevaluating Large‐Scale Deformation Precursors of Great Subduction Earthquakes: Insights From Satellite Gravity and GNSS Data",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123947?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-02T02:13:37Z",
+   "summary": "",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "0097b196c0cb",
+   "title": "Urbanization Enhances Inner‐Core Rainfall During Tropical Cyclone Landfall",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126391?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-02T02:00:54Z",
+   "summary": "",
+   "topics": [
+    "Hurricanes & Tropical",
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "cdcef76386fb",
+   "title": "Evaluation‐Constrained Projections Reveal a Potentially Navigable Arctic by the 2030s",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123566?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-01T23:39:45Z",
+   "summary": "",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "cf022569917a",
+   "title": "Experimental Evidence of Reaction‐Driven Fracturing and Ultramafic Rock Weakening Induced by CO2 Mineralization",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124491?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-01T23:32:20Z",
+   "summary": "",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "ae827ab6264a",
+   "title": "Enhanced Sensitivity of the Asian Water Tower to La Niña in the 21st Century",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125445?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-01T23:30:21Z",
+   "summary": "",
+   "topics": [
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "adbafc5f5d1d",
+   "title": "How the River Network Shapes Spatiotemporal Drought Behavior Across Europe",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122313?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-01T23:25:45Z",
+   "summary": "",
+   "topics": [
+    "Drought & Water"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "6fb3d4070a22",
+   "title": "Climate change is killing the plants of Uluṟu‑Kata Tjuṯa: Aṉangu traditional owners are concerned",
+   "url": "https://phys.org/news/2026-10-climate-ulurukata-tjua-anangu-traditional.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-01T22:00:05Z",
+   "summary": "When we hear that climate change is damaging natural environments, it conjures images of rising seas eroding coastlines, or heat waves bleaching the Great Barrier Reef. But what about deserts?",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "2e4c21624dd0",
+   "title": "Collective human metabolism produces 2 billion metric tons of CO₂ a year, global study estimates",
+   "url": "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-01T22:00:01Z",
+   "summary": "A University of Bath–led study has estimated that the carbon dioxide produced by humans as our bodies turn food into energy rose by 74% between 1985 and 2015, reaching 2.05 billion metric tons a year.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "eb945e23f101",
+   "title": "Warmer seas and shifting pressure systems: The signs that suggest the Mediterranean's climate is 'tropicalizing'",
+   "url": "https://phys.org/news/2026-10-warmer-seas-shifting-pressure-mediterranean.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-01T19:00:01Z",
+   "summary": "Nowhere in the Iberian Peninsula or the Balearic Islands has a tropical climate—for this to be the case, the average temperature in the coldest month would have to be 18°C (64 degrees Fahrenheit) or higher.",
+   "topics": [],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "acc593e984ac",
+   "title": "Why some trees thrive far from home—and what that means for carbon sinks",
+   "url": "https://phys.org/news/2026-10-trees-home-carbon.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-01T18:00:01Z",
+   "summary": "In a study spanning 192 sites and four continents, researchers have discovered that conifers planted in the Southern Hemisphere grow up to four times faster and are more drought-resistant than those growing in their native ranges.",
+   "topics": [
+    "Drought & Water",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
    "id": "77080493f795",
    "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
    "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
@@ -32,7 +337,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2107-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-30T21:24:11Z",
+   "published": "2026-10-30T21:39:04Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-30T16:55:19Z"
@@ -314,7 +619,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2087-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-29T21:24:11Z",
+   "published": "2026-10-29T21:39:04Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical"
@@ -407,6 +712,17 @@
     "Rain & Flooding"
    ],
    "first_seen": "2026-10-29T17:16:25Z"
+  },
+  {
+   "id": "53c43f4f7a15",
+   "title": "Kirby Struhar",
+   "url": "https://www.noaa.gov/our-people/leadership/kirby-struhar",
+   "source": "NOAA News",
+   "kind": "news",
+   "published": "2026-10-29T15:59:00Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-02T20:36:18Z"
   },
   {
    "id": "cf3beb15c98a",
@@ -2577,6 +2893,17 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T20:39:04Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "d9541bbb8d33",
    "title": "What climate change is costing California",
    "url": "https://phys.org/news/2026-10-climate-california.html",
@@ -2588,17 +2915,6 @@
     "Heat",
     "Health & Society"
    ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T20:24:11Z",
-   "summary": "",
-   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -4008,7 +4324,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:24:11Z",
+   "published": "2026-10-14T20:39:04Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4019,7 +4335,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:24:11Z",
+   "published": "2026-10-14T20:39:04Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -4176,7 +4492,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:24:11Z",
+   "published": "2026-10-13T20:39:04Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -4189,7 +4505,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:24:11Z",
+   "published": "2026-10-13T20:39:04Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4742,7 +5058,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T20:24:11Z",
+   "published": "2026-10-06T20:39:04Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4949,7 +5265,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T20:24:11Z",
+   "published": "2026-09-30T20:39:04Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -5038,7 +5354,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:24:11Z",
+   "published": "2026-09-29T20:39:04Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -5052,7 +5368,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:24:11Z",
+   "published": "2026-09-29T20:39:04Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -5101,7 +5417,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1853-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T20:24:11Z",
+   "published": "2026-09-28T20:39:04Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -5549,7 +5865,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1837-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-21T20:24:11Z",
+   "published": "2026-09-21T20:39:04Z",
    "summary": "",
    "topics": [
     "Rain & Flooding",
@@ -5848,7 +6164,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1821-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-18T20:24:11Z",
+   "published": "2026-09-18T20:39:04Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -5885,7 +6201,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1779-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:24:11Z",
+   "published": "2026-09-16T20:39:04Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -5896,7 +6212,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1797-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:24:11Z",
+   "published": "2026-09-16T20:39:04Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -6081,7 +6397,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1733-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:24:11Z",
+   "published": "2026-09-10T20:39:04Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -6092,7 +6408,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1759-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:24:11Z",
+   "published": "2026-09-10T20:39:04Z",
    "summary": "",
    "topics": [
     "Drought & Water"
@@ -6227,7 +6543,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1709-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-07T20:24:11Z",
+   "published": "2026-09-07T20:39:04Z",
    "summary": "",
    "topics": [
     "Forecasting & AI"
@@ -6279,7 +6595,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1681-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-04T20:24:11Z",
+   "published": "2026-09-04T20:39:04Z",
    "summary": "",
    "topics": [
     "Severe Storms"
