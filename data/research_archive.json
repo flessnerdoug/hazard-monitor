@@ -1,6 +1,316 @@
 {
  "items": [
   {
+   "id": "a56a8dcec5ef",
+   "title": "Extremes, Teleconnections, and Trends in Growing Season Precipitation over the Corn Belt, 1182–2023 CE",
+   "url": "https://doi.org/10.1175/jcli-d-25-0457.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-03T16:52:21Z",
+   "summary": "Tree-ring chronologies were used to reconstruct growing-season precipitation for the North American Corn Belt from 1182–2023 CE.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "dd1176345a79",
+   "title": "Early winter underestimated Indian Ocean teleconnections to the Northern extra-tropics in seasonal forecast models",
+   "url": "https://doi.org/10.1175/jcli-d-26-0184.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-03T16:52:21Z",
+   "summary": "There has been increased attention to the Indian Ocean as a source of predictability for the early winter climate over the North Atlantic European (NAE) region in the form of a North Atlantic Oscillation (NAO)-like pattern.",
+   "topics": [
+    "Oceans & Sea Level",
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "ecb68baab303",
+   "title": "The seasonal, polar-amplified climate response to a latent heat transport forcing",
+   "url": "https://doi.org/10.1175/jcli-d-25-0501.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-03T16:52:16Z",
+   "summary": "Polar amplification is a well-documented phenomenon driven by multiple feedback mechanisms, with latent heat transport (LHT) playing a role that is often underestimated.",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "eb2a8f257703",
+   "title": "UK climate minister Katie White: COP31 must respond to ‘really scary’ science",
+   "url": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-11-03T16:50:09Z",
+   "summary": "The upcoming COP31 climate talks in Antalya, Turkey need to respond to the latest science on global warming, which is… The post UK climate minister Katie White: COP31 must respond to ‘really scary’ science appeared first on Carbon Brief .",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "1e283e28c638",
+   "title": "Bearing the borderlands",
+   "url": "https://yaleclimateconnections.org/2026/11/bearing-the-borderlands/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-03T16:38:02Z",
+   "summary": "Pregnant women in Arizona’s colonias live near pesticide-sprayed fields and far from care. State maternal health plans don’t consider pollution.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "9facbfcb655e",
+   "title": "Brazil’s data-driven plan for climate-resilient healthcare",
+   "url": "https://doi.org/10.1038/s41558-026-02779-7",
+   "source": "Nature Climate Change",
+   "kind": "research",
+   "published": "2026-11-03T16:14:47Z",
+   "summary": "",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "67996d3cbb93",
+   "title": "From the Drought Impact Reporter to the Drought Impacts Toolkit: Evolution, Experience, and Data from Tracking Drought Impacts Across Two Decades",
+   "url": "https://doi.org/10.1175/bams-d-25-0305.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-11-03T16:06:43Z",
+   "summary": "The National Drought Mitigation Center began tracking drought impacts in July 2005, when the Drought Impact Reporter (DIR, go.unl.edu/DIRdash) launched, and now has 20 years of longitudinal data for research, planning, policy and historic inquiry.",
+   "topics": [
+    "Drought & Water"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "79ac2a2f215a",
+   "title": "Afforestation reshapes wildfire activity across temperate regions worldwide",
+   "url": "https://phys.org/news/2026-11-afforestation-reshapes-wildfire-temperate-regions.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-03T15:30:02Z",
+   "summary": "Tree planting provides wood, biomass and climate benefits, but the location where those new forests are established matters.",
+   "topics": [
+    "Wildfire & Smoke"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "6d3ac5bf58c3",
+   "title": "State of the climate: 2026 likely to tie with 2024 as the warmest year on record",
+   "url": "https://www.carbonbrief.org/state-of-the-climate-2026-likely-to-tie-with-2024-as-the-warmest-year-on-record",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-11-03T13:48:04Z",
+   "summary": "With three-quarters of the year now past, it is virtually certain that 2026 will be the warmest or second-warmest year… The post State of the climate: 2026 likely to tie with 2024 as the warmest year on record appeared first on Carbon Brief .",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "302e4ed601fa",
+   "title": "Tree shade offers critical heat relief for people experiencing unsheltered homelessness",
+   "url": "https://phys.org/news/2026-11-tree-critical-relief-people-experiencing.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-03T13:20:05Z",
+   "summary": "People experiencing unsheltered homelessness in Salt Lake City face hours of dangerous daytime heat and hot nights that offer little relief, according to a University of Utah study.",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "92da6b46c376",
+   "title": "New study reveals where drought and extreme heat converge across Oman",
+   "url": "https://phys.org/news/2026-11-reveals-drought-extreme-converge-oman.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-03T12:00:04Z",
+   "summary": "Drought and extreme heat do not always occur separately. When they coincide, their combined effects can place greater pressure on water resources, agriculture, ecosystems, energy systems and public health.",
+   "topics": [
+    "Heat",
+    "Drought & Water",
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "d3e9fafce5a5",
+   "title": "Mitch McConnell’s climate legacy",
+   "url": "https://yaleclimateconnections.org/2026/11/mitch-mcconnells-climate-legacy/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-03T12:00:00Z",
+   "summary": "During his decades-long career, the retiring senator blocked climate action at every opportunity.",
+   "topics": [],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "9fd17e4d32ad",
+   "title": "An Ohio city is raising about $100,000 a year for solar through a carbon fee",
+   "url": "https://yaleclimateconnections.org/2026/11/an-ohio-city-is-raising-about-100000-a-year-for-solar-through-a-carbon-fee/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-03T11:59:00Z",
+   "summary": "Voters in Athens, Ohio, chose to add about $1.80 a month to their utility bills to help fund local solar projects.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "715d684ce505",
+   "title": "Zero emissions commitment depends on warming level",
+   "url": "https://doi.org/10.1038/s41558-026-02776-w",
+   "source": "Nature Climate Change",
+   "kind": "research",
+   "published": "2026-11-03T10:05:29Z",
+   "summary": "When anthropogenic CO 2 emissions cease, global temperature does not stabilize immediately. The resulting global temperature change, the zero emissions commitment, is central to carbon budget assessments and understanding reversibility of global warming, yet its dependence on prior warming levels…",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "3e8007dc22e5",
+   "title": "Time to drop the no-policy business-as-usual baselines",
+   "url": "https://doi.org/10.1038/s41558-026-02787-7",
+   "source": "Nature Climate Change",
+   "kind": "research",
+   "published": "2026-11-03T10:05:26Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "993378f4f9f6",
+   "title": "Fire losses to U.S. buildings could nearly triple by 2060 without new protections",
+   "url": "https://phys.org/news/2026-11-losses-triple.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-03T10:00:08Z",
+   "summary": "Fires in the U.S. are getting faster, larger and more dangerous, but people continue to develop and move into fire-prone regions.",
+   "topics": [
+    "Wildfire & Smoke"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "6910cc0583b6",
+   "title": "Study dives into lesser-known climate impacts of global reforestation",
+   "url": "https://phys.org/news/2026-11-lesser-climate-impacts-global-reforestation.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-03T02:40:01Z",
+   "summary": "Simon Fraser University researchers are zeroing in on how global forestation efforts impact our climate system beyond CO₂ removal in a new study.",
+   "topics": [],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "fd3526d0d723",
+   "title": "Climate change is making the tropics hotter",
+   "url": "https://phys.org/news/2026-11-climate-tropics-hotter.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-03T02:00:01Z",
+   "summary": "A new study finds that tropical areas often thought to be safe from the effects of climate change are actually experiencing significant changes in rainfall and extreme temperature events.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "8313cf22fcd4",
+   "title": "UK storm surges have far-flung, global climate connections",
+   "url": "https://phys.org/news/2026-11-uk-storm-surges-flung-global.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-03T01:20:01Z",
+   "summary": "Where a storm surge strikes along a stretch of U.K. coastline is decided by global climate patterns in the Atlantic, Arctic and even further afield—according to new research led by Cambridge University.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "eef5b788ff17",
+   "title": "Microbes at the end of the Earth: Antarctica's hidden biodiversity",
+   "url": "https://phys.org/news/2026-11-microbes-earth-antarctica-hidden-biodiversity.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-03T00:20:01Z",
+   "summary": "When we think about Antarctica, many people imagine penguins, seals and whales. However, the majority of Antarctica's scientific wonders cannot be seen without a microscope. These microbial communities form the foundation of Antarctic ecosystems yet remain largely invisible to most visitors.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "07cf1c7d33dd",
+   "title": "Improved snow model captures Northeast's winter thaws and runoff more accurately",
+   "url": "https://phys.org/news/2026-11-captures-northeast-winter-runoff-accurately.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-03T00:00:04Z",
+   "summary": "Mountain snow in the Northeast is different. The region's milder, more humid mountain climate shapes winter conditions that are different from those of the western United States. Yet, snow models don't always capture those differences.",
+   "topics": [
+    "Snow & Winter"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "3b8f9966eefc",
+   "title": "Arctic plant roots may play key role in climate change",
+   "url": "https://phys.org/news/2026-11-arctic-roots-play-key-role.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-02T23:20:01Z",
+   "summary": "A new review involving researchers at Umeå University has revealed the critical role that plant roots play in shaping how Arctic tundra ecosystems respond to climate change.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "19df04d6a60c",
+   "title": "Not in a FEMA flood zone? Your home could still be at risk—and you could suffer more than your neighbor",
+   "url": "https://phys.org/news/2026-11-fema-zone-home-neighbor.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-02T21:40:01Z",
+   "summary": "If your home isn't in a federally designated flood zone, flooding might seem like someone else's problem. No one requires you to buy flood insurance, and the map suggests you're in the clear. But reality may be very different.",
+   "topics": [
+    "Rain & Flooding",
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
+   "id": "e9663749fa37",
+   "title": "Reservoir, human activity impact Ravi River's surface water availability by fivefold",
+   "url": "https://phys.org/news/2026-11-reservoir-human-impact-ravi-river.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-02T21:00:21Z",
+   "summary": "What does a healthy river look like? For most of us, an obvious answer would involve two aspects: water flowing through a channel and green vegetation along its banks.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
    "id": "eb83e9ae6ac9",
    "title": "Historical records reveal the bitter truth about 17th-century Transylvania's climate",
    "url": "https://phys.org/news/2026-11-historical-reveal-bitter-truth-17th.html",
@@ -151,6 +461,21 @@
    "first_seen": "2026-11-02T20:36:18Z"
   },
   {
+   "id": "2435b651a020",
+   "title": "Prevalence of Local Emissions in Arctic Carbonaceous Aerosols Revealed by Dual Carbon Isotopes and Atmospheric Transport Modeling",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124056?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-02T10:26:49Z",
+   "summary": "",
+   "topics": [
+    "Ice & Polar",
+    "Emissions & Policy",
+    "Air Quality"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
+  },
+  {
    "id": "c79bfb352dfe",
    "title": "Southeast Asian voices on climate change",
    "url": "https://doi.org/10.1038/s41558-026-02783-x",
@@ -160,6 +485,19 @@
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-02T20:36:18Z"
+  },
+  {
+   "id": "ee99ff0be630",
+   "title": "Sparse‐Well Diffusion Reconstructions Enable Groundwater Transport Equation Recovery and Plume Refinement",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126144?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-02T09:55:19Z",
+   "summary": "",
+   "topics": [
+    "Drought & Water"
+   ],
+   "first_seen": "2026-11-03T18:12:13Z"
   },
   {
    "id": "7d64ef461a6a",
@@ -337,7 +675,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2107-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-30T21:39:04Z",
+   "published": "2026-10-30T22:05:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-30T16:55:19Z"
@@ -619,7 +957,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2087-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-29T21:39:04Z",
+   "published": "2026-10-29T22:05:06Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical"
@@ -2867,6 +3205,17 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T21:05:06Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "f642fda1f506",
    "title": "Tofu is the winner. Scientist creates new holistic scoring system to measure the impact of food",
    "url": "https://phys.org/news/2026-10-tofu-winner-scientist-holistic-scoring.html",
@@ -2890,17 +3239,6 @@
    "topics": [
     "Oceans & Sea Level"
    ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T20:39:04Z",
-   "summary": "",
-   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -4324,7 +4662,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:39:04Z",
+   "published": "2026-10-14T21:05:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -4335,7 +4673,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:39:04Z",
+   "published": "2026-10-14T21:05:06Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -4492,7 +4830,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:39:04Z",
+   "published": "2026-10-13T21:05:06Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -4505,7 +4843,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:39:04Z",
+   "published": "2026-10-13T21:05:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -5058,7 +5396,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T20:39:04Z",
+   "published": "2026-10-06T21:05:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -5265,7 +5603,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T20:39:04Z",
+   "published": "2026-09-30T21:05:06Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -5354,7 +5692,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:39:04Z",
+   "published": "2026-09-29T21:05:06Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -5368,7 +5706,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:39:04Z",
+   "published": "2026-09-29T21:05:06Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -5417,7 +5755,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1853-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T20:39:04Z",
+   "published": "2026-09-28T21:05:06Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -5865,7 +6203,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1837-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-21T20:39:04Z",
+   "published": "2026-09-21T21:05:06Z",
    "summary": "",
    "topics": [
     "Rain & Flooding",
@@ -6164,7 +6502,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1821-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-18T20:39:04Z",
+   "published": "2026-09-18T21:05:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -6201,7 +6539,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1779-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:39:04Z",
+   "published": "2026-09-16T21:05:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -6212,7 +6550,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1797-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-16T20:39:04Z",
+   "published": "2026-09-16T21:05:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -6397,7 +6735,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1733-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:39:04Z",
+   "published": "2026-09-10T21:05:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -6408,7 +6746,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1759-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-10T20:39:04Z",
+   "published": "2026-09-10T21:05:06Z",
    "summary": "",
    "topics": [
     "Drought & Water"
@@ -6543,7 +6881,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1709-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-07T20:39:04Z",
+   "published": "2026-09-07T21:05:06Z",
    "summary": "",
    "topics": [
     "Forecasting & AI"
@@ -6595,7 +6933,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1681-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-04T20:39:04Z",
+   "published": "2026-09-04T21:05:06Z",
    "summary": "",
    "topics": [
     "Severe Storms"
@@ -6737,65 +7075,6 @@
    "published": "2026-09-02T04:25:48Z",
    "summary": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth.",
    "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "3c3fa13b4ac5",
-   "title": "Cover 1",
-   "url": "https://doi.org/10.1175/bams_1055_cover1",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-01T15:18:33Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "0de5d1a9f9f5",
-   "title": "Cover 4",
-   "url": "https://doi.org/10.1175/bams_1055_cover4",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-01T15:18:32Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "251715ce123e",
-   "title": "Cover 2",
-   "url": "https://doi.org/10.1175/bams_1055_cover2",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-01T15:18:32Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "fa53f8bb2cb3",
-   "title": "Cover 3",
-   "url": "https://doi.org/10.1175/bams_1055_cover3",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-01T15:18:32Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T15:48:10Z"
-  },
-  {
-   "id": "eb44f442a901",
-   "title": "One of Earth’s driest places was just covered in snow",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260901010709.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-09-01T09:06:10Z",
-   "summary": "Rare storms covered huge stretches of Chile’s Atacama Desert in snow and dumped extraordinary amounts of rain on one of the driest regions on Earth. The extreme weather shut down observatories, triggered damaging floods and mudflows, and unfolded against the backdrop of a strengthening El Niño.",
-   "topics": [
-    "Rain & Flooding",
-    "Snow & Winter",
-    "El Niño & La Niña"
-   ],
    "first_seen": "2026-10-21T01:46:18Z"
   }
  ]
