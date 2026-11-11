@@ -1,6 +1,289 @@
 {
  "items": [
   {
+   "id": "dca6fec15b31",
+   "title": "Taking into account the role of neglected farmer groups in recharging groundwater",
+   "url": "https://phys.org/news/2026-11-account-role-neglected-farmer-groups.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-11T17:50:01Z",
+   "summary": "A new study by researchers at the Indo-French Cell for Water Sciences (IFCWS), Indian Institute of Science (IISc), introduces a new framework for water budgeting in agricultural regions that includes farmers' social categories that are usually neglected.",
+   "topics": [
+    "Drought & Water",
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "03ca1f273645",
+   "title": "About 15,000 land vertebrate species could lose habitat to sea-level rise by 2100",
+   "url": "https://phys.org/news/2026-11-vertebrate-species-habitat-sea.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-11T16:40:04Z",
+   "summary": "The rate of sea-level rise is now more than 4 millimeters (0.16 inches) per year, having more than doubled since 1993–2002. Scientists estimate that this figure may go up to 10 millimeters (0.39 inches) per year in the near future.",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "1d24de69dbb6",
+   "title": "Global carbon emissions may have peaked in 2026—but only time will tell",
+   "url": "https://phys.org/news/2026-11-global-carbon-emissions-peaked.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-11T16:30:07Z",
+   "summary": "A new report suggests this year, carbon emissions may begin to trend downward for the first time. But it's important to take this with a grain of salt. While news reports have hailed this event, it will take years to confirm it wasn't just a blip caused by the U.S.–Iran war.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "293e3ccd9b11",
+   "title": "What to watch for – and prep for – across the Southeast U.S. and Eastern Seaboard as El Niño peaks",
+   "url": "https://yaleclimateconnections.org/2026/11/what-to-watch-for-and-prep-for-across-the-southeast-u-s-and-eastern-seaboard-as-el-nino-peaks/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-11T14:00:00Z",
+   "summary": "A cool, wet winter in the South is par for the course during El Niño, but a record-warm Gulf and Atlantic may boost the odds of extra-high tides and flooding rains (and could temper the hopes of East Coast snow lovers).",
+   "topics": [
+    "Rain & Flooding",
+    "Snow & Winter",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "1897ef8d608c",
+   "title": "Controls on the ocean response to idealized Antarctic meltwater input",
+   "url": "https://doi.org/10.1175/jcli-d-25-0564.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-11T13:22:18Z",
+   "summary": "Antarctic meltwater is expected to increase throughout the coming centuries and impact sea level, ocean circulation, and the coupled climate evolution. This motivates interest in understanding the ocean response to Antarctic freshwater injection, including potential sources of uncertainty.",
+   "topics": [
+    "Ice & Polar",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "734acfaa628e",
+   "title": "Wonder and ore: A spectacular new view from space maps Australia's mineral wealth",
+   "url": "https://phys.org/news/2026-11-ore-spectacular-view-space-australia.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-11T13:10:06Z",
+   "summary": "A new tool that uses detailed satellite images to help unlock Australia's mineral wealth has been unveiled.",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "f25da697c27d",
+   "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-11-11T12:32:48Z",
+   "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum.",
+   "topics": [
+    "Ice & Polar",
+    "Air Quality"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "5d47dcfed7c0",
+   "title": "The Army now has a clean, battery-electric train",
+   "url": "https://yaleclimateconnections.org/2026/11/the-army-now-has-a-clean-battery-electric-train/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-11T11:59:00Z",
+   "summary": "The train is in service at Fort Hood, where its battery also serves as a backup source of power during emergencies.",
+   "topics": [],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "55a5b82f6296",
+   "title": "The Global Kilometric Tropical Cyclone Wind Database (CyclObs) Enabling High-Resolution Data-Driven Studies",
+   "url": "https://doi.org/10.1175/bams-d-25-0144.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-11-11T11:57:08Z",
+   "summary": "Accurate, high-resolution ocean surface wind data is paramount for advancing tropical cyclone (TC) research and reducing uncertainties in operational forecasts. Here we introduce CyclObs, a global kilometer-scale TC ocean surface wind field dataset.",
+   "topics": [
+    "Hurricanes & Tropical",
+    "Oceans & Sea Level",
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "18eb9aa9e541",
+   "title": "Syukuro Manabe’s Contributions to the Hydrologic Sciences: A Land Model Development Perspective",
+   "url": "https://doi.org/10.1175/bams-d-26-0074.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-11-11T11:57:05Z",
+   "summary": "While Syukuro Manabe’s contributions to climate science are well known, his foundational contributions to the hydrologic sciences are equally noteworthy, though perhaps less frequently celebrated.",
+   "topics": [],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "6ffc5fd049bc",
+   "title": "India pollution monitors overwhelmed by toxic smog",
+   "url": "https://phys.org/news/2026-11-india-pollution-overwhelmed-toxic-smog.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-11T11:20:05Z",
+   "summary": "India's air pollution monitors were overwhelmed this week by toxic smog so severe that concentrations exceeded their upper measurement limit, equivalent to 66 times the World Health Organization's recommended daily maximum, regulators said.",
+   "topics": [
+    "Air Quality",
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "f33ddda62cbe",
+   "title": "El Niño looms over Colombia's battle with fire-prone plant",
+   "url": "https://phys.org/news/2026-11-el-nio-looms-colombia-prone.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-11T10:57:10Z",
+   "summary": "Colombian farmer Albert Montano razes a beautiful thorny shrub, fearful that its yellow flowers will fuel potent wildfires expected during the El Niño weather pattern.",
+   "topics": [
+    "Wildfire & Smoke",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "8614d06b20ea",
+   "title": "Why land—a scarce resource—is so important for climate protection",
+   "url": "https://phys.org/news/2026-11-scarce-resource-important-climate.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-11T10:00:12Z",
+   "summary": "A new study quantifies, for the first time, the interrelationships and competing objectives of two major areas of action for reducing greenhouse gas emissions: the phaseout of fossil fuels and measures taken on natural land, such as farmland, forests and wetlands.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "a1115f297189",
+   "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+   "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-11-11T07:00:00Z",
+   "summary": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in… The post Analysis: Climate-finance pledges fall 70% as countries meet at COP31 appeared first on Carbon Brief .",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "a7fa3985ef88",
+   "title": "Governments are failing to rein in emissions from their own power plants, analysis finds",
+   "url": "https://phys.org/news/2026-11-rein-emissions-power-analysis.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-10T23:40:04Z",
+   "summary": "World leaders meeting at the annual U.N. climate summit in November 2026 are wrestling with a persistent challenge: how to get countries to follow through on their commitments to reduce greenhouse gas emissions that are warming the planet.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "b3f99ab87c3a",
+   "title": "Seafloor clay reveals past dramatic ice loss in West Antarctica",
+   "url": "https://phys.org/news/2026-11-seafloor-clay-reveals-ice-loss.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-10T22:40:12Z",
+   "summary": "Scientists have discovered the best evidence yet to show that West Antarctica's most vulnerable ice streams—including its giant Thwaites Glacier—repeatedly collapsed and retreated far inland during natural warm periods of the last 800,000 years.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "07efc136f091",
+   "title": "Antarctic water analysis reveals unexpected stability in dissolved organic carbon",
+   "url": "https://phys.org/news/2026-11-antarctic-analysis-reveals-unexpected-stability.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-10T21:50:01Z",
+   "summary": "Researchers have analyzed water samples collected during two expeditions aboard the research icebreaker Polarstern to investigate how life and changing conditions on the Antarctic continental shelf affect carbon carried into the deep ocean.",
+   "topics": [
+    "Ice & Polar",
+    "Oceans & Sea Level",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "5bedaf186738",
+   "title": "Archives reveal how climate memories may reset with each generation",
+   "url": "https://phys.org/news/2026-11-archives-reveal-climate-memories-reset.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-10T20:20:23Z",
+   "summary": "The collective memory of floods and droughts influences where people settle, how they build and how they prepare for the next climatic extreme. Over decades, that memory can fade, and communities may return to places that once proved dangerous.",
+   "topics": [
+    "Rain & Flooding",
+    "Drought & Water"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "28ed1caee8eb",
+   "title": "A new method for tracking climate change and air pollution",
+   "url": "https://phys.org/news/2026-11-method-tracking-climate-air-pollution.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-10T20:20:06Z",
+   "summary": "Two papers by Prof. Thomas A. Weber develop a rank-based method to track environmental change. They apply the idea to follow Geneva's warming climate, and generalize the approach to quantify shifts in spatial air-pollution exposure across Switzerland.",
+   "topics": [
+    "Air Quality"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "6cb0e624f961",
+   "title": "Airborne imaging explores a mosaic of thawing permafrost",
+   "url": "https://phys.org/news/2026-11-airborne-imaging-explores-mosaic-permafrost.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-10T19:40:09Z",
+   "summary": "Permafrost in many of Earth's northern regions is thawing, a process that unlocks greenhouse gases, threatens infrastructure, and could alter landscapes and ecosystems.",
+   "topics": [
+    "Ice & Polar",
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "c7d3e4837672",
+   "title": "Deep reefs provide corals little refuge from extreme ocean heat",
+   "url": "https://phys.org/news/2026-11-deep-reefs-corals-refuge-extreme.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-10T19:20:16Z",
+   "summary": "Once regarded as potential safe havens for corals in a warming climate, deep reefs, which lie at depths between 90 and 150 meters (295 and 490 feet), are no longer sheltered from increasingly intense marine heat waves, according to a new study in Geophysical Research Letters.",
+   "topics": [
+    "Heat",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
    "id": "866628b9e09e",
    "title": "Analysis: Which countries have sent the most delegates to COP31?",
    "url": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
@@ -26,6 +309,46 @@
     "Health & Society"
    ],
    "first_seen": "2026-11-10T18:25:21Z"
+  },
+  {
+   "id": "6d08ce55b756",
+   "title": "Consistent Sea‐Level and Energy Budget Residuals Suggest Enhanced Deep‐Ocean Heat Uptake Since the Mid‐2010s",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125563?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-10T15:00:12Z",
+   "summary": "",
+   "topics": [
+    "Heat",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "da2cec8c6dd6",
+   "title": "Predictability Limit of RMM Index Modulated by Diverse ENSO Events",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125598?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-10T14:58:01Z",
+   "summary": "",
+   "topics": [
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "693b00dbf8f1",
+   "title": "Evaluation of Gridded Data Sets for Representing Precipitation Event Properties Across 20 U.S. Gulf Coast Locations",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125547?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-10T14:56:48Z",
+   "summary": "",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
   },
   {
    "id": "aa1515b23ae1",
@@ -166,6 +489,30 @@
    "first_seen": "2026-11-10T18:25:21Z"
   },
   {
+   "id": "7c2610939603",
+   "title": "Comets may have destroyed life's ingredients instead of delivering them to Earth",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261105224553.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-11-10T09:01:55Z",
+   "summary": "A century-old theory about the origins of life on Earth may be wrong. New research from the University of Cambridge suggests that comets traveled too fast and struck at unfavorable angles for the fragile molecules needed for life to survive, making successful delivery extraordinarily unlikely.",
+   "topics": [],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
+   "id": "6dcd2c5dbde1",
+   "title": "Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261109205358.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-11-10T06:05:25Z",
+   "summary": "Global fossil fuel emissions are projected to fall in 2026 as renewable energy and electric vehicles gain ground, but rising emissions from deforestation threaten to push total CO2 emissions to a new record.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-11T18:18:08Z"
+  },
+  {
    "id": "cb9a35665cbf",
    "title": "A further acceleration of clean energy is needed for global CO2 emissions to peak and decline",
    "url": "https://doi.org/10.1038/s41558-026-02821-8",
@@ -232,43 +579,6 @@
    "summary": "Regions worldwide may have already experienced around 90%–94% of the warming expected when the global average reaches 1.5°C above preindustrial levels, and 65%–76% of that expected at 2°C of warming.",
    "topics": [],
    "first_seen": "2026-11-10T18:25:21Z"
-  },
-  {
-   "id": "f5ede06deac3",
-   "title": "TurboMeter: an attribution framework for aviation turbulence events in a changing climate",
-   "url": "https://doi.org/10.5194/wcd-7-2229-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-11-09T22:20:01Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-11-09T21:15:19Z"
-  },
-  {
-   "id": "93c363655125",
-   "title": "Dynamical precursors to summer temperature extremes on the Antarctic Peninsula",
-   "url": "https://doi.org/10.5194/wcd-7-2213-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-11-09T22:20:01Z",
-   "summary": "",
-   "topics": [
-    "Ice & Polar"
-   ],
-   "first_seen": "2026-11-09T21:15:19Z"
-  },
-  {
-   "id": "d4e700010467",
-   "title": "Understanding the contrasting environments for localised and widespread heavy rainfall in the tropics",
-   "url": "https://doi.org/10.5194/wcd-7-2193-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-11-09T22:20:01Z",
-   "summary": "",
-   "topics": [
-    "Rain & Flooding"
-   ],
-   "first_seen": "2026-11-09T21:15:19Z"
   },
   {
    "id": "a25583d13bd0",
@@ -546,6 +856,43 @@
    "first_seen": "2026-11-09T21:15:19Z"
   },
   {
+   "id": "f5ede06deac3",
+   "title": "TurboMeter: an attribution framework for aviation turbulence events in a changing climate",
+   "url": "https://doi.org/10.5194/wcd-7-2229-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-11-08T23:08:10Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-09T21:15:19Z"
+  },
+  {
+   "id": "93c363655125",
+   "title": "Dynamical precursors to summer temperature extremes on the Antarctic Peninsula",
+   "url": "https://doi.org/10.5194/wcd-7-2213-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-11-08T23:08:10Z",
+   "summary": "",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-09T21:15:19Z"
+  },
+  {
+   "id": "d4e700010467",
+   "title": "Understanding the contrasting environments for localised and widespread heavy rainfall in the tropics",
+   "url": "https://doi.org/10.5194/wcd-7-2193-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-11-08T23:08:10Z",
+   "summary": "",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-09T21:15:19Z"
+  },
+  {
    "id": "45dd1c05fb40",
    "title": "Heavy rain can more than double glacier speeds in Alaska",
    "url": "https://phys.org/news/2026-11-heavy-glacier-alaska.html",
@@ -608,17 +955,6 @@
     "Forecasting & AI"
    ],
    "first_seen": "2026-11-07T16:42:47Z"
-  },
-  {
-   "id": "e76274d980c3",
-   "title": "The moisture mode-to-gravity wave spectrum as a framework to define tropical weather systems",
-   "url": "https://doi.org/10.5194/wcd-7-2171-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-11-06T22:20:01Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-11-06T17:47:45Z"
   },
   {
    "id": "0a067274b7b9",
@@ -1000,31 +1336,15 @@
    "first_seen": "2026-11-06T17:47:45Z"
   },
   {
-   "id": "fc109bd6bc27",
-   "title": "Co-occurrence of atmospheric deserts over Europe with strong positive temperature anomalies, thunderstorms, and dust events",
-   "url": "https://doi.org/10.5194/wcd-7-2133-2026",
+   "id": "e76274d980c3",
+   "title": "The moisture mode-to-gravity wave spectrum as a framework to define tropical weather systems",
+   "url": "https://doi.org/10.5194/wcd-7-2171-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-05T22:20:01Z",
+   "published": "2026-11-05T23:08:10Z",
    "summary": "",
-   "topics": [
-    "Severe Storms",
-    "Air Quality"
-   ],
-   "first_seen": "2026-11-05T18:27:58Z"
-  },
-  {
-   "id": "a80596971db0",
-   "title": "Boreal autumn to winter North Atlantic atmosphere–ocean coupling in large ensemble climate simulations",
-   "url": "https://doi.org/10.5194/wcd-7-2155-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-11-05T22:20:01Z",
-   "summary": "",
-   "topics": [
-    "Oceans & Sea Level"
-   ],
-   "first_seen": "2026-11-05T18:27:58Z"
+   "topics": [],
+   "first_seen": "2026-11-06T17:47:45Z"
   },
   {
    "id": "e8ad38c864f4",
@@ -1285,6 +1605,33 @@
    "published": "2026-11-05T01:00:01Z",
    "summary": "If you partitioned the entire Earth, from just below the surface to the top of the atmosphere, into 1-kilometer-square chunks, there would be billions of them.",
    "topics": [],
+   "first_seen": "2026-11-05T18:27:58Z"
+  },
+  {
+   "id": "fc109bd6bc27",
+   "title": "Co-occurrence of atmospheric deserts over Europe with strong positive temperature anomalies, thunderstorms, and dust events",
+   "url": "https://doi.org/10.5194/wcd-7-2133-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-11-04T23:08:10Z",
+   "summary": "",
+   "topics": [
+    "Severe Storms",
+    "Air Quality"
+   ],
+   "first_seen": "2026-11-05T18:27:58Z"
+  },
+  {
+   "id": "a80596971db0",
+   "title": "Boreal autumn to winter North Atlantic atmosphere–ocean coupling in large ensemble climate simulations",
+   "url": "https://doi.org/10.5194/wcd-7-2155-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-11-04T23:08:10Z",
+   "summary": "",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
    "first_seen": "2026-11-05T18:27:58Z"
   },
   {
@@ -2396,17 +2743,6 @@
    "first_seen": "2026-10-31T15:56:38Z"
   },
   {
-   "id": "68cdb4b1f734",
-   "title": "Large-scale drivers of compounding hot and dry events in three breadbasket regions",
-   "url": "https://doi.org/10.5194/wcd-7-2107-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-30T22:20:01Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-30T16:55:19Z"
-  },
-  {
    "id": "73f6ee1dbbd4",
    "title": "Hidden erosion: Study reveals soft mountain rock erodes three times faster than hard rock—with climate implications",
    "url": "https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html",
@@ -2650,6 +2986,17 @@
    "first_seen": "2026-10-30T16:55:19Z"
   },
   {
+   "id": "68cdb4b1f734",
+   "title": "Large-scale drivers of compounding hot and dry events in three breadbasket regions",
+   "url": "https://doi.org/10.5194/wcd-7-2107-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-29T23:08:10Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-30T16:55:19Z"
+  },
+  {
    "id": "c486ab1266e0",
    "title": "Researchers observe the arrival of El Niño in Monterey Bay",
    "url": "https://phys.org/news/2026-10-el-nio-monterey-bay.html",
@@ -2676,19 +3023,6 @@
     "Oceans & Sea Level"
    ],
    "first_seen": "2026-10-30T16:55:19Z"
-  },
-  {
-   "id": "bf18ab46b384",
-   "title": "Climate change effects on analogues of contrasting extratropical cyclones over the UK, Ireland and France",
-   "url": "https://doi.org/10.5194/wcd-7-2087-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-29T22:20:01Z",
-   "summary": "",
-   "topics": [
-    "Hurricanes & Tropical"
-   ],
-   "first_seen": "2026-10-29T17:16:25Z"
   },
   {
    "id": "95b455874d39",
@@ -3006,6 +3340,19 @@
    "summary": "When we think about Europe's winter weather, the Indian Ocean is probably not the first place we look. We might picture Atlantic storms, cold air arriving from the north or rain sweeping across the Mediterranean.",
    "topics": [
     "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-10-29T17:16:25Z"
+  },
+  {
+   "id": "bf18ab46b384",
+   "title": "Climate change effects on analogues of contrasting extratropical cyclones over the UK, Ireland and France",
+   "url": "https://doi.org/10.5194/wcd-7-2087-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-28T23:08:10Z",
+   "summary": "",
+   "topics": [
+    "Hurricanes & Tropical"
    ],
    "first_seen": "2026-10-29T17:16:25Z"
   },
@@ -4942,17 +5289,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T21:20:01Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "f642fda1f506",
    "title": "Tofu is the winner. Scientist creates new holistic scoring system to measure the impact of food",
    "url": "https://phys.org/news/2026-10-tofu-winner-scientist-holistic-scoring.html",
@@ -5141,7 +5477,7 @@
   },
   {
    "id": "50c3c0589149",
-   "title": "Near-Future Strengthening of ENSO-Related Sea Ice Variability in We st Antarctica",
+   "title": "Near-Future Strengthening of ENSO-Related Sea Ice Variability in West Antarctica",
    "url": "https://doi.org/10.1175/jcli-d-25-0028.1",
    "source": "Journal of Climate",
    "kind": "research",
@@ -5264,6 +5600,17 @@
     "Rain & Flooding",
     "Health & Society"
    ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-19T22:08:10Z",
+   "summary": "",
+   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -5399,12 +5746,12 @@
   },
   {
    "id": "eb8a351a7976",
-   "title": "Indian Ocean Dipole Impacts on Autumn Heat and Early-Winter Precipitation over the Arabian Peninsula",
+   "title": "Indian Ocean Dipole Impacts on Autumn Heat and Early Winter Precipitation over the Arabian Peninsula",
    "url": "https://doi.org/10.1175/jcli-d-25-0683.1",
    "source": "Journal of Climate",
    "kind": "research",
    "published": "2026-10-19T15:59:29Z",
-   "summary": "The Indian Ocean Dipole (IOD) exerts a season-spanning influence on Arabian Peninsula (AP) climate, modulating both autumn (September–November, SON) heat and early-winter (October–December, OND) precipitation.",
+   "summary": "The Indian Ocean dipole (IOD) exerts a season-spanning influence on Arabian Peninsula (AP) climate, modulating both autumn [September–November (SON)] heat and early winter [October–December (OND)] precipitation.",
    "topics": [
     "Heat",
     "Rain & Flooding",
@@ -5414,7 +5761,7 @@
   },
   {
    "id": "1f661d21094d",
-   "title": "Exploring Recent Changes in Tornado Activity via an Environment-based Tornado Count Model for CMIP6 Applications",
+   "title": "Exploring Recent Changes in Tornado Activity via an Environment-Based Tornado Count Model for CMIP6 Applications",
    "url": "https://doi.org/10.1175/jcli-d-25-0441.1",
    "source": "Journal of Climate",
    "kind": "research",
@@ -6427,31 +6774,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "991004e680b4",
-   "title": "The dual effect of urban areas on supercell storms",
-   "url": "https://doi.org/10.5194/wcd-7-2015-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-14T21:20:01Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "6ca8438eae14",
-   "title": "A composite-based analysis of the dynamical linkage of atmospheric rivers, warm conveyor belts, and extratropical cyclones",
-   "url": "https://doi.org/10.5194/wcd-7-2043-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-14T21:20:01Z",
-   "summary": "",
-   "topics": [
-    "Hurricanes & Tropical",
-    "Rain & Flooding"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "52a603bf3038",
    "title": "El Nino looms large over U.S. Winter Outlook",
    "url": "https://www.noaa.gov/news-release/el-nino-looms-large-over-us-winter-outlook",
@@ -6595,27 +6917,28 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "d3daf8a3a872",
-   "title": "Stratosphere–troposphere exchange and surface ozone pollution over tropical regions: a case study of Rossby wave breaking and tropopause folding",
-   "url": "https://doi.org/10.5194/wcd-7-1995-2026",
+   "id": "991004e680b4",
+   "title": "The dual effect of urban areas on supercell storms",
+   "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T21:20:01Z",
+   "published": "2026-10-13T22:08:10Z",
    "summary": "",
-   "topics": [
-    "Air Quality"
-   ],
+   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "23cf20285165",
-   "title": "The development and persistence of doldrums over the Great Barrier Reef",
-   "url": "https://doi.org/10.5194/wcd-7-1977-2026",
+   "id": "6ca8438eae14",
+   "title": "A composite-based analysis of the dynamical linkage of atmospheric rivers, warm conveyor belts, and extratropical cyclones",
+   "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T21:20:01Z",
+   "published": "2026-10-13T22:08:10Z",
    "summary": "",
-   "topics": [],
+   "topics": [
+    "Hurricanes & Tropical",
+    "Rain & Flooding"
+   ],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -6745,6 +7068,30 @@
     "Ice & Polar",
     "Forecasting & AI"
    ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "d3daf8a3a872",
+   "title": "Stratosphere–troposphere exchange and surface ozone pollution over tropical regions: a case study of Rossby wave breaking and tropopause folding",
+   "url": "https://doi.org/10.5194/wcd-7-1995-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-12T22:08:10Z",
+   "summary": "",
+   "topics": [
+    "Air Quality"
+   ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "23cf20285165",
+   "title": "The development and persistence of doldrums over the Great Barrier Reef",
+   "url": "https://doi.org/10.5194/wcd-7-1977-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-12T22:08:10Z",
+   "summary": "",
+   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -7161,17 +7508,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "68485fa47051",
-   "title": "Building blocks of localized storm tracks: revisiting asymmetries between the NH and SH in storm track strength",
-   "url": "https://doi.org/10.5194/wcd-7-1951-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-06T21:20:01Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "24bbfe3f5e4a",
    "title": "Evaluations of Precipitation, Temperature, and Circulation Characteristics in Simulations of CMIP6 Models over the Arabian Peninsula",
    "url": "https://doi.org/10.1175/jcli-d-26-0137.1",
@@ -7207,6 +7543,17 @@
    "kind": "research",
    "published": "2026-10-06T10:25:18Z",
    "summary": "Over 3,000 volunteers monitored the skies making aviation related weather observations, tracking airplanes and collecting ground-based airplane and contrail type information.",
+   "topics": [],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "68485fa47051",
+   "title": "Building blocks of localized storm tracks: revisiting asymmetries between the NH and SH in storm track strength",
+   "url": "https://doi.org/10.5194/wcd-7-1951-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-05T22:08:10Z",
+   "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
@@ -7368,19 +7715,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "bf4616bab8df",
-   "title": "Assessing the plausibility of unprecedented events: a process-based approach applied to month-long heatwaves in Western Europe",
-   "url": "https://doi.org/10.5194/wcd-7-1919-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-09-30T21:20:01Z",
-   "summary": "",
-   "topics": [
-    "Heat"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "13c8aaceafbb",
    "title": "The interannual variability of the day-night compound hot days in the Yangtze River Basin: dynamic origins and seasonal predictability",
    "url": "https://doi.org/10.1175/jcli-d-26-0039.1",
@@ -7457,26 +7791,12 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "17ecb7a78889",
-   "title": "Mediterranean cyclones from pre-industrial to future climate: changes in extreme wind, precipitation and compound precipitation–wind events",
-   "url": "https://doi.org/10.5194/wcd-7-1899-2026",
+   "id": "bf4616bab8df",
+   "title": "Assessing the plausibility of unprecedented events: a process-based approach applied to month-long heatwaves in Western Europe",
+   "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T21:20:01Z",
-   "summary": "",
-   "topics": [
-    "Hurricanes & Tropical",
-    "Rain & Flooding"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "aca11a694723",
-   "title": "Global characterisation of the vertical temperature anomaly structure of heat extremes over land in ERA5",
-   "url": "https://doi.org/10.5194/wcd-7-1875-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-09-29T21:20:01Z",
+   "published": "2026-09-29T22:08:10Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -7520,16 +7840,29 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "0a7ec6090101",
-   "title": "Dynamics of the Asian Summer Monsoon Anticyclone: insights from potential vorticity tendency diagnostics",
-   "url": "https://doi.org/10.5194/wcd-7-1853-2026",
+   "id": "17ecb7a78889",
+   "title": "Mediterranean cyclones from pre-industrial to future climate: changes in extreme wind, precipitation and compound precipitation–wind events",
+   "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T21:20:01Z",
+   "published": "2026-09-28T22:08:10Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
     "Rain & Flooding"
+   ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "aca11a694723",
+   "title": "Global characterisation of the vertical temperature anomaly structure of heat extremes over land in ERA5",
+   "url": "https://doi.org/10.5194/wcd-7-1875-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-09-28T22:08:10Z",
+   "summary": "",
+   "topics": [
+    "Heat"
    ],
    "first_seen": "2026-10-21T01:46:18Z"
   },
@@ -7556,6 +7889,20 @@
    "summary": "An area of Amazon forest roughly the size of the US state of New Jersey has remained standing due to… The post Analysis: Lula presidency saved at least 20,000km2 of Brazilian Amazon since 2022 appeared first on Carbon Brief .",
    "topics": [
     "Emissions & Policy"
+   ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "0a7ec6090101",
+   "title": "Dynamics of the Asian Summer Monsoon Anticyclone: insights from potential vorticity tendency diagnostics",
+   "url": "https://doi.org/10.5194/wcd-7-1853-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-09-27T22:08:10Z",
+   "summary": "",
+   "topics": [
+    "Hurricanes & Tropical",
+    "Rain & Flooding"
    ],
    "first_seen": "2026-10-21T01:46:18Z"
   },
@@ -7968,20 +8315,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "3c4fff802540",
-   "title": "Spread/error relationship and spatial error representation in precipitation nowcasting: comparison of STEPS and generative AI",
-   "url": "https://doi.org/10.5194/wcd-7-1837-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-09-21T21:20:01Z",
-   "summary": "",
-   "topics": [
-    "Rain & Flooding",
-    "Forecasting & AI"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "325824d756e3",
    "title": "NOAA’s flood mapping tool now covers nearly 100% of U.S.",
    "url": "https://www.noaa.gov/news-release/noaa-flood-mapping-tool-now-covers-nearly-100-of-us",
@@ -8229,6 +8562,20 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "3c4fff802540",
+   "title": "Spread/error relationship and spatial error representation in precipitation nowcasting: comparison of STEPS and generative AI",
+   "url": "https://doi.org/10.5194/wcd-7-1837-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-09-20T22:08:10Z",
+   "summary": "",
+   "topics": [
+    "Rain & Flooding",
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "3013f402bde1",
    "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
    "url": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
@@ -8267,17 +8614,6 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
-   "id": "33fd08db22e6",
-   "title": "Subseasonal predictability and Rossby wave dynamics of blocking high during transitional seasons: insights from three successive events in May–June 2023",
-   "url": "https://doi.org/10.5194/wcd-7-1821-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-09-18T21:20:01Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
    "id": "e7f0ee6bd3b7",
    "title": "Genetically engineered crops increase climate resilience of US fields",
    "url": "https://doi.org/10.1038/s41558-026-02750-6",
@@ -8301,6 +8637,17 @@
    "topics": [
     "Ice & Polar"
    ],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
+   "id": "33fd08db22e6",
+   "title": "Subseasonal predictability and Rossby wave dynamics of blocking high during transitional seasons: insights from three successive events in May–June 2023",
+   "url": "https://doi.org/10.5194/wcd-7-1821-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-09-17T22:08:10Z",
+   "summary": "",
+   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -8566,55 +8913,6 @@
    "kind": "news",
    "published": "2026-09-10T06:35:49Z",
    "summary": "The Mediterranean may seem far removed from the world’s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning.",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "558c93622016",
-   "title": "Federation Cannot Replace Stewardship: Governing the Calibration Chain in Continental-Scale Observation Networks",
-   "url": "https://doi.org/10.1175/bams-d-26-0091.1",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-09T15:20:39Z",
-   "summary": "Federated Earth observation systems depend on calibration and validation infrastructure that most governance conversations treat as a technical detail rather than a foundational dependency.",
-   "topics": [
-    "Health & Society"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "37ead13394b0",
-   "title": "What Do We Mean by a Climate Mode? Concepts, Assumptions, and Interpretation in Reduced-Order Climate Dynamics",
-   "url": "https://doi.org/10.1175/bams-d-26-0040.1",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-09T15:20:39Z",
-   "summary": "The term climate mode is widely used to describe large-scale patterns of climate variability, yet its meaning is rarely defined with precision.",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "73371f55019b",
-   "title": "No longer polar opposites: the Arctic and the Antarctic are converging towards a seasonally dominated sea-ice regime",
-   "url": "https://doi.org/10.1175/bams-d-25-0340.1",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-09T15:20:30Z",
-   "summary": "Over the satellite period, Arctic and Antarctic sea ice extent seemed to follow opposite pathways. Arctic sea ice showed a strong and prolonged decrease until 2007 and then stalled in its rate of decline.",
-   "topics": [
-    "Ice & Polar",
-    "Forecasting & AI"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "3df0098b2dbb",
-   "title": "Physiological flexibility in changing climates",
-   "url": "https://doi.org/10.1038/s41558-026-02738-2",
-   "source": "Nature Climate Change",
-   "kind": "research",
-   "published": "2026-09-09T09:03:34Z",
-   "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   }
