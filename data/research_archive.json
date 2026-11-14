@@ -1,13 +1,133 @@
 {
  "items": [
   {
+   "id": "27fb26f08d22",
+   "title": "California steels for storms that could trigger massive waves, flooding",
+   "url": "https://phys.org/news/2026-11-california-steels-storms-trigger-massive.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-14T11:40:06Z",
+   "summary": "California was bracing Friday for a storm series packing heavy rain and surf that could once again flood coastal communities and potentially send monster waves pounding shores.",
+   "topics": [
+    "Rain & Flooding",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-14T16:49:52Z"
+  },
+  {
+   "id": "6398ea3f950a",
+   "title": "Southern Ocean Control on the Relationship Between AMOC Slowdown and ITCZ Shift in CMIP6 Models",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125573?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-14T08:49:06Z",
+   "summary": "",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-14T16:49:52Z"
+  },
+  {
+   "id": "342c4b02cd0d",
+   "title": "Low Frequency Icequakes Generated During Transient Cavity Drainage on a Greenlandic Outlet Glacier",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125244?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-14T08:45:38Z",
+   "summary": "",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-14T16:49:52Z"
+  },
+  {
+   "id": "9aa05d9444aa",
+   "title": "Estimates of Rare Storm Surges in Poorly Gauged Coastal Areas",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125482?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-14T08:34:43Z",
+   "summary": "",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-14T16:49:52Z"
+  },
+  {
+   "id": "71b1f81f41a7",
+   "title": "Humid Atmospheric Processing Regulates Spectral Masking of Black‐Carbon‐Containing Aerosols in the Sichuan Basin",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126098?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-14T06:53:01Z",
+   "summary": "",
+   "topics": [
+    "Emissions & Policy",
+    "Air Quality"
+   ],
+   "first_seen": "2026-11-14T16:49:52Z"
+  },
+  {
+   "id": "9dc69a196649",
+   "title": "Coastal Submesoscale Frontal Dynamics Link Nearshore Phytoplankton Blooms to the Continental Shelf",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126563?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-14T06:34:34Z",
+   "summary": "",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-14T16:49:52Z"
+  },
+  {
+   "id": "8ca7e703c3ef",
+   "title": "Ocean absorbs more fossil fuel carbon while land uptake stalls, 30 years of data show",
+   "url": "https://phys.org/news/2026-11-ocean-absorbs-fossil-fuel-carbon.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-13T18:40:21Z",
+   "summary": "The ocean has been absorbing carbon dioxide from fossil fuel emissions at an increasing rate since 1990, while the net uptake of carbon by forests, soils and other land ecosystems has not grown, according to a new study led by scientists at UC San Diego's Scripps Institution of Oceanography.",
+   "topics": [
+    "Oceans & Sea Level",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-14T16:49:52Z"
+  },
+  {
+   "id": "8e5b3824dff2",
+   "title": "Historical Multidecadal Variability of Intraseasonal Features of Sahel Rainfall in CMIP6 Models and Observations",
+   "url": "https://doi.org/10.1175/jcli-d-26-0072.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-13T18:09:13Z",
+   "summary": "We compare observations with seven large ensembles of CMIP6 historical simulations to understand the role that external forcings and internal variability may have played in modulating the frequency and intensity of daily rainfall, and the duration of the rainy season in the Sahel.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-14T16:49:52Z"
+  },
+  {
+   "id": "66888bafe7e3",
+   "title": "Simulated Transient Climate Response to Precessional Forcing: with and without Orbital Acceleration",
+   "url": "https://doi.org/10.1175/jcli-d-26-0287.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-13T18:09:12Z",
+   "summary": "Orbital acceleration is widely used in transient orbital simulations with atmosphere–ocean general circulation models (AOGCMs) to make the investigation of long-term climate variability computationally feasible.",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-14T16:49:52Z"
+  },
+  {
    "id": "b1575a02ada5",
-   "title": "Climate could force more than 200 billion from homes: U.N. migration chief",
+   "title": "Climate could force more than 200 million from homes: U.N. migration chief",
    "url": "https://phys.org/news/2026-11-climate-billion-homes-migration-chief.html",
    "source": "Phys.org",
    "kind": "news",
    "published": "2026-11-13T18:07:07Z",
-   "summary": "Climate change could force more than 200 billion people from their homes even as countries spend billions on securing their borders, the head of the U.N.'s migration body said Friday.",
+   "summary": "Climate change could force more than 200 million people from their homes even as countries spend billions on securing their borders, the head of the U.N.'s migration body said Friday.",
    "topics": [],
    "first_seen": "2026-11-13T18:20:25Z"
   },
@@ -264,7 +384,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2251-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-12T22:19:04Z",
+   "published": "2026-11-12T22:10:00Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-12T18:40:19Z"
@@ -1233,7 +1353,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2229-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T22:19:04Z",
+   "published": "2026-11-09T22:10:00Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-09T21:15:19Z"
@@ -1244,7 +1364,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2213-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T22:19:04Z",
+   "published": "2026-11-09T22:10:00Z",
    "summary": "",
    "topics": [
     "Ice & Polar"
@@ -1257,7 +1377,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2193-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T22:19:04Z",
+   "published": "2026-11-09T22:10:00Z",
    "summary": "",
    "topics": [
     "Rain & Flooding"
@@ -1609,7 +1729,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2171-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-06T22:19:04Z",
+   "published": "2026-11-06T22:10:00Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-06T17:47:45Z"
@@ -1999,7 +2119,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2133-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-05T22:19:04Z",
+   "published": "2026-11-05T22:10:00Z",
    "summary": "",
    "topics": [
     "Severe Storms",
@@ -2013,7 +2133,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2155-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-05T22:19:04Z",
+   "published": "2026-11-05T22:10:00Z",
    "summary": "",
    "topics": [
     "Oceans & Sea Level"
@@ -3395,7 +3515,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2107-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-30T22:19:04Z",
+   "published": "2026-10-30T22:10:00Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-30T16:55:19Z"
@@ -3677,7 +3797,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2087-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-29T22:19:04Z",
+   "published": "2026-10-29T22:10:00Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical"
@@ -5941,7 +6061,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2065-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-20T21:19:04Z",
+   "published": "2026-10-20T21:10:00Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -7426,7 +7546,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T21:19:04Z",
+   "published": "2026-10-14T21:10:00Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -7437,7 +7557,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T21:19:04Z",
+   "published": "2026-10-14T21:10:00Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -7594,7 +7714,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T21:19:04Z",
+   "published": "2026-10-13T21:10:00Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -7607,7 +7727,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T21:19:04Z",
+   "published": "2026-10-13T21:10:00Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -8160,7 +8280,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T21:19:04Z",
+   "published": "2026-10-06T21:10:00Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -8367,7 +8487,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T21:19:04Z",
+   "published": "2026-09-30T21:10:00Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -8456,7 +8576,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T21:19:04Z",
+   "published": "2026-09-29T21:10:00Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -8470,7 +8590,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T21:19:04Z",
+   "published": "2026-09-29T21:10:00Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -8519,7 +8639,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1853-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T21:19:04Z",
+   "published": "2026-09-28T21:10:00Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -8967,7 +9087,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1837-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-21T21:19:04Z",
+   "published": "2026-09-21T21:10:00Z",
    "summary": "",
    "topics": [
     "Rain & Flooding",
