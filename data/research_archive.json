@@ -1,6 +1,377 @@
 {
  "items": [
   {
+   "id": "d37eb6d61e49",
+   "title": "New sources of neurotoxin linked to algal blooms uncovered in Florida and Kansas",
+   "url": "https://phys.org/news/2026-11-sources-neurotoxin-linked-algal-blooms.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T18:40:01Z",
+   "summary": "Researchers have identified two previously unreported strains of freshwater cyanobacteria capable of producing a potent neurotoxin that poses risks to people, pets, wildlife and water resources and that some scientists suspect may have contributed to previous animal deaths.",
+   "topics": [
+    "Drought & Water"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "d8009c3beb59",
+   "title": "Clean energy choices shape environmental impacts beyond greenhouse gas emissions",
+   "url": "https://phys.org/news/2026-11-energy-choices-environmental-impacts-greenhouse.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T18:20:03Z",
+   "summary": "The burning of fossil fuels such as coal, gas and oil is the primary driver of climate change, but clean energy strategies to achieve net-zero greenhouse gas emissions do not systematically alleviate other environmental problems.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "9828b8bbb2bd",
+   "title": "Deep Venture: A new class of ocean exploration vehicle developed",
+   "url": "https://phys.org/news/2026-11-deep-venture-class-ocean-exploration.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T17:50:03Z",
+   "summary": "Researchers have a new capability for exploring some of the least understood regions of the ocean. Developed by Woods Hole Oceanographic Institution (WHOI) in collaboration with NASA's Jet Propulsion Laboratory (JPL) in Southern California, Deep Venture is a next-generation autonomous underwater…",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "bf3863e73687",
+   "title": "More worried, yet more hopeful: The paradox of young people's climate action",
+   "url": "https://phys.org/news/2026-11-paradox-young-people-climate-action.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T17:00:12Z",
+   "summary": "New research from NIHR School of Public Health Research, published in the Lancet Planetary Health, provides new insights into how taking action on climate can impact young people's climate change distress, mental health and well-being.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "39e04759312b",
+   "title": "How desert biocrusts respond to changing snow cover",
+   "url": "https://phys.org/news/2026-11-biocrusts.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T16:50:01Z",
+   "summary": "In the desert, winter snow may seem like a temporary visitor, but its effects can last long after the snow melts. By supplying water to dry ecosystems, snowfall helps sustain biological soil crusts (biocrusts), thin living layers on the soil surface that play important roles in desert ecosystems.",
+   "topics": [
+    "Snow & Winter"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "2a3eb0e1a0b5",
+   "title": "The crucial role of summer North Atlantic Oscillation’s shape in exciting the Silk Road pattern",
+   "url": "https://doi.org/10.1175/jcli-d-26-0098.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-20T16:36:43Z",
+   "summary": "The Summer North Atlantic Oscillation (SNAO) can excite the Silk Road pattern (SRP) and exert influences on weather and climate over various regions in the Eurasian continent. However, the relationship between the SNAO and SRP is moderate, implying the uncertainty of SNAO’s exciting effect.",
+   "topics": [],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "68ff77970469",
+   "title": "Extreme-Amplitude MJO Events: Multi-scale Origins and Amplified Role in Compound Extremes",
+   "url": "https://doi.org/10.1175/jcli-d-26-0362.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-20T16:36:42Z",
+   "summary": "The Madden-Julian Oscillation (MJO), the dominant mode of tropical intraseasonal climate variability, significantly influences global weather.",
+   "topics": [],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "604fa134af7f",
+   "title": "Spatial Shift in Southern Ocean Seasonal Ice Zone Production Trends",
+   "url": "https://doi.org/10.1175/jcli-d-26-0173.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-20T16:36:41Z",
+   "summary": "In recent decades, satellite observations have reported a marked increase in primary production across the Seasonal Ice Zone (SIZ) of the Southern Ocean, indicating enhanced ecosystem activity and a potential rise in biological carbon storage.",
+   "topics": [
+    "Oceans & Sea Level",
+    "Forecasting & AI",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "75d65474db4c",
+   "title": "Tokyo's hidden methane: Survey pinpoints nearly 100 hot spots",
+   "url": "https://phys.org/news/2026-11-tokyo-hidden-methane-survey-hot.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T16:00:05Z",
+   "summary": "Carbon dioxide (CO₂) has been the poster child of climate change, but another culprit could be flying just under the radar. Methane is a potent greenhouse gas with a global warming potential approximately 84 times greater than that of CO₂ over a 20-year period.",
+   "topics": [
+    "Forecasting & AI",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "2ba13ff02bb5",
+   "title": "Charting the course on recreational fishing data: A message from NOAA's Laura Grimm",
+   "url": "https://www.noaa.gov/stories/charting-course-on-recreational-fishing-data-message-from-noaas-laura-grimm",
+   "source": "NOAA News",
+   "kind": "news",
+   "published": "2026-11-20T15:18:32Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "1fa675118d13",
+   "title": "What can satellites see when they look at Europe's forests?",
+   "url": "https://phys.org/news/2026-11-satellites-europe-forests.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T13:00:24Z",
+   "summary": "Four new studies show how Earth observation has become an everyday instrument for watching and protecting the continent's forests and green spaces, from a single city park to the whole of Europe.",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "798e2d49694b",
+   "title": "Climate risk perception and use of climate information in organisations across Europe",
+   "url": "https://doi.org/10.1175/bams-d-25-0151.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-11-20T12:48:10Z",
+   "summary": "As climate-related risks intensify across Europe, there is growing demand for decision-relevant information among climate-sensitive organisations.",
+   "topics": [],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "4ac9ac627aac",
+   "title": "Study finds decades of water-saving innovation helped Northeast and Midwest avoid potential drought crises",
+   "url": "https://phys.org/news/2026-11-decades-northeast-midwest-potential-drought.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T12:20:04Z",
+   "summary": "A new study published in Environmental Research Letters finds that, despite experiencing rapid population growth, expanding economies and rising electricity demands over the past half century, the U.S.",
+   "topics": [
+    "Drought & Water"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "a6c459ad0b01",
+   "title": "What is BAAJA? Your permitting reform questions, answered",
+   "url": "https://yaleclimateconnections.org/2026/11/what-is-baaja-your-permitting-reform-questions-answered/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-20T12:00:00Z",
+   "summary": "The Bipartisan American Affordability and Jobs Act, known as BAAJA, aims to speed up permitting for big energy projects. Readers had a slew of questions about it.",
+   "topics": [],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "92f557b12e3c",
+   "title": "Free online tool helps landowners understand growing threats to U.S. forests",
+   "url": "https://yaleclimateconnections.org/2026/11/free-online-tool-helps-landowners-understand-growing-threats-to-u-s-forests/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-20T11:59:00Z",
+   "summary": "The tool allows users to zoom in on any forest area and toggle between current and future climate conditions and risks.",
+   "topics": [],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "13a977785cfb",
+   "title": "Climate and glacier geometry dominate global glacier–lake interactions",
+   "url": "https://doi.org/10.1038/s41558-026-02808-5",
+   "source": "Nature Climate Change",
+   "kind": "research",
+   "published": "2026-11-20T10:01:59Z",
+   "summary": "",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "a0dd221e03e7",
+   "title": "Concurrent atmospheric phenomena amplify precipitation extremes under anthropogenic climate change",
+   "url": "https://doi.org/10.1038/s41558-026-02805-8",
+   "source": "Nature Climate Change",
+   "kind": "research",
+   "published": "2026-11-20T10:01:57Z",
+   "summary": "",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "b22232fa4393",
+   "title": "UN climate talks enter crunch time with no deal in sight",
+   "url": "https://phys.org/news/2026-11-climate-crunch-sight.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T08:43:01Z",
+   "summary": "The U.N.'s COP31 climate talks enter their endgame Friday, with countries sharply divided over a draft deal lacking any mention of planet-heating fossil fuels, threatening to push the negotiations into overtime.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "03e2fb8fdc2a",
+   "title": "Data centers damage air quality long-distance, study reveals",
+   "url": "https://phys.org/news/2026-11-centers-air-quality-distance-reveals.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T05:13:51Z",
+   "summary": "The rapid expansion of data centers for artificial intelligence causes negative health and air quality impacts in regions far from where the brick-and-mortar facilities are located, according to a new study by MIT researchers.",
+   "topics": [
+    "Forecasting & AI",
+    "Air Quality",
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "5ac4b7e6dd40",
+   "title": "How nature-based solutions are failing informal settlements",
+   "url": "https://phys.org/news/2026-11-nature-based-solutions-settlements.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T03:40:02Z",
+   "summary": "New research from UCT says nature-based solutions for climate adaptation must move beyond participation to power-sharing partnerships that recognize lived experiences and relationships with nature.",
+   "topics": [],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "1a47aed355a3",
+   "title": "Extreme weather poses growing risks to global oil and natural gas shipping, new IEA report finds",
+   "url": "https://phys.org/news/2026-11-extreme-weather-poses-global-oil.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T03:20:06Z",
+   "summary": "Extreme weather events are posing significant risks to international oil and natural gas shipping, with the potential to damage critical infrastructure, disrupt major trade routes and threaten energy security, according to a new IEA report.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "8e50b87b92e7",
+   "title": "Innovative technology offers a bold new vision for monitoring ocean health",
+   "url": "https://phys.org/news/2026-11-technology-bold-vision-ocean-health.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T02:20:06Z",
+   "summary": "On an early October morning, as MBARI's research vessel Paragon left Moss Landing with three robots loaded on its deck, Monterey Bay was showing off.",
+   "topics": [
+    "Oceans & Sea Level",
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "77e911f395b7",
+   "title": "Climate communication that resonates must be based on empathy",
+   "url": "https://phys.org/news/2026-11-climate-communication-resonates-based-empathy.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T01:00:01Z",
+   "summary": "Climate change is a global reality, but people often encounter it through different local realities. For some, it enters everyday life through social media feeds, news reports, scientific findings and public discussion.",
+   "topics": [],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "ee6c271d9afa",
+   "title": "NEPTUNE poised to replace Navy's global weather model, improving forecasts over open ocean",
+   "url": "https://phys.org/news/2026-11-neptune-poised-navy-global-weather.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T00:40:07Z",
+   "summary": "The U.S. Naval Research Laboratory-developed Navy Environmental Prediction sysTem Utilizing a Nonhydrostatic Engine, known as NEPTUNE, is poised to become an operational Navy weather prediction capability, providing improved environmental forecasts to support naval operations around the globe.",
+   "topics": [
+    "Oceans & Sea Level",
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "761e89f1459a",
+   "title": "Putting Google's AI hurricane model to the test",
+   "url": "https://phys.org/news/2026-11-google-ai-hurricane.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-20T00:40:01Z",
+   "summary": "A week before Hurricane Melissa slammed into Jamaica last fall, the forecast models couldn't agree on where it was headed or how strong it would get. One got it right—an AI model from Google DeepMind, which called both the storm's path and its Category 5 strength.",
+   "topics": [
+    "Hurricanes & Tropical",
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "2818390df730",
+   "title": "Britain should treat healthy seas as essential infrastructure, say scientists",
+   "url": "https://phys.org/news/2026-11-britain-healthy-seas-essential-infrastructure.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-19T23:40:02Z",
+   "summary": "Researchers are calling for lasting investment in healthy seas to support food security, protect coastlines and strengthen economic resilience.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "1efa43f393f3",
+   "title": "Ethiopian volcano's mysterious methane outburst may have a culprit—magma that never erupted",
+   "url": "https://phys.org/news/2026-11-ethiopian-volcano-mysterious-methane-outburst.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-19T22:00:09Z",
+   "summary": "Experts were puzzled when satellite observations showed a volcano in Ethiopia emitting huge quantities of methane despite not erupting, but a team of researchers led by the University of Bristol believe they have discovered why this happened—and their findings could have implications for historical…",
+   "topics": [
+    "Forecasting & AI",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "beec435861de",
+   "title": "Kyle could form off Florida as extensive, prolonged coastal flood threat grows",
+   "url": "https://yaleclimateconnections.org/2026/11/kyle-could-form-off-florida-as-extensive-prolonged-coastal-flood-threat-grows/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-19T21:09:34Z",
+   "summary": "A developing storm could bring heavy rain, strong winds, and dangerous surf along the East Coast this weekend, with North Carolina’s vulnerable Outer Banks facing renewed flooding and erosion risks.",
+   "topics": [
+    "Rain & Flooding",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
+   "id": "ca1c54706916",
+   "title": "How tiger worms could help tackle the global sanitation problem",
+   "url": "https://phys.org/news/2026-11-tiger-worms-tackle-global-sanitation.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-19T20:00:01Z",
+   "summary": "Michael Templeton is professor of public health engineering in the Department of Civil and Environmental Engineering at Imperial College London and co-chair of the Imperial Global Development Lab Advisory Board.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-20T18:56:36Z"
+  },
+  {
    "id": "af6a3d370515",
    "title": "Weight-loss drugs could reduce deaths and ease pressure on agricultural land by 2050",
    "url": "https://phys.org/news/2026-11-weight-loss-drugs-deaths-ease.html",
@@ -1516,6 +1887,17 @@
    "first_seen": "2026-11-13T18:20:25Z"
   },
   {
+   "id": "89d9d83ace10",
+   "title": "Two distinct modes of North American spring temperature evolution shaped by tropical SST regimes and midlatitude circulation",
+   "url": "https://doi.org/10.5194/wcd-7-2251-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-11-12T22:43:06Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-12T18:40:19Z"
+  },
+  {
    "id": "ae867bfe50ad",
    "title": "El Niño threatens health, too—early warnings done right can save lives",
    "url": "https://phys.org/news/2026-11-el-nio-threatens-health-early.html",
@@ -1528,17 +1910,6 @@
     "Health & Society"
    ],
    "first_seen": "2026-11-13T18:20:25Z"
-  },
-  {
-   "id": "89d9d83ace10",
-   "title": "Two distinct modes of North American spring temperature evolution shaped by tropical SST regimes and midlatitude circulation",
-   "url": "https://doi.org/10.5194/wcd-7-2251-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-11-12T22:22:18Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-11-12T18:40:19Z"
   },
   {
    "id": "8723a44b8c40",
@@ -2504,7 +2875,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2229-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T22:22:18Z",
+   "published": "2026-11-09T22:43:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-09T21:15:19Z"
@@ -2515,7 +2886,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2213-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T22:22:18Z",
+   "published": "2026-11-09T22:43:06Z",
    "summary": "",
    "topics": [
     "Ice & Polar"
@@ -2528,7 +2899,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2193-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T22:22:18Z",
+   "published": "2026-11-09T22:43:06Z",
    "summary": "",
    "topics": [
     "Rain & Flooding"
@@ -2880,7 +3251,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2171-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-06T22:22:18Z",
+   "published": "2026-11-06T22:43:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-06T17:47:45Z"
@@ -3270,7 +3641,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2133-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-05T22:22:18Z",
+   "published": "2026-11-05T22:43:06Z",
    "summary": "",
    "topics": [
     "Severe Storms",
@@ -3284,7 +3655,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2155-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-05T22:22:18Z",
+   "published": "2026-11-05T22:43:06Z",
    "summary": "",
    "topics": [
     "Oceans & Sea Level"
@@ -4666,7 +5037,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2107-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-30T22:22:18Z",
+   "published": "2026-10-30T22:43:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-30T16:55:19Z"
@@ -4915,6 +5286,19 @@
    "first_seen": "2026-10-30T16:55:19Z"
   },
   {
+   "id": "bf18ab46b384",
+   "title": "Climate change effects on analogues of contrasting extratropical cyclones over the UK, Ireland and France",
+   "url": "https://doi.org/10.5194/wcd-7-2087-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-29T22:43:06Z",
+   "summary": "",
+   "topics": [
+    "Hurricanes & Tropical"
+   ],
+   "first_seen": "2026-10-29T17:16:25Z"
+  },
+  {
    "id": "c486ab1266e0",
    "title": "Researchers observe the arrival of El Niño in Monterey Bay",
    "url": "https://phys.org/news/2026-10-el-nio-monterey-bay.html",
@@ -4927,19 +5311,6 @@
     "El Niño & La Niña"
    ],
    "first_seen": "2026-10-30T16:55:19Z"
-  },
-  {
-   "id": "bf18ab46b384",
-   "title": "Climate change effects on analogues of contrasting extratropical cyclones over the UK, Ireland and France",
-   "url": "https://doi.org/10.5194/wcd-7-2087-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-29T22:22:18Z",
-   "summary": "",
-   "topics": [
-    "Hurricanes & Tropical"
-   ],
-   "first_seen": "2026-10-29T17:16:25Z"
   },
   {
    "id": "552d0160e979",
@@ -7193,6 +7564,17 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T21:43:06Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "57f72f8fa1d3",
    "title": "Machine learning reveals potential warning signal for polar vortex disruptions",
    "url": "https://phys.org/news/2026-10-machine-reveals-potential-polar-vortex.html",
@@ -7204,17 +7586,6 @@
     "Snow & Winter",
     "Forecasting & AI"
    ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T21:22:18Z",
-   "summary": "",
-   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -8683,7 +9054,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T21:22:18Z",
+   "published": "2026-10-14T21:43:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -8694,7 +9065,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T21:22:18Z",
+   "published": "2026-10-14T21:43:06Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -8865,7 +9236,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T21:22:18Z",
+   "published": "2026-10-13T21:43:06Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -8878,7 +9249,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T21:22:18Z",
+   "published": "2026-10-13T21:43:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -9431,7 +9802,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T21:22:18Z",
+   "published": "2026-10-06T21:43:06Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -9638,7 +10009,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T21:22:18Z",
+   "published": "2026-09-30T21:43:06Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -9727,7 +10098,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T21:22:18Z",
+   "published": "2026-09-29T21:43:06Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -9741,7 +10112,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T21:22:18Z",
+   "published": "2026-09-29T21:43:06Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -9790,7 +10161,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1853-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-28T21:22:18Z",
+   "published": "2026-09-28T21:43:06Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -10238,7 +10609,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1837-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-21T21:22:18Z",
+   "published": "2026-09-21T21:43:06Z",
    "summary": "",
    "topics": [
     "Rain & Flooding",
@@ -10528,43 +10899,6 @@
    "kind": "news",
    "published": "2026-09-19T02:08:56Z",
    "summary": "Scientists are looking to diatoms, sea sponges, and plants for a cleaner way to recover rare earth elements and other valuable minerals hidden inside coal ash, red mud, and mine tailings.",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "e7f0ee6bd3b7",
-   "title": "Genetically engineered crops increase climate resilience of US fields",
-   "url": "https://doi.org/10.1038/s41558-026-02750-6",
-   "source": "Nature Climate Change",
-   "kind": "research",
-   "published": "2026-09-18T09:02:20Z",
-   "summary": "",
-   "topics": [
-    "Health & Society"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "bc5690f47ed4",
-   "title": "Scientists just discovered why Arctic sea ice moves so strangely",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260917003708.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-09-18T02:13:16Z",
-   "summary": "Arctic sea ice may move in unexpected ways because individual ice floes are constantly colliding and transferring energy. Researchers found that this simple process can explain several long-standing mysteries about how quickly the ice moves and spreads.",
-   "topics": [
-    "Ice & Polar"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "33fd08db22e6",
-   "title": "Subseasonal predictability and Rossby wave dynamics of blocking high during transitional seasons: insights from three successive events in May–June 2023",
-   "url": "https://doi.org/10.5194/wcd-7-1821-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-09-17T22:08:10Z",
-   "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   }
