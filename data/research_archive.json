@@ -1,6 +1,338 @@
 {
  "items": [
   {
+   "id": "1ff75e47b707",
+   "title": "Satellite observations show how rain breaks up Earth's natural sunshades",
+   "url": "https://phys.org/news/2026-11-satellite-earth-natural-sunshades.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T21:40:06Z",
+   "summary": "Delivering on its promise, the European Space Agency's EarthCARE satellite is already yielding new insights into the role that clouds play in regulating Earth's climate.",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "0c199cd1d185",
+   "title": "A new simple and accurate measure of baroclinicity in the North Atlantic storm track",
+   "url": "https://doi.org/10.5194/wcd-7-2267-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-11-23T21:30:13Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "fccdf4ca2cb2",
+   "title": "Vertical structure and dynamical regimes of extreme warm events in the Central Mediterranean: a three-dimensional analysis over Rome (Italy)",
+   "url": "https://doi.org/10.5194/wcd-7-2277-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-11-23T21:30:13Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "ff6144f93185",
+   "title": "Super El Niño will add to Africa's heat crisis—how governments can protect people before it peaks",
+   "url": "https://phys.org/news/2026-11-super-el-nio-africa-crisis.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T20:50:01Z",
+   "summary": "The super El Niño developing in the Pacific is expected to strengthen toward the end of 2026 and persist into early 2027. It's set to intensify dangerous heat and cause severe drought across parts of Africa.",
+   "topics": [
+    "Heat",
+    "Drought & Water",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "e336510e6c91",
+   "title": "Hidden leaf dynamics could improve Amazon rainforest carbon uptake estimates",
+   "url": "https://phys.org/news/2026-11-hidden-leaf-dynamics-amazon-rainforest.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T20:00:11Z",
+   "summary": "From space, the Amazon rainforest looks like an unbroken expanse of green. But a new study conducted by researchers from the School of Biological Sciences at The University of Hong Kong (HKU), together with international collaborators, reveals seasonal leaf changes hidden within this seemingly…",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "57fad97ca3a6",
+   "title": "Baltic Sea measurements reveal more complex ocean-atmosphere exchanges than previously assumed",
+   "url": "https://phys.org/news/2026-11-baltic-sea-reveal-complex-ocean.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T19:40:08Z",
+   "summary": "Like humans, the ocean breathes. And when it does, a new study shows that far more is happening than researchers have previously assumed.",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "17d3f552bb53",
+   "title": "Key to successful 'green budgeting' uncovered",
+   "url": "https://phys.org/news/2026-11-key-successful-green-uncovered.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T19:40:06Z",
+   "summary": "A research team has identified the essential conditions required for \"green budgeting\"—a core fiscal policy for tackling climate change—to succeed.",
+   "topics": [],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "190a7dade3bb",
+   "title": "New modeling tool sheds light on how climate change could reshape marine ecosystems",
+   "url": "https://phys.org/news/2026-11-tool-climate-reshape-marine-ecosystems.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T19:00:01Z",
+   "summary": "A new high-resolution modeling tool is offering one of the clearest pictures yet of how climate change could affect a vital part of the marine food chain in Northwest European seas.",
+   "topics": [],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "8ac4af5bfef9",
+   "title": "Countries agree on new ways to achieve safe chemical use",
+   "url": "https://phys.org/news/2026-11-countries-ways-safe-chemical.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T18:30:02Z",
+   "summary": "Countries have agreed on new measures to speed up efforts aimed at preventing the harmful effects of chemical products on health and the environment, the U.N. said.",
+   "topics": [
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "8501b7a55464",
+   "title": "Study reveals surge-detachment sequence at Dehdal Glacier in Pamir Mountains",
+   "url": "https://phys.org/news/2026-11-reveals-surge-detachment-sequence-dehdal.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T18:20:01Z",
+   "summary": "Researchers have reconstructed a surge–detachment sequence at Dehdal Glacier in the Pamir Mountains of Tajikistan, revealing how a period of rapid glacier acceleration culminated in two successive large-scale ice-detachment events.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "8ebef1f24998",
+   "title": "What’s causing major coastal flooding in California?",
+   "url": "https://yaleclimateconnections.org/2026/11/whats-causing-major-coastal-flooding-in-california/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-23T17:55:00Z",
+   "summary": "El Niño, king tides, sea level rise, and a storm could add up to record-breaking conditions.",
+   "topics": [
+    "Rain & Flooding",
+    "Oceans & Sea Level",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "396ea0ef4ce7",
+   "title": "Diagnosing the Roles of Large-Scale Circulation in Tropical Precipitation Biases in CESM2 Using Nudging Technique",
+   "url": "https://doi.org/10.1175/jcli-d-26-0131.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-23T17:42:02Z",
+   "summary": "Persistent tropical precipitation biases in general circulation models can arise from errors in both the large-scale environment and the subgrid-scale processes that produce precipitation, making their respective contributions difficult to isolate.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "b34ca18233c1",
+   "title": "Eurasian–North American Hot Extremes: Intercontinental Covariability and Associated Physical Mechanisms",
+   "url": "https://doi.org/10.1175/jcli-d-26-0136.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-23T17:42:02Z",
+   "summary": "This study examines the intercontinental covariability of summer heatwave-related hot extremes between Eurasia and North America using 66 years (1959–2024) of ERA5 reanalysis and observational data.",
+   "topics": [
+    "Heat"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "ea38dac401f7",
+   "title": "Distinguishing dynamic and thermal effects of the Tibetan Plateau on the Asian dust cycle using regional climate modeling",
+   "url": "https://doi.org/10.1175/jcli-d-26-0020.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-23T17:42:01Z",
+   "summary": "The Tibetan Plateau (TP) has profound influence on the Asian dust cycle through dynamic and thermal effects, yet quantification of the impacts of these effects remains inadequate.",
+   "topics": [
+    "Air Quality"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "2dadc178956d",
+   "title": "How Antarctica helped to set Earth's hottest day on record",
+   "url": "https://phys.org/news/2026-11-antarctica-earth-hottest-day.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T17:40:09Z",
+   "summary": "Rivers in the sky bringing moisture to Antarctica during the Southern Hemisphere winter help explain short-term peaks in the world's average temperature, new research has found.",
+   "topics": [
+    "Heat",
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "fbf6d801ae5c",
+   "title": "Black Summer fires left lasting damage to some Australian coastal wetlands",
+   "url": "https://phys.org/news/2026-11-black-summer-left-australian-coastal.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T16:30:06Z",
+   "summary": "Research published today reveals the varied impact of the 2019–2020 Black Summer bushfires on Australia's coastal wetlands, with some ecosystems recovering within a few years while others continue to show signs of significant damage.",
+   "topics": [
+    "Wildfire & Smoke",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "b965c67a9c17",
+   "title": "ProTechnology Innovation Showcase: From the surface of the sun to the depths of the ocean\" – Use Cases in the Display and Communication of Complex NOAA Scientific Data",
+   "url": "https://www.noaa.gov/acquisition-grants/protech/news/protechnology-innovation-showcase-from-surface-of-sun-to-depths-of-ocean-use-cases-in-display-and",
+   "source": "NOAA News",
+   "kind": "news",
+   "published": "2026-11-23T16:16:01Z",
+   "summary": "",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "9cf7dcf00ddd",
+   "title": "COP31: Key outcomes agreed at the UN climate talks in Antalya",
+   "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-11-23T16:15:51Z",
+   "summary": "The COP31 climate talks in Antalya, Turkey, have failed to reach agreement on a “pact” that lacked clear references to… The post COP31: Key outcomes agreed at the UN climate talks in Antalya appeared first on Carbon Brief .",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "68c0fbe8b820",
+   "title": "Soil erosion: US formula used worldwide produces unreliable figures in the Global South",
+   "url": "https://phys.org/news/2026-11-soil-erosion-formula-worldwide-unreliable.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T16:00:10Z",
+   "summary": "Rain and wind erode fertile soil worldwide. The topsoil, where plants take root and where most of the nutrients are found, is washed away from fields by heavy rain, particularly on slopes and where the ground is not covered by vegetation.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "d48c75e44330",
+   "title": "Growing drought risk revealed in water‑rich Nova Scotia",
+   "url": "https://phys.org/news/2026-11-drought-revealed-waterrich-nova-scotia.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T15:50:01Z",
+   "summary": "Drought is often associated with arid landscapes, but a recent Dalhousie-led study shows it is becoming a growing concern in one of Canada's wetter coastal regions. The research is published in the Journal of Hydrology.",
+   "topics": [
+    "Drought & Water",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "275e2a5bbcac",
+   "title": "Move over, turkey: Add some seafood dishes to your Thanksgiving table",
+   "url": "https://www.noaa.gov/stories/move-over-turkey-weve-got-seafood-dishes-to-add-to-your-thanksgiving-table",
+   "source": "NOAA News",
+   "kind": "news",
+   "published": "2026-11-23T15:27:57Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "9baa007f34ad",
+   "title": "The Shift from Dry to Warm Dominance in Snow Drought on the Tibetan Plateau",
+   "url": "https://doi.org/10.1175/jcli-d-25-0519.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-23T13:51:01Z",
+   "summary": "Under climate change, the warming and shortening of the cold season have led to substantial snow-cover loss on the Tibetan Plateau, resulting in widespread and severe snow drought.",
+   "topics": [
+    "Drought & Water",
+    "Snow & Winter"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "6283d66241cb",
+   "title": "From Atmospheric Boundary Layer Science to Urban Air Mobility Operations",
+   "url": "https://doi.org/10.1175/bams-d-26-0359.1",
+   "source": "Bulletin of the AMS",
+   "kind": "research",
+   "published": "2026-11-23T12:16:36Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "51e2a8faba80",
+   "title": "Colorado ski hill struggles to stay open as winters warm",
+   "url": "https://yaleclimateconnections.org/2026/11/colorado-ski-hill-struggles-to-stay-open-as-winters-warm/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-23T11:59:00Z",
+   "summary": "Hoedown Hill was built to make skiing affordable for local families. But increasingly warm winters are making it difficult to keep the slopes open.",
+   "topics": [],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "f64182916e48",
+   "title": "UK digging new reservoirs to fight persistent droughts",
+   "url": "https://phys.org/news/2026-11-uk-reservoirs-persistent-droughts.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T10:20:13Z",
+   "summary": "Britain has long had a reputation for rain. But as it adapts to a warmer, drier climate, the U.K. is racing to complete a huge new reservoir, its first in over three decades.",
+   "topics": [
+    "Drought & Water"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "069de2a3a729",
+   "title": "Robot submarine exploring world's deepest ocean trench finds unprecedented volcanic activity",
+   "url": "https://phys.org/news/2026-11-robot-submarine-exploring-world-deepest.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T05:00:02Z",
+   "summary": "Fifty-two million years ago, the Pacific tectonic plate began to slide under the Philippine Sea plate, forming the Mariana Trench, the deepest known valley on the Earth's ocean floor. The deepest part of this abyss, the Challenger Deep, is almost 11,000 meters (36,000 feet) below sea level.",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
    "id": "f93661cb41ed",
    "title": "Atmospheric organic nitrogen emerges as a major nutrient source for global oceans",
    "url": "https://phys.org/news/2026-11-atmospheric-nitrogen-emerges-major-nutrient.html",
@@ -2180,7 +2512,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2251-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-12T21:02:09Z",
+   "published": "2026-11-12T21:30:13Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-12T18:40:19Z"
@@ -3129,25 +3461,12 @@
    "first_seen": "2026-11-10T18:25:21Z"
   },
   {
-   "id": "01abd2465b63",
-   "title": "Researchers develop AI tool to improve crisis communication",
-   "url": "https://phys.org/news/2026-11-ai-tool-crisis-communication.html",
-   "source": "Phys.org",
-   "kind": "news",
-   "published": "2026-11-09T21:20:13Z",
-   "summary": "During a disaster, emergency managers need quick, reliable data to make decisions, but the vast and changing stream of information that emerges during a crisis can make it difficult to distinguish facts from noise.",
-   "topics": [
-    "Forecasting & AI"
-   ],
-   "first_seen": "2026-11-10T18:25:21Z"
-  },
-  {
    "id": "f5ede06deac3",
    "title": "TurboMeter: an attribution framework for aviation turbulence events in a changing climate",
    "url": "https://doi.org/10.5194/wcd-7-2229-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T21:02:09Z",
+   "published": "2026-11-09T21:30:13Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-09T21:15:19Z"
@@ -3158,7 +3477,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2213-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T21:02:09Z",
+   "published": "2026-11-09T21:30:13Z",
    "summary": "",
    "topics": [
     "Ice & Polar"
@@ -3171,12 +3490,25 @@
    "url": "https://doi.org/10.5194/wcd-7-2193-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T21:02:09Z",
+   "published": "2026-11-09T21:30:13Z",
    "summary": "",
    "topics": [
     "Rain & Flooding"
    ],
    "first_seen": "2026-11-09T21:15:19Z"
+  },
+  {
+   "id": "01abd2465b63",
+   "title": "Researchers develop AI tool to improve crisis communication",
+   "url": "https://phys.org/news/2026-11-ai-tool-crisis-communication.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-09T21:20:13Z",
+   "summary": "During a disaster, emergency managers need quick, reliable data to make decisions, but the vast and changing stream of information that emerges during a crisis can make it difficult to distinguish facts from noise.",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-10T18:25:21Z"
   },
   {
    "id": "2e7ea8a401df",
@@ -3491,6 +3823,17 @@
    "first_seen": "2026-11-07T16:42:47Z"
   },
   {
+   "id": "e76274d980c3",
+   "title": "The moisture mode-to-gravity wave spectrum as a framework to define tropical weather systems",
+   "url": "https://doi.org/10.5194/wcd-7-2171-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-11-06T21:30:13Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-06T17:47:45Z"
+  },
+  {
    "id": "0a067274b7b9",
    "title": "New method measures microplastics in the air using an uncrewed aerial system",
    "url": "https://phys.org/news/2026-11-method-microplastics-air-uncrewed-aerial.html",
@@ -3502,17 +3845,6 @@
     "Ice & Polar"
    ],
    "first_seen": "2026-11-07T16:42:47Z"
-  },
-  {
-   "id": "e76274d980c3",
-   "title": "The moisture mode-to-gravity wave spectrum as a framework to define tropical weather systems",
-   "url": "https://doi.org/10.5194/wcd-7-2171-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-11-06T21:02:09Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-11-06T17:47:45Z"
   },
   {
    "id": "3255a35e8610",
@@ -3897,7 +4229,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2133-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-05T21:02:09Z",
+   "published": "2026-11-05T21:30:13Z",
    "summary": "",
    "topics": [
     "Severe Storms",
@@ -3911,7 +4243,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2155-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-05T21:02:09Z",
+   "published": "2026-11-05T21:30:13Z",
    "summary": "",
    "topics": [
     "Oceans & Sea Level"
@@ -5282,7 +5614,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2107-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-30T21:02:09Z",
+   "published": "2026-10-30T21:30:13Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-30T16:55:19Z"
@@ -5564,7 +5896,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2087-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-29T21:02:09Z",
+   "published": "2026-10-29T21:30:13Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical"
@@ -6011,7 +6343,7 @@
   },
   {
    "id": "5f499bd6a6ff",
-   "title": "The role of upper–deep ocean heat exchange in shaping warming patterns and climate feedbacks in CMIP6 models",
+   "title": "The Role of Upper–Deep Ocean Heat Exchange in Shaping Warming Patterns and Climate Feedbacks in CMIP6 Models",
    "url": "https://doi.org/10.1175/jcli-d-25-0738.1",
    "source": "Journal of Climate",
    "kind": "research",
@@ -7849,6 +8181,17 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T20:30:13Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "d9541bbb8d33",
    "title": "What climate change is costing California",
    "url": "https://phys.org/news/2026-10-climate-california.html",
@@ -7860,17 +8203,6 @@
     "Heat",
     "Health & Society"
    ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T20:02:09Z",
-   "summary": "",
-   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -9313,7 +9645,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:02:09Z",
+   "published": "2026-10-14T20:30:13Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -9324,7 +9656,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:02:09Z",
+   "published": "2026-10-14T20:30:13Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -9481,7 +9813,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:02:09Z",
+   "published": "2026-10-13T20:30:13Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -9494,7 +9826,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:02:09Z",
+   "published": "2026-10-13T20:30:13Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -10047,7 +10379,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T20:02:09Z",
+   "published": "2026-10-06T20:30:13Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -10254,7 +10586,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T20:02:09Z",
+   "published": "2026-09-30T20:30:13Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -10343,7 +10675,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:02:09Z",
+   "published": "2026-09-29T20:30:13Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -10357,7 +10689,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:02:09Z",
+   "published": "2026-09-29T20:30:13Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -10845,267 +11177,6 @@
    "kind": "news",
    "published": "2026-09-22T03:11:46Z",
    "summary": "Genetic evidence has revealed a previously unknown gentoo penguin species on the remote Kerguelen Islands and shown that gentoos actually consist of four distinct species.",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "3c4fff802540",
-   "title": "Spread/error relationship and spatial error representation in precipitation nowcasting: comparison of STEPS and generative AI",
-   "url": "https://doi.org/10.5194/wcd-7-1837-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-09-21T20:02:09Z",
-   "summary": "",
-   "topics": [
-    "Rain & Flooding",
-    "Forecasting & AI"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "325824d756e3",
-   "title": "NOAA’s flood mapping tool now covers nearly 100% of U.S.",
-   "url": "https://www.noaa.gov/news-release/noaa-flood-mapping-tool-now-covers-nearly-100-of-us",
-   "source": "NOAA News",
-   "kind": "news",
-   "published": "2026-09-21T16:50:28Z",
-   "summary": "",
-   "topics": [
-    "Rain & Flooding"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "1041ce787728",
-   "title": "The Great Miami Hurricane of 1926: 100 Years of Hurricane Forecasting and Research",
-   "url": "https://www.noaa.gov/heritage/multimedia/video/great-miami-hurricane-of-1926-100-years-of-hurricane-forecasting-and-research",
-   "source": "NOAA News",
-   "kind": "news",
-   "published": "2026-09-21T16:07:39Z",
-   "summary": "",
-   "topics": [
-    "Hurricanes & Tropical",
-    "Forecasting & AI"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "89ddfc91d026",
-   "title": "Cover 1",
-   "url": "https://doi.org/10.1175/bams_1056_cover1",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:39Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "7beb4542ded4",
-   "title": "OUTLOOKS",
-   "url": "https://doi.org/10.1175/bams_1056_425-428_outlooks",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:39Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "5a0bf2983931",
-   "title": "Cover 2",
-   "url": "https://doi.org/10.1175/bams_1056_cover2",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:39Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "fab0d3d66d5f",
-   "title": "Cover 4",
-   "url": "https://doi.org/10.1175/bams_1056_cover4",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:37Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "acf519d958d2",
-   "title": "Cover 3",
-   "url": "https://doi.org/10.1175/bams_1056_cover3",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:36Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "3e828ad1de49",
-   "title": "CONTENTS",
-   "url": "https://doi.org/10.1175/bams_1056_365-372_toc",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:34Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "79aca1ca135a",
-   "title": "AMS COUNCIL NOTES, MEMBER SPOTLIGHT, CROSS-WISE, CAREERS, CLEAR SKIES AHEAD, LIVING ON THE REAL WORLD with William H. Hooke",
-   "url": "https://doi.org/10.1175/bams_1056_401-416_45beacon",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:34Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "704583e5af95",
-   "title": "PARCELS",
-   "url": "https://doi.org/10.1175/bams_1056_373-379_nowcast",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:33Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "12394a34a4b1",
-   "title": "MEETINGS AND EVENTS",
-   "url": "https://doi.org/10.1175/bams_1056_417-424_calendar",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:33Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "143a515cd9a3",
-   "title": "Extreme Connections: Wave Pattern Links Severe Weather in Europe, North America",
-   "url": "https://doi.org/10.1175/bams-d-21-0295.a",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:17Z",
-   "summary": "",
-   "topics": [
-    "Severe Storms"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "8abf30f1729b",
-   "title": "Answering Questions on Stable Boundary Layers: The SAVANT Field Campaign",
-   "url": "https://doi.org/10.1175/bams-d-21-0332.a",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:15Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "fa00dd8722ca",
-   "title": "Enhancing the Message: A Probabilistic Approach to Post-Fire Debris-Flow Hazards",
-   "url": "https://doi.org/10.1175/bams-d-22-0188.a",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:12Z",
-   "summary": "",
-   "topics": [
-    "Wildfire & Smoke"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "84ad9eb65e35",
-   "title": "The ERA5 Extreme Season Explorer: Research at the Weather and Climate Interface",
-   "url": "https://doi.org/10.1175/bams-d-21-0348.a",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:11Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "204b4c8c2586",
-   "title": "Total Solar Eclipse Makes Coldest Continent Colder",
-   "url": "https://doi.org/10.1175/bams-d-22-0272.a",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T15:12:10Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "aad90f629deb",
-   "title": "Near Real-time Evaluation of Operational Oceanographic Predictions: Over a Decade of Intercomparison by Global Ocean Forecasting Centers",
-   "url": "https://doi.org/10.1175/bams-d-25-0185.1",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-21T11:23:09Z",
-   "summary": "Near real-time evaluations of operational predictions are required to ensure consistency and quality of forecasts. When possible, intercomparisons of such predictions against common observational datasets allows a further understanding of multi-system spread and uncertainty in predictions, and…",
-   "topics": [
-    "Oceans & Sea Level",
-    "Forecasting & AI"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "41991b6abd44",
-   "title": "Flash energy droughts strain grids",
-   "url": "https://doi.org/10.1038/s41558-026-02760-4",
-   "source": "Nature Climate Change",
-   "kind": "research",
-   "published": "2026-09-21T09:02:29Z",
-   "summary": "",
-   "topics": [
-    "Drought & Water"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "b9ce1fbf34ff",
-   "title": "Simple logic warnings improve climate argument evaluation across beliefs and partisanship",
-   "url": "https://doi.org/10.1038/s41558-026-02754-2",
-   "source": "Nature Climate Change",
-   "kind": "research",
-   "published": "2026-09-21T09:02:17Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "e929fbaae2d4",
-   "title": "Flash energy droughts in solar and wind resources under climate change",
-   "url": "https://doi.org/10.1038/s41558-026-02753-3",
-   "source": "Nature Climate Change",
-   "kind": "research",
-   "published": "2026-09-21T09:01:55Z",
-   "summary": "",
-   "topics": [
-    "Drought & Water"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "16e520e57b0a",
-   "title": "Increasing LGBTQIA+ inclusion in climate science",
-   "url": "https://doi.org/10.1038/s41558-026-02748-0",
-   "source": "Nature Climate Change",
-   "kind": "research",
-   "published": "2026-09-21T09:01:55Z",
-   "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   }
