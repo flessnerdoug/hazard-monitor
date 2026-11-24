@@ -1,6 +1,209 @@
 {
  "items": [
   {
+   "id": "0c81dba03164",
+   "title": "Thanksgiving week weather: Potent coastal storms, rain and snow to impact travel",
+   "url": "https://www.noaa.gov/news/thanksgiving-week-weather-potent-coastal-storms-rain-and-snow-to-impact-travel",
+   "source": "NOAA News",
+   "kind": "news",
+   "published": "2026-11-24T19:25:33Z",
+   "summary": "",
+   "topics": [
+    "Snow & Winter",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "17fd50d1e2c1",
+   "title": "A wild Thanksgiving nor’easter will bring shrieking winds, pounding rain, and record-approaching water levels",
+   "url": "https://yaleclimateconnections.org/2026/11/a-wild-thanksgiving-noreaster-will-bring-shrieking-winds-pounding-rain-and-record-approaching-water-levels/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-24T19:22:10Z",
+   "summary": "Coastal flooding is expected to slam areas from the Outer Banks of North Carolina to Long Island, New York, and heavy rains and high winds will extend well inland.",
+   "topics": [
+    "Rain & Flooding",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "37249f5a1771",
+   "title": "A unified framework for carbon dioxide removal—with an ocean view",
+   "url": "https://phys.org/news/2026-11-framework-carbon-dioxide-ocean-view.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-24T17:40:10Z",
+   "summary": "When it comes to reducing atmospheric carbon, most roads lead to the sea. That's only natural, since the ocean is Earth's largest accessible repository for CO₂.",
+   "topics": [
+    "Oceans & Sea Level",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "cad1bf8bb14a",
+   "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
+   "url": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-11-24T17:06:20Z",
+   "summary": "Following the close of COP31 in Antalya, Turkey, Carbon Brief’s journalists answered a range of questions in a CB Live… The post CB Live: Carbon Brief journalists discuss key COP31 outcomes appeared first on Carbon Brief .",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "e2cb5b31245b",
+   "title": "Ice near Antarctica's surface could unlock climate clues millions of years old",
+   "url": "https://phys.org/news/2026-11-ice-antarctica-surface-climate-clues.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-24T16:40:13Z",
+   "summary": "Some of the oldest clues to Earth's climate history lie surprisingly close to Antarctica's surface. Researchers at the Vrije Universiteit Brussel (VUB) are exploring the potential of these ancient archives, with a new scientific perspective coinciding with two Antarctic field expeditions.",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "7855a7b6de8f",
+   "title": "COP31: Key outcomes for food, forests, oceans and nature at the UN climate talks in Antalya",
+   "url": "https://www.carbonbrief.org/cop31-key-outcomes-for-food-forests-oceans-and-nature-at-the-un-climate-talks-in-antalya",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-11-24T16:33:18Z",
+   "summary": "The COP31 climate talks in Antalya, Turkey, failed to agree on a “pact” that – despite making no clear reference… The post COP31: Key outcomes for food, forests, oceans and nature at the UN climate talks in Antalya appeared first on Carbon Brief .",
+   "topics": [
+    "Oceans & Sea Level",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "49f60efadd84",
+   "title": "Lightning could strike more than twice as often in a warming world",
+   "url": "https://phys.org/news/2026-11-lightning-world.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-24T14:00:01Z",
+   "summary": "Besides fires and floods, droughts and storms, another type of extreme weather may be getting more common due to climate change: lightning.",
+   "topics": [
+    "Rain & Flooding",
+    "Drought & Water",
+    "Wildfire & Smoke",
+    "Severe Storms"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "1950e6169d00",
+   "title": "Hurricane season wrap-up: El Nino fueled record number of Pacific storms but calmed Atlantic",
+   "url": "https://www.noaa.gov/news-release/hurricane-season-wrap-up-el-nino-fueled-record-number-of-pacific-storms-but-calmed-atlantic",
+   "source": "NOAA News",
+   "kind": "news",
+   "published": "2026-11-24T13:39:35Z",
+   "summary": "",
+   "topics": [
+    "Hurricanes & Tropical",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "fc71b6840d1c",
+   "title": "Orographic and Thermal Regulation of Quasi-biweekly Summer Rainfall over Southeastern China by the Tibetan Plateau",
+   "url": "https://doi.org/10.1175/jcli-d-26-0342.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-24T13:23:26Z",
+   "summary": "Using multi-year observational and reanalysis data along with simulations from the Global Monsoon Model Intercomparison Project, this study disentangles the distinct yet complementary roles of the orographic and thermal forcings of the Tibetan Plateau (TP) in regulating downstream quasi-biweekly…",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "2ff4303c8278",
+   "title": "An Object-Based Climatology of MJO Types",
+   "url": "https://doi.org/10.1175/jcli-d-26-0269.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-24T13:23:25Z",
+   "summary": "This study introduces an object-based method for identifying individual Madden–Julian Oscillation (MJO) events and applies it to 45 years of ERA5 reanalysis precipitation.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "24ef0163cde3",
+   "title": "Indigenous communities push back against mining for clean energy",
+   "url": "https://yaleclimateconnections.org/2026/11/indigenous-communities-push-back-against-mining-for-clean-energy/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-24T12:00:00Z",
+   "summary": "At COP31, Indigenous representatives warned that growing demand for lithium and uranium is threatening their lands, water, and rights.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "b0a296238996",
+   "title": "Transmission bottlenecks are holding up wind and solar projects",
+   "url": "https://yaleclimateconnections.org/2026/11/transmission-bottlenecks-are-holding-up-wind-and-solar-projects/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-24T11:59:00Z",
+   "summary": "Long waits to connect new energy projects to the grid are slowing the expansion of renewable electricity in the U.S.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "e4af04800e59",
+   "title": "California braces for triple flooding threat of huge tides, El Niño, warm oceans",
+   "url": "https://phys.org/news/2026-11-california-braces-triple-threat-huge.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-24T10:52:02Z",
+   "summary": "Exceptionally high tides and El Niño-fueled weather were threatening the California coast with possibly extreme flooding during the busiest U.S. travel week of the year.",
+   "topics": [
+    "Rain & Flooding",
+    "Oceans & Sea Level",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "c871e71d7349",
+   "title": "Earth's next ice age may have already begun. Global warming stopped it",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-11-24T09:29:15Z",
+   "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming.",
+   "topics": [],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "b5b507248c53",
+   "title": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-11-24T01:36:51Z",
+   "summary": "Earth’s journey from an oxygen-starved world to a planet capable of supporting complex life may have unfolded very differently than scientists once believed.",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
    "id": "1ff75e47b707",
    "title": "Satellite observations show how rain breaks up Earth's natural sunshades",
    "url": "https://phys.org/news/2026-11-satellite-earth-natural-sunshades.html",
@@ -307,6 +510,19 @@
    "first_seen": "2026-11-23T22:24:30Z"
   },
   {
+   "id": "370f50ec7188",
+   "title": "Canyon‐Trapped Topographic Rossby Waves and Their Role in Antarctic Bottom Water Formation off Cape Darnley",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126492?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-23T10:39:39Z",
+   "summary": "",
+   "topics": [
+    "Ice & Polar"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
    "id": "f64182916e48",
    "title": "UK digging new reservoirs to fight persistent droughts",
    "url": "https://phys.org/news/2026-11-uk-reservoirs-persistent-droughts.html",
@@ -318,6 +534,19 @@
     "Drought & Water"
    ],
    "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "2e3dfe7e09d3",
+   "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
+   "source": "ScienceDaily",
+   "kind": "news",
+   "published": "2026-11-23T05:53:36Z",
+   "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-24T20:58:10Z"
   },
   {
    "id": "069de2a3a729",
@@ -5686,7 +5915,7 @@
   },
   {
    "id": "a7414943e5c0",
-   "title": "From A-Train to EarthCARE: a workshop on advancing science with multi-deca-dal satellite observations of aerosols, clouds, precipitation, and radiation",
+   "title": "From A-Train to EarthCARE: A Workshop on Advancing Science with Multidecadal Satellite Observations of Aerosols, Clouds, Precipitation, and Radiation",
    "url": "https://doi.org/10.1175/bams-d-26-0316.1",
    "source": "Bulletin of the AMS",
    "kind": "research",
@@ -10419,7 +10648,7 @@
    "source": "Bulletin of the AMS",
    "kind": "research",
    "published": "2026-10-06T10:25:18Z",
-   "summary": "Over 3,000 volunteers monitored the skies making aviation related weather observations, tracking airplanes and collecting ground-based airplane and contrail type information.",
+   "summary": "Over 3000 volunteers monitored the skies, making aviation-related weather observations, tracking airplanes, and collecting ground-based airplane and contrail-type information. More than 1300 commercial airplanes were identified on four separate Saturdays (April–July) during 4-h observing events.",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
@@ -11081,103 +11310,6 @@
    "topics": [
     "Snow & Winter"
    ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "3feacef18f3c",
-   "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
-   "url": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
-   "source": "Carbon Brief",
-   "kind": "news",
-   "published": "2026-09-22T15:14:21Z",
-   "summary": "For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures. The world’s oceans… The post Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature appeared first on Carbon Brief .",
-   "topics": [
-    "Oceans & Sea Level",
-    "Emissions & Policy"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "8a83121560de",
-   "title": "Research Priorities for Robust Climate Assessments in the United States",
-   "url": "https://doi.org/10.1175/bams-d-26-0305.1",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-22T14:51:15Z",
-   "summary": "Scientific assessments play a critical role in synthesizing evidence to support evidence-based decision-making in many sectors and topics. For climate change, large-scale assessments like the Intergovernmental Panel on Climate Change (IPCC) and the U.S.",
-   "topics": [
-    "Emissions & Policy"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "4488098c790f",
-   "title": "Seasonal Linkages between the MJO and Dominant Extratropical Modes through Rossby Wave Source",
-   "url": "https://doi.org/10.1175/jcli-d-25-0422.1",
-   "source": "Journal of Climate",
-   "kind": "research",
-   "published": "2026-09-22T13:14:48Z",
-   "summary": "The Madden–Julian oscillation (MJO) is a tropical, intraseasonal phenomenon that generates teleconnections like the Pacific North American pattern in boreal winter, but knowledge about MJO teleconnections in other seasons is limited.",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "e49b66cb68e4",
-   "title": "Springtime Soil Moisture Teleconnections Drive Summertime Warming in the Western United States",
-   "url": "https://doi.org/10.1175/jcli-d-25-0459.1",
-   "source": "Journal of Climate",
-   "kind": "research",
-   "published": "2026-09-22T13:14:46Z",
-   "summary": "A prior study observed that regional variations in springtime soil moisture over the American Southwest are associated with distal summertime temperature and precipitation anomalies across the western United States.",
-   "topics": [
-    "Rain & Flooding"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "2d52a3843dcd",
-   "title": "How Regional SST Shapes Saharan Near-Surface Temperature: Sensitivity and Dynamical Mechanisms",
-   "url": "https://doi.org/10.1175/jcli-d-26-0235.1",
-   "source": "Journal of Climate",
-   "kind": "research",
-   "published": "2026-09-22T13:14:44Z",
-   "summary": "The Sahara Desert has undergone substantial near-surface warming during the boreal warm season (June–November) in recent decades. Previous studies have suggested that historical and future Saharan warming is largely controlled by sea surface temperature (SST) changes.",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "a2287def9930",
-   "title": "This new concrete is stronger and pulls CO2 from the air",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-09-22T11:46:55Z",
-   "summary": "Researchers have created a concrete mixture that is both stronger and capable of absorbing carbon dioxide. The best formula, combining zeolite with bamboo biochar, boosted compressive strength by 7.48% and tensile strength by 15% compared with conventional concrete.",
-   "topics": [
-    "Emissions & Policy"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "53cfad308158",
-   "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-09-22T08:32:08Z",
-   "summary": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic gases.",
-   "topics": [],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "412330a7ad8c",
-   "title": "Scientists discover first new penguin species in more than 100 years",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-09-22T03:11:46Z",
-   "summary": "Genetic evidence has revealed a previously unknown gentoo penguin species on the remote Kerguelen Islands and shown that gentoos actually consist of four distinct species.",
-   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   }
  ]
