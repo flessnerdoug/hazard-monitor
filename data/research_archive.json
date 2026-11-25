@@ -1,6 +1,262 @@
 {
  "items": [
   {
+   "id": "07004a0a1457",
+   "title": "King tides bring record coastal flooding to California",
+   "url": "https://yaleclimateconnections.org/2026/11/king-tides-bring-record-coastal-flooding-to-california/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-25T19:51:10Z",
+   "summary": "The highest coastal water levels in over a century of record-keeping occurred in both San Diego and Los Angeles today, beating the records set just last month.",
+   "topics": [
+    "Rain & Flooding",
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "0d69cf252d71",
+   "title": "Without marine life, atmospheric CO₂ would shoot up by up to 65% by the end of the century",
+   "url": "https://phys.org/news/2026-11-marine-life-atmospheric-century.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-25T19:30:01Z",
+   "summary": "Without marine organisms transporting carbon into the deep ocean, the accumulation of carbon dioxide in the atmosphere would be drastically higher in the year 2100, reaching levels between 35% and 65% higher than projected.",
+   "topics": [
+    "Oceans & Sea Level",
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "73bc8bf76cbe",
+   "title": "Mapping the uncharted plate tectonic cycle: The hidden path from plate destruction to new oceanic crust",
+   "url": "https://phys.org/news/2026-11-uncharted-plate-tectonic-hidden-path.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-25T19:00:42Z",
+   "summary": "Since the discovery of plate tectonics, the ultimate fate of the massive plates that sink into Earth's interior mantle at subduction zones has remained a major geological quest.",
+   "topics": [
+    "Oceans & Sea Level"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "432b20193456",
+   "title": "New England's summer thunderstorms grow shorter and heavier, raising flash flood risk",
+   "url": "https://phys.org/news/2026-11-england-summer-thunderstorms-shorter-heavier.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-25T19:00:38Z",
+   "summary": "A growing share of New England's summer rain is falling in the form of heavy, heat-related showers and thunderstorms, raising the risk of flash flooding events across the region as the climate continues to warm.",
+   "topics": [
+    "Heat",
+    "Rain & Flooding",
+    "Severe Storms"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "089e9320604b",
+   "title": "Global ocean iodine won't offset future air pollution, study warns",
+   "url": "https://phys.org/news/2026-11-global-ocean-iodine-wont-offset.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-25T19:00:06Z",
+   "summary": "The world's oceans will not play the role of scrubbing harmful ozone pollution from the atmosphere as the planet warms in the way that was expected, new research suggests.",
+   "topics": [
+    "Oceans & Sea Level",
+    "Air Quality"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "6f14a34d15eb",
+   "title": "Un “Nor’easter” durante el Día de Acción de Gracias traerá vientos huracanados, lluvias torrenciales y niveles del agua cercanos a máximos históricos",
+   "url": "https://yaleclimateconnections.org/2026/11/un-noreaster-durante-el-dia-de-accion-de-gracias-traera-vientos-huracanados-lluvias-torrenciales-y-niveles-del-agua-cercanos-a-maximos-historicos/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-25T17:37:07Z",
+   "summary": "Se esperan graves inundaciones costeras que azotarán zonas desde los Outer Banks de Carolina del Norte hasta Long Island, Nueva York, mientras que las lluvias intensas y los fuertes vientos se extenderán mucho más allá de la costa, afectando también a regiones del interior.",
+   "topics": [],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "c6f6a2998227",
+   "title": "Media reaction: Who is to blame for COP31 ‘failure’?",
+   "url": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
+   "source": "Carbon Brief",
+   "kind": "news",
+   "published": "2026-11-25T16:09:13Z",
+   "summary": "COP31 came to a dramatic close last weekend when a coalition of nations rejected the proposed “Antalya pact”, citing its… The post Media reaction: Who is to blame for COP31 ‘failure’? appeared first on Carbon Brief .",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "11c3395a6047",
+   "title": "Companies are getting less accurate data on extreme weather just when they need it the most",
+   "url": "https://phys.org/news/2026-11-companies-accurate-extreme-weather.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-25T16:00:06Z",
+   "summary": "The extreme weather fueled by an unusually intense El Niño has caused flooding in low-lying Florida communities, hammered the California coast and upended hurricane patterns—just to name a few examples.",
+   "topics": [
+    "Hurricanes & Tropical",
+    "Rain & Flooding",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "f22869e80488",
+   "title": "Evaluating the Energetic Framework of Seasonal ITCZ Shifts Across Reanalyses and Computational Methods",
+   "url": "https://doi.org/10.1175/jcli-d-25-0745.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-25T15:03:17Z",
+   "summary": "The energetic framework of the intertropical convergence zone (ITCZ) relates shifts of the annual-mean ITCZ latitude to changes in atmospheric energy transport (AET), but its applicability to seasonal variations of the ITCZ latitude remains unclear.",
+   "topics": [],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "32e500a4de9d",
+   "title": "Future Changes in ENSO Modulation of the Ocean Coupling Potential Intensity of Tropical Cyclones over the Western North Pacific",
+   "url": "https://doi.org/10.1175/jcli-d-26-0281.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-25T15:03:16Z",
+   "summary": "Anthropogenic warming may alter the El Niño–Southern Oscillation (ENSO) modulation of the tropical cyclone thermodynamic intensity limit over the western North Pacific (WNP).",
+   "topics": [
+    "Hurricanes & Tropical",
+    "Oceans & Sea Level",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "4d80ee559ca7",
+   "title": "How does event duration modulate the scaling of precipitation accumulation extremes with water vapor over Europe?",
+   "url": "https://doi.org/10.1175/jcli-d-26-0053.1",
+   "source": "Journal of Climate",
+   "kind": "research",
+   "published": "2026-11-25T15:03:11Z",
+   "summary": "Extreme precipitation events can cause devastating floods and societal impacts, but the physical controls on how atmospheric moisture and event duration combine to set the largest accumulations remain poorly understood.",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "0329c4ca73d9",
+   "title": "Low-interest loans help Vermont towns recover from devastating floods",
+   "url": "https://yaleclimateconnections.org/2026/11/low-interest-loans-help-vermont-towns-recover-from-devastating-floods/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-25T11:59:00Z",
+   "summary": "The Vermont Bond Bank launched a climate recovery fund to help municipalities cover infrastructure repairs after extreme weather.",
+   "topics": [
+    "Rain & Flooding",
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "41b5c20f0724",
+   "title": "California braces for flooding threat from huge tides, El Niño",
+   "url": "https://phys.org/news/2026-11-california-braces-threat-huge-tides.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-25T11:40:04Z",
+   "summary": "Californians are preparing for a confluence of exceptionally high tides and El Niño-fueled weather that threatens coastal areas with extreme flooding during the busiest U.S. travel week of the year.",
+   "topics": [
+    "Rain & Flooding",
+    "Oceans & Sea Level",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "570139787165",
+   "title": "Adapting minds to live with climate change",
+   "url": "https://doi.org/10.1038/s41558-026-02804-9",
+   "source": "Nature Climate Change",
+   "kind": "research",
+   "published": "2026-11-25T10:03:38Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "95912db777de",
+   "title": "A research agenda for integrating artificial intelligence in mitigation scenario workflows",
+   "url": "https://doi.org/10.1038/s41558-026-02801-y",
+   "source": "Nature Climate Change",
+   "kind": "research",
+   "published": "2026-11-25T10:03:31Z",
+   "summary": "",
+   "topics": [
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "f28892b236c6",
+   "title": "Not everything that sounds plausible works: Testing ideas to win support for carbon pricing",
+   "url": "https://phys.org/news/2026-11-plausible-ideas-carbon-pricing.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-25T10:00:02Z",
+   "summary": "What makes people support a carbon price? To find out, 108 researchers, led by a research team at the University of Innsbruck, Austria, tested 55 different ideas at the same time, from information campaigns to reflection tasks.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "e439ebc00001",
+   "title": "Hurricane season wrap-up: El Niño fueled record number of Pacific storms but calmed Atlantic",
+   "url": "https://phys.org/news/2026-11-hurricane-season-el-nio-fueled.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-25T02:20:01Z",
+   "summary": "The 2026 hurricane season, which officially ends on Nov. 30, will be remembered as a year of contrasts between the Atlantic and Pacific, a classic indication of a hurricane season influenced by a very strong El Niño.",
+   "topics": [
+    "Hurricanes & Tropical",
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "4c5204e3f313",
+   "title": "Carbon-rich soil near old oaks does not attract more earthworms, study finds",
+   "url": "https://phys.org/news/2026-11-carbon-rich-soil-oaks-earthworms.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-24T23:10:02Z",
+   "summary": "Solitary oaks in traditional Romanian wood pastures create islands of carbon-rich soil around their trunks. However, a research team led by the Universities of Göttingen and Hildesheim found this does not mean more earthworms.",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "7cd1fd66b946",
+   "title": "Researchers reveal inner-core structural evolution of Typhoon Bavi using multisensor satellite observations",
+   "url": "https://phys.org/news/2026-11-reveal-core-evolution-typhoon-bavi.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-24T21:40:09Z",
+   "summary": "Tropical cyclones frequently undergo rapid, complex structural changes within their inner cores, such as eyewall replacement and wind-field expansion, that strongly influence typhoon intensity and coastal hazards.",
+   "topics": [
+    "Hurricanes & Tropical",
+    "Oceans & Sea Level",
+    "Forecasting & AI"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
    "id": "0c81dba03164",
    "title": "Thanksgiving week weather: Potent coastal storms, rain and snow to impact travel",
    "url": "https://www.noaa.gov/news/thanksgiving-week-weather-potent-coastal-storms-rain-and-snow-to-impact-travel",
@@ -113,6 +369,19 @@
    "first_seen": "2026-11-24T20:58:10Z"
   },
   {
+   "id": "942c5eeaaece",
+   "title": "Origins of the North Pacific Meridional Mode Determine Its Distinct Impacts on ENSO",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL127450?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-24T13:23:41Z",
+   "summary": "",
+   "topics": [
+    "El Niño & La Niña"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
    "id": "fc71b6840d1c",
    "title": "Orographic and Thermal Regulation of Quasi-biweekly Summer Rainfall over Southeastern China by the Tibetan Plateau",
    "url": "https://doi.org/10.1175/jcli-d-26-0342.1",
@@ -137,6 +406,46 @@
     "Rain & Flooding"
    ],
    "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "4aeab1efe97d",
+   "title": "Future Phenology of Chinese Vegetation Is Mediated by Hot Drought Extremes",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126490?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-24T13:00:26Z",
+   "summary": "",
+   "topics": [
+    "Drought & Water"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "b9fbb1f28535",
+   "title": "Disentangling CO2‐Driven Pathways of Future Dryland Change: Contrasting Climate Forcing and Direct Physiological Effects",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124625?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-24T12:52:56Z",
+   "summary": "",
+   "topics": [
+    "Emissions & Policy"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "0a1185077dec",
+   "title": "Agricultural Fallowing Drives Extreme Anthropogenic Dust and Visibility Degradation During the October 2021 Dust Event in California’s Central Valley",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123563?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-24T12:45:35Z",
+   "summary": "",
+   "topics": [
+    "Air Quality",
+    "Health & Society"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
   },
   {
    "id": "24ef0163cde3",
@@ -165,6 +474,17 @@
    "first_seen": "2026-11-24T20:58:10Z"
   },
   {
+   "id": "d769102e77bc",
+   "title": "Increasing Spatial Unevenness of Dry‐Wet Conditions With Global Warming",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124797?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-24T11:00:42Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
    "id": "e4af04800e59",
    "title": "California braces for triple flooding threat of huge tides, El Niño, warm oceans",
    "url": "https://phys.org/news/2026-11-california-braces-triple-threat-huge.html",
@@ -178,6 +498,33 @@
     "El Niño & La Niña"
    ],
    "first_seen": "2026-11-24T20:58:10Z"
+  },
+  {
+   "id": "ceb4fa85743a",
+   "title": "Two Core Periods of Interdecadal Reduced Summer Precipitation Over the Middle and Lower Yangtze River Basin in the Early 21st Century",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125441?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-24T10:41:44Z",
+   "summary": "",
+   "topics": [
+    "Rain & Flooding"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
+  },
+  {
+   "id": "db35eb59f57a",
+   "title": "Particulate Nitrate Photolysis Alters the Atmospheric Chemistry Response to Marine Cloud Brightening Sea Salt Aerosol Emissions",
+   "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126407?af=R",
+   "source": "Geophysical Research Letters",
+   "kind": "research",
+   "published": "2026-11-24T10:21:56Z",
+   "summary": "",
+   "topics": [
+    "Emissions & Policy",
+    "Air Quality"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
   },
   {
    "id": "c871e71d7349",
@@ -204,25 +551,12 @@
    "first_seen": "2026-11-24T20:58:10Z"
   },
   {
-   "id": "1ff75e47b707",
-   "title": "Satellite observations show how rain breaks up Earth's natural sunshades",
-   "url": "https://phys.org/news/2026-11-satellite-earth-natural-sunshades.html",
-   "source": "Phys.org",
-   "kind": "news",
-   "published": "2026-11-23T21:40:06Z",
-   "summary": "Delivering on its promise, the European Space Agency's EarthCARE satellite is already yielding new insights into the role that clouds play in regulating Earth's climate.",
-   "topics": [
-    "Forecasting & AI"
-   ],
-   "first_seen": "2026-11-23T22:24:30Z"
-  },
-  {
    "id": "0c199cd1d185",
    "title": "A new simple and accurate measure of baroclinicity in the North Atlantic storm track",
    "url": "https://doi.org/10.5194/wcd-7-2267-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-23T21:30:13Z",
+   "published": "2026-11-23T22:06:03Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-23T22:24:30Z"
@@ -233,9 +567,22 @@
    "url": "https://doi.org/10.5194/wcd-7-2277-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-23T21:30:13Z",
+   "published": "2026-11-23T22:06:03Z",
    "summary": "",
    "topics": [],
+   "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "1ff75e47b707",
+   "title": "Satellite observations show how rain breaks up Earth's natural sunshades",
+   "url": "https://phys.org/news/2026-11-satellite-earth-natural-sunshades.html",
+   "source": "Phys.org",
+   "kind": "news",
+   "published": "2026-11-23T21:40:06Z",
+   "summary": "Delivering on its promise, the European Space Agency's EarthCARE satellite is already yielding new insights into the role that clouds play in regulating Earth's climate.",
+   "topics": [
+    "Forecasting & AI"
+   ],
    "first_seen": "2026-11-23T22:24:30Z"
   },
   {
@@ -497,6 +844,19 @@
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-23T22:24:30Z"
+  },
+  {
+   "id": "2535b9a45fa0",
+   "title": "Pasos para comunicarse con la comunidad sorda de Puerto Rico",
+   "url": "https://yaleclimateconnections.org/2026/11/pasos-para-comunicarse-con-la-comunidad-sorda-de-puerto-rico/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-23T12:00:00Z",
+   "summary": "Entre ellos se encuentra reconocer su derecho a la inclusión",
+   "topics": [
+    "Severe Storms"
+   ],
+   "first_seen": "2026-11-25T20:20:42Z"
   },
   {
    "id": "51e2a8faba80",
@@ -2707,6 +3067,17 @@
    "first_seen": "2026-11-13T18:20:25Z"
   },
   {
+   "id": "89d9d83ace10",
+   "title": "Two distinct modes of North American spring temperature evolution shaped by tropical SST regimes and midlatitude circulation",
+   "url": "https://doi.org/10.5194/wcd-7-2251-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-11-12T22:06:03Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-11-12T18:40:19Z"
+  },
+  {
    "id": "8723a44b8c40",
    "title": "Wood stove experiment reveals how wildfire smoke helps sunlight regenerate nitrogen oxides",
    "url": "https://phys.org/news/2026-11-wood-stove-reveals-wildfire-sunlight.html",
@@ -2734,17 +3105,6 @@
     "Health & Society"
    ],
    "first_seen": "2026-11-13T18:20:25Z"
-  },
-  {
-   "id": "89d9d83ace10",
-   "title": "Two distinct modes of North American spring temperature evolution shaped by tropical SST regimes and midlatitude circulation",
-   "url": "https://doi.org/10.5194/wcd-7-2251-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-11-12T21:30:13Z",
-   "summary": "",
-   "topics": [],
-   "first_seen": "2026-11-12T18:40:19Z"
   },
   {
    "id": "7fbf2f53eced",
@@ -3695,7 +4055,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2229-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T21:30:13Z",
+   "published": "2026-11-09T22:06:03Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-09T21:15:19Z"
@@ -3706,7 +4066,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2213-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T21:30:13Z",
+   "published": "2026-11-09T22:06:03Z",
    "summary": "",
    "topics": [
     "Ice & Polar"
@@ -3719,7 +4079,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2193-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-09T21:30:13Z",
+   "published": "2026-11-09T22:06:03Z",
    "summary": "",
    "topics": [
     "Rain & Flooding"
@@ -4057,7 +4417,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2171-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-06T21:30:13Z",
+   "published": "2026-11-06T22:06:03Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-11-06T17:47:45Z"
@@ -4442,23 +4802,12 @@
    "first_seen": "2026-11-06T17:47:45Z"
   },
   {
-   "id": "e8ad38c864f4",
-   "title": "Las elecciones de mitad de mandato muestran que los latinos podrían ser una fuerza poderosa en materia climática",
-   "url": "https://yaleclimateconnections.org/2026/11/oigan-politicos-esta-bien-hablar-sobre-el-cambio-climatico/",
-   "source": "Yale Climate Connections",
-   "kind": "news",
-   "published": "2026-11-05T22:03:32Z",
-   "summary": "Los votantes latinos están preocupados por el cambio climático y se encuentran entre los más confiados en su capacidad para generar cambios políticos.",
-   "topics": [],
-   "first_seen": "2026-11-06T17:47:45Z"
-  },
-  {
    "id": "fc109bd6bc27",
    "title": "Co-occurrence of atmospheric deserts over Europe with strong positive temperature anomalies, thunderstorms, and dust events",
    "url": "https://doi.org/10.5194/wcd-7-2133-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-05T21:30:13Z",
+   "published": "2026-11-05T22:06:03Z",
    "summary": "",
    "topics": [
     "Severe Storms",
@@ -4472,12 +4821,23 @@
    "url": "https://doi.org/10.5194/wcd-7-2155-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-11-05T21:30:13Z",
+   "published": "2026-11-05T22:06:03Z",
    "summary": "",
    "topics": [
     "Oceans & Sea Level"
    ],
    "first_seen": "2026-11-05T18:27:58Z"
+  },
+  {
+   "id": "e8ad38c864f4",
+   "title": "Las elecciones de mitad de mandato muestran que los latinos podrían ser una fuerza poderosa en materia climática",
+   "url": "https://yaleclimateconnections.org/2026/11/oigan-politicos-esta-bien-hablar-sobre-el-cambio-climatico/",
+   "source": "Yale Climate Connections",
+   "kind": "news",
+   "published": "2026-11-05T22:03:32Z",
+   "summary": "Los votantes latinos están preocupados por el cambio climático y se encuentran entre los más confiados en su capacidad para generar cambios políticos.",
+   "topics": [],
+   "first_seen": "2026-11-06T17:47:45Z"
   },
   {
    "id": "ac2cb37f753d",
@@ -5843,7 +6203,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2107-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-30T21:30:13Z",
+   "published": "2026-10-30T22:06:03Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-30T16:55:19Z"
@@ -6125,7 +6485,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2087-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-29T21:30:13Z",
+   "published": "2026-10-29T22:06:03Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical"
@@ -8384,6 +8744,17 @@
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
+   "id": "ad544b6c57fd",
+   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
+   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
+   "source": "Weather and Climate Dynamics",
+   "kind": "research",
+   "published": "2026-10-20T21:06:03Z",
+   "summary": "",
+   "topics": [],
+   "first_seen": "2026-10-21T01:46:18Z"
+  },
+  {
    "id": "f642fda1f506",
    "title": "Tofu is the winner. Scientist creates new holistic scoring system to measure the impact of food",
    "url": "https://phys.org/news/2026-10-tofu-winner-scientist-holistic-scoring.html",
@@ -8407,17 +8778,6 @@
    "topics": [
     "Oceans & Sea Level"
    ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "ad544b6c57fd",
-   "title": "Grid-spacing sensitivity of Rossby wave breaking to mesoscale diabatic processes",
-   "url": "https://doi.org/10.5194/wcd-7-2065-2026",
-   "source": "Weather and Climate Dynamics",
-   "kind": "research",
-   "published": "2026-10-20T20:30:13Z",
-   "summary": "",
-   "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
   },
   {
@@ -9874,7 +10234,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2015-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:30:13Z",
+   "published": "2026-10-14T21:06:03Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -9885,7 +10245,7 @@
    "url": "https://doi.org/10.5194/wcd-7-2043-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-14T20:30:13Z",
+   "published": "2026-10-14T21:06:03Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -10042,7 +10402,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1995-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:30:13Z",
+   "published": "2026-10-13T21:06:03Z",
    "summary": "",
    "topics": [
     "Air Quality"
@@ -10055,7 +10415,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1977-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-13T20:30:13Z",
+   "published": "2026-10-13T21:06:03Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -10608,7 +10968,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1951-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-10-06T20:30:13Z",
+   "published": "2026-10-06T21:06:03Z",
    "summary": "",
    "topics": [],
    "first_seen": "2026-10-21T01:46:18Z"
@@ -10815,7 +11175,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1919-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-30T20:30:13Z",
+   "published": "2026-09-30T21:06:03Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -10904,7 +11264,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1899-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:30:13Z",
+   "published": "2026-09-29T21:06:03Z",
    "summary": "",
    "topics": [
     "Hurricanes & Tropical",
@@ -10918,7 +11278,7 @@
    "url": "https://doi.org/10.5194/wcd-7-1875-2026",
    "source": "Weather and Climate Dynamics",
    "kind": "research",
-   "published": "2026-09-29T20:30:13Z",
+   "published": "2026-09-29T21:06:03Z",
    "summary": "",
    "topics": [
     "Heat"
@@ -11216,99 +11576,6 @@
    "summary": "The Cascadia subduction zone and northern San Andreas fault may sometimes rupture in rapid succession, according to evidence preserved in 3,100 years of ocean sediments.",
    "topics": [
     "Oceans & Sea Level"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "f1e21bc2b4ca",
-   "title": "A Proof of Concept for Rapid Evaluation of Urban Climate Adaptations Using Simplified Simulations over an Indian City",
-   "url": "https://doi.org/10.1175/bams-d-25-0197.1",
-   "source": "Bulletin of the AMS",
-   "kind": "research",
-   "published": "2026-09-23T15:20:46Z",
-   "summary": "The 2024 Indian heat waves highlighted the vulnerability of urban populations to extreme temperatures and related health risks.",
-   "topics": [
-    "Heat",
-    "Health & Society"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "ec4b3aee91f2",
-   "title": "These tropical trees breathe at night to survive drought",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260922005712.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-09-23T12:05:24Z",
-   "summary": "Some tropical trees have evolved a clever way to survive drought by taking in carbon dioxide at night, allowing them to keep their pores closed during the hot daytime and conserve water.",
-   "topics": [
-    "Drought & Water",
-    "Emissions & Policy"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "8aca4126b4c1",
-   "title": "The Arctic sea ice melt season grew longer for decades, but something strange happened around 2010",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260922005658.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-09-23T11:39:23Z",
-   "summary": "The Arctic sea ice melt season is roughly 40 days longer than it was in 1979, yet its rapid expansion unexpectedly leveled off around 2010.",
-   "topics": [
-    "Ice & Polar"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "3ba95e46deaf",
-   "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-09-23T10:26:41Z",
-   "summary": "Stonehenge’s six-ton Altar Stone may have been carried from Scotland to Dogger Bank by glaciers before prehistoric people transported it hundreds of kilometers to Salisbury Plain.",
-   "topics": [
-    "Ice & Polar"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "0843ee125c7f",
-   "title": "Earlier and faster heatwave onset on land under a warming climate",
-   "url": "https://doi.org/10.1038/s41558-026-02762-2",
-   "source": "Nature Climate Change",
-   "kind": "research",
-   "published": "2026-09-23T09:02:21Z",
-   "summary": "",
-   "topics": [
-    "Heat"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "a6f1756b5db8",
-   "title": "Scientists say a critical Atlantic Ocean current is weakening and the effects could be global",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260922222558.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-09-23T05:09:29Z",
-   "summary": "Scientists have found strong observational evidence that a key part of the Atlantic Meridional Overturning Circulation has been weakening across a wide stretch of ocean for nearly two decades.",
-   "topics": [
-    "Oceans & Sea Level"
-   ],
-   "first_seen": "2026-10-21T01:46:18Z"
-  },
-  {
-   "id": "8a3408ffb6fe",
-   "title": "One of America’s largest reservoirs just hit a record low",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm",
-   "source": "ScienceDaily",
-   "kind": "news",
-   "published": "2026-09-23T02:01:16Z",
-   "summary": "Lake Powell has fallen to its lowest level on record after an exceptionally dry and warm winter left the Colorado River Basin with little mountain snow to melt. Lake Mead also reached record lows, raising concerns for a river system that supplies water and power to more than 40 million people.",
-   "topics": [
-    "Snow & Winter"
    ],
    "first_seen": "2026-10-21T01:46:18Z"
   }
